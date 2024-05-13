@@ -41,7 +41,9 @@
         "colymba/gridfield-bulk-editing-tools": "4.x-dev",
         "tractorcow/silverstripe-fluent": "7.x-dev",
         "silverstripe/dynamodb": "5.x-dev",
-        "silverstripe/linkfield": "4.x-dev"
+        "silverstripe/linkfield": "4.x-dev",
+        "silverstripe/framework": "dev-pulls/5/alt-attribute-html as 5.x-dev",
+        "silverstripe/assets": "dev-pulls/2/render-image-unify as 2.x-dev"
     },
     "require-dev": {
         "silverstripe/frameworktest": "^1",
@@ -67,5 +69,9 @@
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": [
+        {"type": "github", "url": "git@github.com:creative-commoners/silverstripe-framework.git"},
+        {"type": "github", "url": "git@github.com:creative-commoners/silverstripe-assets.git"}
+    ]
 }
