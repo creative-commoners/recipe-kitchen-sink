@@ -71,7 +71,7 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
     "repositories": [
-        {"type": "github", "url": "git@github.com:creative-commoners/silverstripe-framework.git"},
-        {"type": "github", "url": "git@github.com:creative-commoners/silverstripe-assets.git"}
+        {"type": "github", "url": "https://github.com/creative-commoners/silverstripe-framework.git"},
+        {"type": "github", "url": "https://github.com/creative-commoners/silverstripe-assets.git"}
     ]
 }
