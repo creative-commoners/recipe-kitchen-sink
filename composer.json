@@ -58,6 +58,27 @@
         "public-files": [
             "assets/*",
             "favicon.ico"
+        ],
+        "project-files-installed": [
+            ".env.example",
+            ".graphql-generated/_manifest_exclude",
+            ".htaccess",
+            "app/.htaccess",
+            "app/_config/blog.yml",
+            "app/_config/contentblocks.yml",
+            "app/_config/mimevalidator.yml",
+            "app/_config/mysite.yml",
+            "app/_config/theme.yml",
+            "app/src/BlocksPage.php"
+        ],
+        "public-files-installed": [
+            ".htaccess",
+            "assets/.gitignore",
+            "assets/.htaccess",
+            "assets/web.config",
+            "favicon.ico",
+            "index.php",
+            "web.config"
         ]
     },
     "config": {
@@ -71,7 +92,13 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
     "repositories": [
-        {"type": "github", "url": "https://github.com/creative-commoners/silverstripe-framework.git"},
-        {"type": "github", "url": "https://github.com/creative-commoners/silverstripe-assets.git"}
+        {
+            "type": "github",
+            "url": "https://github.com/creative-commoners/silverstripe-framework.git"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/creative-commoners/silverstripe-assets.git"
+        }
     ]
 }
