@@ -42,7 +42,7 @@
         "tractorcow/silverstripe-fluent": "7.1.x-dev",
         "silverstripe/dynamodb": "5.0.x-dev",
         "silverstripe/linkfield": "4.0.x-dev",
-        "silverstripe/framework": "dev-fix-performReadonlyTransformation-for-lazyloaded-searchabledropdown as 5.2.x-dev"
+        "silverstripe/framework": "dev-fix-dbforeignkey-scaffolding as 5.2.x-dev"
     },
     "repositories": {
         "x1": {
