@@ -41,7 +41,14 @@
         "colymba/gridfield-bulk-editing-tools": "4.0.x-dev",
         "tractorcow/silverstripe-fluent": "7.1.x-dev",
         "silverstripe/dynamodb": "5.0.x-dev",
-        "silverstripe/linkfield": "4.0.x-dev"
+        "silverstripe/linkfield": "4.0.x-dev",
+        "silverstripe/framework": "dev-fix-performReadonlyTransformation-for-lazyloaded-searchabledropdown as 5.2.x-dev"
+    },
+    "repositories": {
+        "x1": {
+            "type": "vcs",
+            "url": "git@github.com:johannesx75/silverstripe-framework.git"
+        }
     },
     "require-dev": {
         "silverstripe/frameworktest": "^1",
