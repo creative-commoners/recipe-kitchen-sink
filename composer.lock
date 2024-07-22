@@ -7458,12 +7458,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-asset-admin.git",
-                "reference": "dac10e13bf2269bf269ceeadcf374336c0182f71"
+                "reference": "dca4bb007eac18fa2eda256c6d57a505df5649c4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-asset-admin/zipball/dac10e13bf2269bf269ceeadcf374336c0182f71",
-                "reference": "dac10e13bf2269bf269ceeadcf374336c0182f71",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-asset-admin/zipball/dca4bb007eac18fa2eda256c6d57a505df5649c4",
+                "reference": "dca4bb007eac18fa2eda256c6d57a505df5649c4",
                 "shasum": ""
             },
             "require": {
@@ -7505,7 +7505,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-asset-admin/issues",
                 "source": "https://github.com/silverstripe/silverstripe-asset-admin/tree/2"
             },
-            "time": "2024-06-21T03:00:51+00:00"
+            "time": "2024-07-22T04:16:11+00:00"
         },
         {
             "name": "silverstripe/assets",
