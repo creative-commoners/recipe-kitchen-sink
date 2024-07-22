@@ -7384,12 +7384,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "4140199da52feb78f95026e1f0ee947147214df7"
+                "reference": "7e4d882d024eb1f3246cca06ffa905d2b333f974"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/4140199da52feb78f95026e1f0ee947147214df7",
-                "reference": "4140199da52feb78f95026e1f0ee947147214df7",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/7e4d882d024eb1f3246cca06ffa905d2b333f974",
+                "reference": "7e4d882d024eb1f3246cca06ffa905d2b333f974",
                 "shasum": ""
             },
             "require": {
@@ -7450,7 +7450,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/2/always-inline-submit-elements"
             },
-            "time": "2024-07-19T00:02:55+00:00"
+            "time": "2024-07-22T02:35:21+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -11712,12 +11712,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-webauthn-authenticator.git",
-                "reference": "73271cd44eeb9728140a79b993b6e42026f481cf"
+                "reference": "d26071279b6fa711bac5b91805783ad60839dae2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-webauthn-authenticator/zipball/73271cd44eeb9728140a79b993b6e42026f481cf",
-                "reference": "73271cd44eeb9728140a79b993b6e42026f481cf",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-webauthn-authenticator/zipball/d26071279b6fa711bac5b91805783ad60839dae2",
+                "reference": "d26071279b6fa711bac5b91805783ad60839dae2",
                 "shasum": ""
             },
             "require": {
@@ -11762,7 +11762,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-webauthn-authenticator/issues",
                 "source": "https://github.com/silverstripe/silverstripe-webauthn-authenticator/tree/5"
             },
-            "time": "2024-06-20T03:23:02+00:00"
+            "time": "2024-07-22T02:29:14+00:00"
         },
         {
             "name": "sminnee/callbacklist",
