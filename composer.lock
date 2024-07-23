@@ -1570,16 +1570,16 @@
         },
         {
             "name": "cwp/cwp",
-            "version": "3.0.3",
+            "version": "3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/cwp.git",
-                "reference": "afd4a5217b6138ee50784d31c3e31321505c7982"
+                "reference": "6057ce5b67042d64279696faf9695feee7e8d42a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/cwp/zipball/afd4a5217b6138ee50784d31c3e31321505c7982",
-                "reference": "afd4a5217b6138ee50784d31c3e31321505c7982",
+                "url": "https://api.github.com/repos/silverstripe/cwp/zipball/6057ce5b67042d64279696faf9695feee7e8d42a",
+                "reference": "6057ce5b67042d64279696faf9695feee7e8d42a",
                 "shasum": ""
             },
             "require": {
@@ -1626,9 +1626,9 @@
             ],
             "support": {
                 "issues": "https://github.com/silverstripe/cwp/issues",
-                "source": "https://github.com/silverstripe/cwp/tree/3.0.3"
+                "source": "https://github.com/silverstripe/cwp/tree/3.0.4"
             },
-            "time": "2024-06-16T23:58:07+00:00"
+            "time": "2024-07-23T02:20:25+00:00"
         },
         {
             "name": "cwp/cwp-core",
@@ -7384,12 +7384,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "7e4d882d024eb1f3246cca06ffa905d2b333f974"
+                "reference": "ef32740246481b7beaa99941cb0a78423853eca7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/7e4d882d024eb1f3246cca06ffa905d2b333f974",
-                "reference": "7e4d882d024eb1f3246cca06ffa905d2b333f974",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/ef32740246481b7beaa99941cb0a78423853eca7",
+                "reference": "ef32740246481b7beaa99941cb0a78423853eca7",
                 "shasum": ""
             },
             "require": {
@@ -7450,7 +7450,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/2/always-inline-submit-elements"
             },
-            "time": "2024-07-22T02:35:21+00:00"
+            "time": "2024-07-23T03:59:25+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -8324,12 +8324,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-elemental-bannerblock.git",
-                "reference": "a3cd77cd17d51c4b2eca90bba10d36d2f666474d"
+                "reference": "1fcd812461cb576db92b83e5d6599206ce48f542"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-elemental-bannerblock/zipball/a3cd77cd17d51c4b2eca90bba10d36d2f666474d",
-                "reference": "a3cd77cd17d51c4b2eca90bba10d36d2f666474d",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-elemental-bannerblock/zipball/1fcd812461cb576db92b83e5d6599206ce48f542",
+                "reference": "1fcd812461cb576db92b83e5d6599206ce48f542",
                 "shasum": ""
             },
             "require": {
@@ -8374,7 +8374,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-elemental-bannerblock/issues",
                 "source": "https://github.com/silverstripe/silverstripe-elemental-bannerblock/tree/3"
             },
-            "time": "2024-06-20T02:44:04+00:00"
+            "time": "2024-07-23T02:25:23+00:00"
         },
         {
             "name": "silverstripe/elemental-fileblock",
@@ -9248,12 +9248,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-linkfield.git",
-                "reference": "1732f86d81b198e7c5b509168e53e9aba5be0e62"
+                "reference": "91b2b2e09c2064d6dbb785d374602c0cca2ee35b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-linkfield/zipball/1732f86d81b198e7c5b509168e53e9aba5be0e62",
-                "reference": "1732f86d81b198e7c5b509168e53e9aba5be0e62",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-linkfield/zipball/91b2b2e09c2064d6dbb785d374602c0cca2ee35b",
+                "reference": "91b2b2e09c2064d6dbb785d374602c0cca2ee35b",
                 "shasum": ""
             },
             "require": {
@@ -9305,7 +9305,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-linkfield/issues",
                 "source": "https://github.com/silverstripe/silverstripe-linkfield/tree/4"
             },
-            "time": "2024-07-22T02:16:27+00:00"
+            "time": "2024-07-23T02:20:41+00:00"
         },
         {
             "name": "silverstripe/login-forms",
