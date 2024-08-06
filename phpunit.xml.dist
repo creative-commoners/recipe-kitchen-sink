@@ -36,7 +36,6 @@
             <directory>vendor/silverstripe/registry/tests</directory>
             <directory>vendor/silverstripe/textextraction/tests</directory>
             <directory>vendor/tractorcow/silverstripe-fluent/tests</directory>
-            <directory>vendor/silverstripe/graphql/tests/</directory>
         </testsuite>
 
         <testsuite name="recipe-ccl">
@@ -109,6 +108,7 @@
             <directory>vendor/symbiote/silverstripe-gridfieldextensions/tests</directory>
             <directory>vendor/silverstripe/staticpublishqueue/tests</directory>
             <directory>vendor/silverstripe/linkfield/tests</directory>
+            <directory>vendor/silverstripe/graphql/tests/</directory>
         </testsuite>
     </testsuites>
 </phpunit>
