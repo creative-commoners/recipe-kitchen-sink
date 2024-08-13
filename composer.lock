@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ecb5526bcf297383ca4d052bc559d615",
+    "content-hash": "3fd6cf6d9304418b6e3272c5e7e597c4",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -602,16 +602,16 @@
         },
         {
             "name": "bringyourownideas/silverstripe-maintenance",
-            "version": "4.x-dev",
+            "version": "dev-pulls/4/mock-github",
             "source": {
                 "type": "git",
-                "url": "https://github.com/bringyourownideas/silverstripe-maintenance.git",
-                "reference": "5360f750ca91316a272265ed52b18c59ed9c91ea"
+                "url": "https://github.com/creative-commoners/silverstripe-maintenance.git",
+                "reference": "970d38afd1ba22db0518d8e9ca44c260f5861e1f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bringyourownideas/silverstripe-maintenance/zipball/5360f750ca91316a272265ed52b18c59ed9c91ea",
-                "reference": "5360f750ca91316a272265ed52b18c59ed9c91ea",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-maintenance/zipball/970d38afd1ba22db0518d8e9ca44c260f5861e1f",
+                "reference": "970d38afd1ba22db0518d8e9ca44c260f5861e1f",
                 "shasum": ""
             },
             "require": {
@@ -647,7 +647,6 @@
                     "BringYourOwnIdeas\\Maintenance\\Tests\\": "tests/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -669,9 +668,9 @@
             ],
             "support": {
                 "issues": "https://github.com/bringyourownideas/silverstripe-maintenance/issues",
-                "source": "https://github.com/bringyourownideas/silverstripe-maintenance/tree/4"
+                "source": "https://github.com/creative-commoners/silverstripe-maintenance/tree/pulls/4/mock-github"
             },
-            "time": "2024-08-07T04:49:53+00:00"
+            "time": "2024-08-13T07:30:21+00:00"
         },
         {
             "name": "colymba/gridfield-bulk-editing-tools",
@@ -8257,16 +8256,16 @@
         },
         {
             "name": "silverstripe/graphql",
-            "version": "6.x-dev",
+            "version": "dev-pulls/6/standalone",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-graphql.git",
-                "reference": "c783f5cc200d20d7a290118a7d342d73fd7166a2"
+                "url": "https://github.com/creative-commoners/silverstripe-graphql.git",
+                "reference": "949baec23a215bb82c69c5bee37bef4f97eb07b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-graphql/zipball/c783f5cc200d20d7a290118a7d342d73fd7166a2",
-                "reference": "c783f5cc200d20d7a290118a7d342d73fd7166a2",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-graphql/zipball/949baec23a215bb82c69c5bee37bef4f97eb07b0",
+                "reference": "949baec23a215bb82c69c5bee37bef4f97eb07b0",
                 "shasum": ""
             },
             "require": {
@@ -8300,16 +8299,22 @@
                     "SilverStripe\\GraphQL\\Tests\\": "tests/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "scripts": {
+                "lint": [
+                    "vendor/bin/phpcs src/ tests/"
+                ],
+                "lint-clean": [
+                    "vendor/bin/phpcbf src/ tests/"
+                ]
+            },
             "license": [
                 "BSD-3-Clause"
             ],
             "description": "GraphQL server for SilverStripe models and other data",
             "support": {
-                "issues": "https://github.com/silverstripe/silverstripe-graphql/issues",
-                "source": "https://github.com/silverstripe/silverstripe-graphql/tree/6"
+                "source": "https://github.com/creative-commoners/silverstripe-graphql/tree/pulls/6/standalone"
             },
-            "time": "2024-08-05T01:37:08+00:00"
+            "time": "2024-08-13T06:59:45+00:00"
         },
         {
             "name": "silverstripe/graphql-devtools",
@@ -14914,6 +14919,12 @@
     "packages-dev": [],
     "aliases": [
         {
+            "package": "bringyourownideas/silverstripe-maintenance",
+            "version": "dev-pulls/4/mock-github",
+            "alias": "4.x-dev",
+            "alias_normalized": "4.9999999.9999999.9999999-dev"
+        },
+        {
             "package": "dnadesign/silverstripe-elemental",
             "version": "dev-pulls/6/standardise-endpoints",
             "alias": "6.x-dev",
@@ -14948,6 +14959,12 @@
             "version": "dev-pulls/2/remove-graphql",
             "alias": "2.x-dev",
             "alias_normalized": "2.9999999.9999999.9999999-dev"
+        },
+        {
+            "package": "silverstripe/graphql",
+            "version": "dev-pulls/6/standalone",
+            "alias": "6.x-dev",
+            "alias_normalized": "6.9999999.9999999.9999999-dev"
         },
         {
             "package": "silverstripe/installer",
@@ -15024,7 +15041,9 @@
         "dnadesign/silverstripe-elemental": 20,
         "silverstripe/versioned": 20,
         "silverstripe/framework": 20,
-        "silverstripe/recipe-cms": 20
+        "silverstripe/recipe-cms": 20,
+        "bringyourownideas/silverstripe-maintenance": 20,
+        "silverstripe/graphql": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,

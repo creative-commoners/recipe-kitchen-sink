@@ -50,7 +50,9 @@
         "dnadesign/silverstripe-elemental": "dev-pulls/6/standardise-endpoints as 6.x-dev",
         "silverstripe/versioned": "dev-pulls/3/remove-graphql as 3.x-dev",
         "silverstripe/framework": "dev-pulls/6/remove-graphql as 6.x-dev",
-        "silverstripe/recipe-cms": "dev-pulls/6/remove-graphql as 6.x-dev"
+        "silverstripe/recipe-cms": "dev-pulls/6/remove-graphql as 6.x-dev",
+        "bringyourownideas/silverstripe-maintenance": "dev-pulls/4/mock-github as 4.x-dev",
+        "silverstripe/graphql": "dev-pulls/6/standalone as 6.x-dev"
     },
     "extra": {
         "project-files": [
@@ -118,6 +120,14 @@
         "x10": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/recipe-cms"
+        },
+        "x11": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-graphql"
+        },
+        "x12": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-maintenance"
         }
     },
     "conflict": {
