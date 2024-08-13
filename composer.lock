@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.319.0",
+            "version": "3.319.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "a5c408d4cd1945d5fc817f45e46383634b610497"
+                "reference": "4f29bf3c43ff32732e105ac8bcff325f7db86bd0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/a5c408d4cd1945d5fc817f45e46383634b610497",
-                "reference": "a5c408d4cd1945d5fc817f45e46383634b610497",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/4f29bf3c43ff32732e105ac8bcff325f7db86bd0",
+                "reference": "4f29bf3c43ff32732e105ac8bcff325f7db86bd0",
                 "shasum": ""
             },
             "require": {
@@ -194,9 +194,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.319.0"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.319.3"
             },
-            "time": "2024-08-07T18:05:51+00:00"
+            "time": "2024-08-12T18:06:14+00:00"
         },
         {
             "name": "behat/behat",
@@ -1594,12 +1594,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-elemental.git",
-                "reference": "0f739e73244bd883847ddd7a2f8acd1be26781ff"
+                "reference": "871d9b3b9322c84fed23da1a7d41d539b9943319"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/0f739e73244bd883847ddd7a2f8acd1be26781ff",
-                "reference": "0f739e73244bd883847ddd7a2f8acd1be26781ff",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/871d9b3b9322c84fed23da1a7d41d539b9943319",
+                "reference": "871d9b3b9322c84fed23da1a7d41d539b9943319",
                 "shasum": ""
             },
             "require": {
@@ -1658,7 +1658,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-elemental/tree/pulls/6/standardise-endpoints"
             },
-            "time": "2024-08-08T02:39:27+00:00"
+            "time": "2024-08-13T01:34:41+00:00"
         },
         {
             "name": "dnadesign/silverstripe-elemental-userforms",
@@ -6856,12 +6856,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-asset-admin.git",
-                "reference": "2f67cec2e675133062dfb5d42e3911ac593dd74b"
+                "reference": "c11c7f7c23731249d3be615ebb5c5736f2d98c21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/2f67cec2e675133062dfb5d42e3911ac593dd74b",
-                "reference": "2f67cec2e675133062dfb5d42e3911ac593dd74b",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/c11c7f7c23731249d3be615ebb5c5736f2d98c21",
+                "reference": "c11c7f7c23731249d3be615ebb5c5736f2d98c21",
                 "shasum": ""
             },
             "require": {
@@ -6907,7 +6907,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-asset-admin/tree/pulls/3/standardise-endpoints"
             },
-            "time": "2024-08-07T05:25:55+00:00"
+            "time": "2024-08-13T01:35:15+00:00"
         },
         {
             "name": "silverstripe/assets",
@@ -7561,12 +7561,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/developer-docs.git",
-                "reference": "cb6869221fe7b12f17f44db6957615568482829e"
+                "reference": "bdef0ca3159d046172327f049f6b68ebabeb6cb5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/developer-docs/zipball/cb6869221fe7b12f17f44db6957615568482829e",
-                "reference": "cb6869221fe7b12f17f44db6957615568482829e",
+                "url": "https://api.github.com/repos/silverstripe/developer-docs/zipball/bdef0ca3159d046172327f049f6b68ebabeb6cb5",
+                "reference": "bdef0ca3159d046172327f049f6b68ebabeb6cb5",
                 "shasum": ""
             },
             "require-dev": {
@@ -7600,7 +7600,7 @@
                 "issues": "https://github.com/silverstripe/developer-docs/issues",
                 "source": "https://github.com/silverstripe/developer-docs/tree/6"
             },
-            "time": "2024-08-07T04:49:54+00:00"
+            "time": "2024-08-12T01:01:02+00:00"
         },
         {
             "name": "silverstripe/documentconverter",
@@ -10889,12 +10889,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-versioned-admin.git",
-                "reference": "e4293a6728c48cd92d22bc971f5f559d53040633"
+                "reference": "6e2aa717fcb9aaed790277bdf118e1fd87928822"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-versioned-admin/zipball/e4293a6728c48cd92d22bc971f5f559d53040633",
-                "reference": "e4293a6728c48cd92d22bc971f5f559d53040633",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-versioned-admin/zipball/6e2aa717fcb9aaed790277bdf118e1fd87928822",
+                "reference": "6e2aa717fcb9aaed790277bdf118e1fd87928822",
                 "shasum": ""
             },
             "require": {
@@ -10956,7 +10956,7 @@
                 "source": "https://github.com/creative-commoners/silverstripe-versioned-admin/tree/pulls/3/standardise-endpoints",
                 "issues": "https://github.com/creative-commoners/silverstripe-versioned-admin/issues"
             },
-            "time": "2024-08-07T05:25:50+00:00"
+            "time": "2024-08-13T01:35:09+00:00"
         },
         {
             "name": "silverstripe/versionfeed",
@@ -11481,12 +11481,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symbiote/silverstripe-advancedworkflow.git",
-                "reference": "8956d6961a89c9f32c6957f5de3a4c5f49898a0e"
+                "reference": "5d4a88a006553a06d052191efd625c79f9cc5c09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symbiote/silverstripe-advancedworkflow/zipball/8956d6961a89c9f32c6957f5de3a4c5f49898a0e",
-                "reference": "8956d6961a89c9f32c6957f5de3a4c5f49898a0e",
+                "url": "https://api.github.com/repos/symbiote/silverstripe-advancedworkflow/zipball/5d4a88a006553a06d052191efd625c79f9cc5c09",
+                "reference": "5d4a88a006553a06d052191efd625c79f9cc5c09",
                 "shasum": ""
             },
             "require": {
@@ -11548,7 +11548,7 @@
                 "issues": "https://github.com/symbiote/silverstripe-advancedworkflow/issues",
                 "source": "https://github.com/symbiote/silverstripe-advancedworkflow/tree/7"
             },
-            "time": "2024-07-22T02:23:52+00:00"
+            "time": "2024-08-08T03:29:12+00:00"
         },
         {
             "name": "symbiote/silverstripe-gridfieldextensions",
