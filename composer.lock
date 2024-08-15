@@ -6914,12 +6914,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-assets.git",
-                "reference": "54720e816438918a9f0a3adfcda3cd9a544df58f"
+                "reference": "88b6be56b2e3f4524661b3d5fead92d1b38661d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-assets/zipball/54720e816438918a9f0a3adfcda3cd9a544df58f",
-                "reference": "54720e816438918a9f0a3adfcda3cd9a544df58f",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-assets/zipball/88b6be56b2e3f4524661b3d5fead92d1b38661d3",
+                "reference": "88b6be56b2e3f4524661b3d5fead92d1b38661d3",
                 "shasum": ""
             },
             "require": {
@@ -6975,7 +6975,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-assets/issues",
                 "source": "https://github.com/silverstripe/silverstripe-assets/tree/3"
             },
-            "time": "2024-08-07T04:50:12+00:00"
+            "time": "2024-08-14T23:47:02+00:00"
         },
         {
             "name": "silverstripe/auditor",
@@ -7097,12 +7097,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-blog.git",
-                "reference": "f5f6a4d7ff40ca1ccfd08ac45c82be81ef654ccf"
+                "reference": "c4885ce67bc5d8275f26bec141c36ba55966307d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-blog/zipball/f5f6a4d7ff40ca1ccfd08ac45c82be81ef654ccf",
-                "reference": "f5f6a4d7ff40ca1ccfd08ac45c82be81ef654ccf",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-blog/zipball/c4885ce67bc5d8275f26bec141c36ba55966307d",
+                "reference": "c4885ce67bc5d8275f26bec141c36ba55966307d",
                 "shasum": ""
             },
             "require": {
@@ -7156,7 +7156,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-blog/issues",
                 "source": "https://github.com/silverstripe/silverstripe-blog/tree/5"
             },
-            "time": "2024-08-07T04:50:07+00:00"
+            "time": "2024-08-14T23:47:33+00:00"
         },
         {
             "name": "silverstripe/campaign-admin",
@@ -8260,12 +8260,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-graphql.git",
-                "reference": "949baec23a215bb82c69c5bee37bef4f97eb07b0"
+                "reference": "c47a600aca038614f6eb235533f912c0cc74328b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-graphql/zipball/949baec23a215bb82c69c5bee37bef4f97eb07b0",
-                "reference": "949baec23a215bb82c69c5bee37bef4f97eb07b0",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-graphql/zipball/c47a600aca038614f6eb235533f912c0cc74328b",
+                "reference": "c47a600aca038614f6eb235533f912c0cc74328b",
                 "shasum": ""
             },
             "require": {
@@ -8314,7 +8314,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-graphql/tree/pulls/6/standalone"
             },
-            "time": "2024-08-13T06:59:45+00:00"
+            "time": "2024-08-14T23:59:58+00:00"
         },
         {
             "name": "silverstripe/graphql-devtools",
@@ -8814,12 +8814,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-mfa.git",
-                "reference": "8c4df5ba9109deb2f5784f5bb894eeea64711b34"
+                "reference": "bc1639b5e4cb432461e3993aeabc4282d45b9c0a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-mfa/zipball/8c4df5ba9109deb2f5784f5bb894eeea64711b34",
-                "reference": "8c4df5ba9109deb2f5784f5bb894eeea64711b34",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-mfa/zipball/bc1639b5e4cb432461e3993aeabc4282d45b9c0a",
+                "reference": "bc1639b5e4cb432461e3993aeabc4282d45b9c0a",
                 "shasum": ""
             },
             "require": {
@@ -8889,7 +8889,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-mfa/issues",
                 "source": "https://github.com/silverstripe/silverstripe-mfa/tree/6"
             },
-            "time": "2024-08-07T04:52:49+00:00"
+            "time": "2024-08-14T23:47:16+00:00"
         },
         {
             "name": "silverstripe/mimevalidator",
@@ -11701,12 +11701,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symbiote/silverstripe-queuedjobs.git",
-                "reference": "299014932ba5b79e2bc0b6b5d332d3616fe2a9aa"
+                "reference": "9720c78ce81563621b208b926e99502ec7b00cea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symbiote/silverstripe-queuedjobs/zipball/299014932ba5b79e2bc0b6b5d332d3616fe2a9aa",
-                "reference": "299014932ba5b79e2bc0b6b5d332d3616fe2a9aa",
+                "url": "https://api.github.com/repos/symbiote/silverstripe-queuedjobs/zipball/9720c78ce81563621b208b926e99502ec7b00cea",
+                "reference": "9720c78ce81563621b208b926e99502ec7b00cea",
                 "shasum": ""
             },
             "require": {
@@ -11759,7 +11759,7 @@
                 "issues": "https://github.com/symbiote/silverstripe-queuedjobs/issues",
                 "source": "https://github.com/symbiote/silverstripe-queuedjobs/tree/6"
             },
-            "time": "2024-08-07T04:50:38+00:00"
+            "time": "2024-08-14T23:46:57+00:00"
         },
         {
             "name": "symfony/cache",
