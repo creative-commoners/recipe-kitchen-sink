@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.320.3",
+            "version": "3.320.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "afe137e61b0b536c93a71ce3bb3cdac2e92ae789"
+                "reference": "e6af3e760864d43a30d8b7deb4f9dc6a49a5f66a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/afe137e61b0b536c93a71ce3bb3cdac2e92ae789",
-                "reference": "afe137e61b0b536c93a71ce3bb3cdac2e92ae789",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/e6af3e760864d43a30d8b7deb4f9dc6a49a5f66a",
+                "reference": "e6af3e760864d43a30d8b7deb4f9dc6a49a5f66a",
                 "shasum": ""
             },
             "require": {
@@ -194,9 +194,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.320.3"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.320.4"
             },
-            "time": "2024-08-19T18:05:46+00:00"
+            "time": "2024-08-20T18:20:32+00:00"
         },
         {
             "name": "behat/behat",
@@ -8077,12 +8077,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "19b721d5258fa4eb61005ef7c341920ba04d0293"
+                "reference": "368b62bb305ced728cab2bdd61e4679a37f42214"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/19b721d5258fa4eb61005ef7c341920ba04d0293",
-                "reference": "19b721d5258fa4eb61005ef7c341920ba04d0293",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/368b62bb305ced728cab2bdd61e4679a37f42214",
+                "reference": "368b62bb305ced728cab2bdd61e4679a37f42214",
                 "shasum": ""
             },
             "require": {
@@ -8213,7 +8213,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:12:23+00:00"
+            "time": "2024-08-20T21:23:07+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -10858,12 +10858,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-versioned.git",
-                "reference": "d43406cfcdb96410b867aeba4966d045ac4e550e"
+                "reference": "9e4a26995f462cdd16889910f1219839ffa6230e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-versioned/zipball/d43406cfcdb96410b867aeba4966d045ac4e550e",
-                "reference": "d43406cfcdb96410b867aeba4966d045ac4e550e",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-versioned/zipball/9e4a26995f462cdd16889910f1219839ffa6230e",
+                "reference": "9e4a26995f462cdd16889910f1219839ffa6230e",
                 "shasum": ""
             },
             "require": {
@@ -10916,7 +10916,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-versioned/tree/pulls/3/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:26:28+00:00"
+            "time": "2024-08-20T21:23:26+00:00"
         },
         {
             "name": "silverstripe/versioned-admin",
@@ -14576,12 +14576,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-fluent.git",
-                "reference": "09f3c1a9070fe0510a53ad284ca53aa8be673b5e"
+                "reference": "ced3e6e28ee7c358fd442d45ed6bd50ed648e304"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-fluent/zipball/09f3c1a9070fe0510a53ad284ca53aa8be673b5e",
-                "reference": "09f3c1a9070fe0510a53ad284ca53aa8be673b5e",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-fluent/zipball/ced3e6e28ee7c358fd442d45ed6bd50ed648e304",
+                "reference": "ced3e6e28ee7c358fd442d45ed6bd50ed648e304",
                 "shasum": ""
             },
             "require": {
@@ -14655,7 +14655,7 @@
                 "issues": "http://github.com/tractorcow-farm/silverstripe-fluent/issues",
                 "source": "https://github.com/creative-commoners/silverstripe-fluent/tree/pulls/8/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:29:06+00:00"
+            "time": "2024-08-20T21:23:36+00:00"
         },
         {
             "name": "ua-parser/uap-php",
