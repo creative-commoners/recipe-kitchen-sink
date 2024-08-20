@@ -1593,12 +1593,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-elemental.git",
-                "reference": "be05b50e06aa53aa5e0bd3da4bf4f5627743ed7c"
+                "reference": "304688e93adf1461225b5820c623556dea9700b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/be05b50e06aa53aa5e0bd3da4bf4f5627743ed7c",
-                "reference": "be05b50e06aa53aa5e0bd3da4bf4f5627743ed7c",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/304688e93adf1461225b5820c623556dea9700b0",
+                "reference": "304688e93adf1461225b5820c623556dea9700b0",
                 "shasum": ""
             },
             "require": {
@@ -1658,7 +1658,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-elemental/tree/pulls/6/replace-dataextension"
             },
-            "time": "2024-08-20T03:53:44+00:00"
+            "time": "2024-08-20T22:11:41+00:00"
         },
         {
             "name": "dnadesign/silverstripe-elemental-userforms",
@@ -10309,12 +10309,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-subsites.git",
-                "reference": "869cb05eef296ea8391ad58b91f98e2676d6b784"
+                "reference": "5ea69d6e59e4c55f1c3c93e6478703cdc0f6258a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-subsites/zipball/869cb05eef296ea8391ad58b91f98e2676d6b784",
-                "reference": "869cb05eef296ea8391ad58b91f98e2676d6b784",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-subsites/zipball/5ea69d6e59e4c55f1c3c93e6478703cdc0f6258a",
+                "reference": "5ea69d6e59e4c55f1c3c93e6478703cdc0f6258a",
                 "shasum": ""
             },
             "require": {
@@ -10362,7 +10362,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-subsites/tree/pulls/4/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:24:45+00:00"
+            "time": "2024-08-20T22:11:58+00:00"
         },
         {
             "name": "silverstripe/supported-modules",
@@ -11515,12 +11515,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-advancedworkflow.git",
-                "reference": "15ad9780d483bc1e4fa6001c22f82febf9da92fa"
+                "reference": "4487c7b847c14d4ef5ae7f9b390daf2abf64fb05"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-advancedworkflow/zipball/15ad9780d483bc1e4fa6001c22f82febf9da92fa",
-                "reference": "15ad9780d483bc1e4fa6001c22f82febf9da92fa",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-advancedworkflow/zipball/4487c7b847c14d4ef5ae7f9b390daf2abf64fb05",
+                "reference": "4487c7b847c14d4ef5ae7f9b390daf2abf64fb05",
                 "shasum": ""
             },
             "require": {
@@ -11580,7 +11580,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-advancedworkflow/tree/pulls/7/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:28:08+00:00"
+            "time": "2024-08-20T22:12:08+00:00"
         },
         {
             "name": "symbiote/silverstripe-gridfieldextensions",
@@ -11728,12 +11728,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-queuedjobs.git",
-                "reference": "a5d6e8edfff5d1f36ebc42c6e3bd7512876d779a"
+                "reference": "8902da6779fcc986e6722ab0765395d8c04b20d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-queuedjobs/zipball/a5d6e8edfff5d1f36ebc42c6e3bd7512876d779a",
-                "reference": "a5d6e8edfff5d1f36ebc42c6e3bd7512876d779a",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-queuedjobs/zipball/8902da6779fcc986e6722ab0765395d8c04b20d6",
+                "reference": "8902da6779fcc986e6722ab0765395d8c04b20d6",
                 "shasum": ""
             },
             "require": {
@@ -11784,7 +11784,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-queuedjobs/tree/pulls/6/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:28:38+00:00"
+            "time": "2024-08-20T22:12:18+00:00"
         },
         {
             "name": "symfony/cache",
