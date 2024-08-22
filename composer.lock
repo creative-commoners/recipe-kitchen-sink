@@ -605,12 +605,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bringyourownideas/silverstripe-maintenance.git",
-                "reference": "09adf3867486765e3d02ef70beead1854eb307f7"
+                "reference": "392a8c20ae5a5b698d65aae206bf67f5491720df"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bringyourownideas/silverstripe-maintenance/zipball/09adf3867486765e3d02ef70beead1854eb307f7",
-                "reference": "09adf3867486765e3d02ef70beead1854eb307f7",
+                "url": "https://api.github.com/repos/bringyourownideas/silverstripe-maintenance/zipball/392a8c20ae5a5b698d65aae206bf67f5491720df",
+                "reference": "392a8c20ae5a5b698d65aae206bf67f5491720df",
                 "shasum": ""
             },
             "require": {
@@ -670,7 +670,7 @@
                 "issues": "https://github.com/bringyourownideas/silverstripe-maintenance/issues",
                 "source": "https://github.com/bringyourownideas/silverstripe-maintenance/tree/4"
             },
-            "time": "2024-08-22T00:11:21+00:00"
+            "time": "2024-08-22T05:07:07+00:00"
         },
         {
             "name": "colymba/gridfield-bulk-editing-tools",
@@ -4564,35 +4564,35 @@
         },
         {
             "name": "phpunit/php-code-coverage",
-            "version": "9.2.31",
+            "version": "9.2.32",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "48c34b5d8d983006bd2adc2d0de92963b9155965"
+                "reference": "85402a822d1ecf1db1096959413d35e1c37cf1a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/48c34b5d8d983006bd2adc2d0de92963b9155965",
-                "reference": "48c34b5d8d983006bd2adc2d0de92963b9155965",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/85402a822d1ecf1db1096959413d35e1c37cf1a5",
+                "reference": "85402a822d1ecf1db1096959413d35e1c37cf1a5",
                 "shasum": ""
             },
             "require": {
                 "ext-dom": "*",
                 "ext-libxml": "*",
                 "ext-xmlwriter": "*",
-                "nikic/php-parser": "^4.18 || ^5.0",
+                "nikic/php-parser": "^4.19.1 || ^5.1.0",
                 "php": ">=7.3",
-                "phpunit/php-file-iterator": "^3.0.3",
-                "phpunit/php-text-template": "^2.0.2",
-                "sebastian/code-unit-reverse-lookup": "^2.0.2",
-                "sebastian/complexity": "^2.0",
-                "sebastian/environment": "^5.1.2",
-                "sebastian/lines-of-code": "^1.0.3",
-                "sebastian/version": "^3.0.1",
-                "theseer/tokenizer": "^1.2.0"
+                "phpunit/php-file-iterator": "^3.0.6",
+                "phpunit/php-text-template": "^2.0.4",
+                "sebastian/code-unit-reverse-lookup": "^2.0.3",
+                "sebastian/complexity": "^2.0.3",
+                "sebastian/environment": "^5.1.5",
+                "sebastian/lines-of-code": "^1.0.4",
+                "sebastian/version": "^3.0.2",
+                "theseer/tokenizer": "^1.2.3"
             },
             "require-dev": {
-                "phpunit/phpunit": "^9.3"
+                "phpunit/phpunit": "^9.6"
             },
             "suggest": {
                 "ext-pcov": "PHP extension that provides line coverage",
@@ -4601,7 +4601,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "9.2-dev"
+                    "dev-main": "9.2.x-dev"
                 }
             },
             "autoload": {
@@ -4630,7 +4630,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/php-code-coverage/issues",
                 "security": "https://github.com/sebastianbergmann/php-code-coverage/security/policy",
-                "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/9.2.31"
+                "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/9.2.32"
             },
             "funding": [
                 {
@@ -4638,7 +4638,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-03-02T06:37:42+00:00"
+            "time": "2024-08-22T04:23:01+00:00"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -8081,12 +8081,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "ddb33a147abe987e481d32fb2de665fd1813ab2a"
+                "reference": "061e8b28783dcf26f163c5a0ee7b9cddf25e2b3b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/ddb33a147abe987e481d32fb2de665fd1813ab2a",
-                "reference": "ddb33a147abe987e481d32fb2de665fd1813ab2a",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/061e8b28783dcf26f163c5a0ee7b9cddf25e2b3b",
+                "reference": "061e8b28783dcf26f163c5a0ee7b9cddf25e2b3b",
                 "shasum": ""
             },
             "require": {
@@ -8217,7 +8217,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/replace-extension-subclasses"
             },
-            "time": "2024-08-22T03:49:34+00:00"
+            "time": "2024-08-22T05:19:15+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -9152,12 +9152,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-blog.git",
-                "reference": "6b81dc3de8198b421102d75e638af7d5b67eeb1d"
+                "reference": "4bb607a885ec8187d6f5b3579516f91e082e3171"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-blog/zipball/6b81dc3de8198b421102d75e638af7d5b67eeb1d",
-                "reference": "6b81dc3de8198b421102d75e638af7d5b67eeb1d",
+                "url": "https://api.github.com/repos/silverstripe/recipe-blog/zipball/4bb607a885ec8187d6f5b3579516f91e082e3171",
+                "reference": "4bb607a885ec8187d6f5b3579516f91e082e3171",
                 "shasum": ""
             },
             "require": {
@@ -9188,7 +9188,7 @@
                 "issues": "https://github.com/silverstripe/recipe-blog/issues",
                 "source": "https://github.com/silverstripe/recipe-blog/tree/3"
             },
-            "time": "2024-08-22T00:05:15+00:00"
+            "time": "2024-08-22T04:00:41+00:00"
         },
         {
             "name": "silverstripe/recipe-cms",
