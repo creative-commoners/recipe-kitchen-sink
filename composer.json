@@ -5,7 +5,7 @@
     "homepage": "https://github.com/silverstripe/recipe-kitchen-sink",
     "license": "BSD-3-Clause",
     "require": {
-        "php": "^8.1",
+        "php": "^8.3",
         "silverstripe/recipe-plugin": "2.x-dev",
         "silverstripe/installer": "dev-pulls/6/remove-graphql as 6.x-dev",
         "silverstripe/recipe-authoring-tools": "3.x-dev",
@@ -51,7 +51,6 @@
         "silverstripe/versioned": "dev-pulls/3/remove-graphql as 3.x-dev",
         "silverstripe/framework": "dev-pulls/6/remove-graphql as 6.x-dev",
         "silverstripe/recipe-cms": "dev-pulls/6/remove-graphql as 6.x-dev",
-        "bringyourownideas/silverstripe-maintenance": "dev-pulls/4/mock-github as 4.x-dev",
         "silverstripe/graphql": "dev-pulls/6/standalone as 6.x-dev"
     },
     "extra": {
@@ -71,7 +70,7 @@
             "silverstripe/vendor-plugin": true
         },
         "platform": {
-            "php": "8.1"
+            "php": "8.3"
         }
     },
     "prefer-stable": true,
@@ -124,10 +123,6 @@
         "x11": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/silverstripe-graphql"
-        },
-        "x12": {
-            "type": "vcs",
-            "url": "git@github.com:creative-commoners/silverstripe-maintenance"
         }
     },
     "conflict": {
