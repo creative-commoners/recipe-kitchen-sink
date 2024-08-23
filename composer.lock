@@ -7046,12 +7046,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-behat-extension.git",
-                "reference": "ed776e2841238ac903a882ca2e376528846d61e4"
+                "reference": "cf923c2be26f1dc1a2ee009aa3bbc0c6bad99722"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-behat-extension/zipball/ed776e2841238ac903a882ca2e376528846d61e4",
-                "reference": "ed776e2841238ac903a882ca2e376528846d61e4",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-behat-extension/zipball/cf923c2be26f1dc1a2ee009aa3bbc0c6bad99722",
+                "reference": "cf923c2be26f1dc1a2ee009aa3bbc0c6bad99722",
                 "shasum": ""
             },
             "require": {
@@ -7106,7 +7106,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-behat-extension/tree/pulls/6/replace-extension-subclasses"
             },
-            "time": "2024-08-22T22:08:33+00:00"
+            "time": "2024-08-23T00:24:36+00:00"
         },
         {
             "name": "silverstripe/blog",
@@ -7323,12 +7323,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-cms.git",
-                "reference": "0fa0d37fde828fcbaa457bfe7070e30b20cd185b"
+                "reference": "90f5e11a9d53bac95986dd20dbc2c3a08075fad6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/0fa0d37fde828fcbaa457bfe7070e30b20cd185b",
-                "reference": "0fa0d37fde828fcbaa457bfe7070e30b20cd185b",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/90f5e11a9d53bac95986dd20dbc2c3a08075fad6",
+                "reference": "90f5e11a9d53bac95986dd20dbc2c3a08075fad6",
                 "shasum": ""
             },
             "require": {
@@ -7395,7 +7395,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-cms/tree/pulls/6/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:07:48+00:00"
+            "time": "2024-08-23T00:24:45+00:00"
         },
         {
             "name": "silverstripe/config",
