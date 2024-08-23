@@ -678,12 +678,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/colymba/GridFieldBulkEditingTools.git",
-                "reference": "7ab370a953eeadae7cb1624e032476dbeeae896d"
+                "reference": "c889ec1534fa29d7a20ef9068d0dfaf1c7d3fffa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/colymba/GridFieldBulkEditingTools/zipball/7ab370a953eeadae7cb1624e032476dbeeae896d",
-                "reference": "7ab370a953eeadae7cb1624e032476dbeeae896d",
+                "url": "https://api.github.com/repos/colymba/GridFieldBulkEditingTools/zipball/c889ec1534fa29d7a20ef9068d0dfaf1c7d3fffa",
+                "reference": "c889ec1534fa29d7a20ef9068d0dfaf1c7d3fffa",
                 "shasum": ""
             },
             "require": {
@@ -734,7 +734,7 @@
                 "issues": "https://github.com/colymba/GridFieldBulkEditingTools/issues",
                 "source": "https://github.com/colymba/GridFieldBulkEditingTools/tree/5"
             },
-            "time": "2024-08-05T02:53:39+00:00"
+            "time": "2024-08-23T06:42:32+00:00"
         },
         {
             "name": "composer/ca-bundle",
@@ -7046,12 +7046,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-behat-extension.git",
-                "reference": "cf923c2be26f1dc1a2ee009aa3bbc0c6bad99722"
+                "reference": "83444395a2a693c0defa5b0af4fd584c3d1be8e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-behat-extension/zipball/cf923c2be26f1dc1a2ee009aa3bbc0c6bad99722",
-                "reference": "cf923c2be26f1dc1a2ee009aa3bbc0c6bad99722",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-behat-extension/zipball/83444395a2a693c0defa5b0af4fd584c3d1be8e6",
+                "reference": "83444395a2a693c0defa5b0af4fd584c3d1be8e6",
                 "shasum": ""
             },
             "require": {
@@ -7106,7 +7106,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-behat-extension/tree/pulls/6/replace-extension-subclasses"
             },
-            "time": "2024-08-23T00:24:36+00:00"
+            "time": "2024-08-23T07:35:11+00:00"
         },
         {
             "name": "silverstripe/blog",
@@ -8081,12 +8081,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "a27302d7f6b46793fe55a4cbde5c5550cfe7a3de"
+                "reference": "457013afbf22551dc12368f801613ce6636a742f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/a27302d7f6b46793fe55a4cbde5c5550cfe7a3de",
-                "reference": "a27302d7f6b46793fe55a4cbde5c5550cfe7a3de",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/457013afbf22551dc12368f801613ce6636a742f",
+                "reference": "457013afbf22551dc12368f801613ce6636a742f",
                 "shasum": ""
             },
             "require": {
@@ -8217,7 +8217,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/replace-extension-subclasses"
             },
-            "time": "2024-08-22T22:08:21+00:00"
+            "time": "2024-08-23T07:09:43+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
