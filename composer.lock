@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.320.7",
+            "version": "3.320.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "702b9955160d2dacdf2cdf4d4476fcf95eae1aaf"
+                "reference": "c833a686c339eec17aac712f2788406798de5f37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/702b9955160d2dacdf2cdf4d4476fcf95eae1aaf",
-                "reference": "702b9955160d2dacdf2cdf4d4476fcf95eae1aaf",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/c833a686c339eec17aac712f2788406798de5f37",
+                "reference": "c833a686c339eec17aac712f2788406798de5f37",
                 "shasum": ""
             },
             "require": {
@@ -194,9 +194,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.320.7"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.320.8"
             },
-            "time": "2024-08-23T18:13:50+00:00"
+            "time": "2024-08-26T18:08:08+00:00"
         },
         {
             "name": "behat/behat",
@@ -1594,12 +1594,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-elemental.git",
-                "reference": "5c0923481917b7e6454abaf239f8d96920990c4a"
+                "reference": "07a6d9b916e72e880653856b92c046d4b0a8329e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/5c0923481917b7e6454abaf239f8d96920990c4a",
-                "reference": "5c0923481917b7e6454abaf239f8d96920990c4a",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/07a6d9b916e72e880653856b92c046d4b0a8329e",
+                "reference": "07a6d9b916e72e880653856b92c046d4b0a8329e",
                 "shasum": ""
             },
             "require": {
@@ -1658,7 +1658,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-elemental/tree/pulls/6/standardise-endpoints"
             },
-            "time": "2024-08-22T07:37:25+00:00"
+            "time": "2024-08-27T02:25:47+00:00"
         },
         {
             "name": "dnadesign/silverstripe-elemental-userforms",
