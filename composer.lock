@@ -1594,12 +1594,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-elemental.git",
-                "reference": "3429c10878c8476688d3d10b45598ce2d47ef6be"
+                "reference": "23886f04410ad2ec05310a8ab4096708dd5159b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/3429c10878c8476688d3d10b45598ce2d47ef6be",
-                "reference": "3429c10878c8476688d3d10b45598ce2d47ef6be",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/23886f04410ad2ec05310a8ab4096708dd5159b6",
+                "reference": "23886f04410ad2ec05310a8ab4096708dd5159b6",
                 "shasum": ""
             },
             "require": {
@@ -1658,7 +1658,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-elemental/tree/pulls/6/standardise-endpoints"
             },
-            "time": "2024-08-27T03:43:59+00:00"
+            "time": "2024-08-27T06:54:21+00:00"
         },
         {
             "name": "dnadesign/silverstripe-elemental-userforms",
