@@ -8084,12 +8084,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "386170d2a099b8bd7f5ca3311f2da605b5782267"
+                "reference": "8ffda9edc0022c75788621d2fd43da052c3ea59f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/386170d2a099b8bd7f5ca3311f2da605b5782267",
-                "reference": "386170d2a099b8bd7f5ca3311f2da605b5782267",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/8ffda9edc0022c75788621d2fd43da052c3ea59f",
+                "reference": "8ffda9edc0022c75788621d2fd43da052c3ea59f",
                 "shasum": ""
             },
             "require": {
@@ -8220,7 +8220,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/replace-extension-subclasses"
             },
-            "time": "2024-08-25T22:16:26+00:00"
+            "time": "2024-08-28T05:00:39+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
