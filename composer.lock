@@ -6924,18 +6924,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-assets.git",
-                "reference": "286f5e57f30ae016a51aafd95618ede780f47bb5"
+                "reference": "794740550564abbc29a87bb115b87c7b2b28c617"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-assets/zipball/286f5e57f30ae016a51aafd95618ede780f47bb5",
-                "reference": "286f5e57f30ae016a51aafd95618ede780f47bb5",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-assets/zipball/794740550564abbc29a87bb115b87c7b2b28c617",
+                "reference": "794740550564abbc29a87bb115b87c7b2b28c617",
                 "shasum": ""
             },
             "require": {
                 "intervention/image": "^3.7",
                 "league/flysystem": "^3.9.0",
-                "php": "^8.1",
+                "php": "^8.3",
                 "silverstripe/framework": "^6",
                 "silverstripe/vendor-plugin": "^2",
                 "symfony/filesystem": "^6.1"
@@ -6991,7 +6991,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-assets/tree/pulls/3/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:02:04+00:00"
+            "time": "2024-08-28T05:53:24+00:00"
         },
         {
             "name": "silverstripe/auditor",
@@ -7632,16 +7632,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-documentconverter.git",
-                "reference": "c8667b9a4699ca0232c8009d9da509606878e402"
+                "reference": "6214133b53e06a68fd1a9f2e0810d20ba3b1ee12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-documentconverter/zipball/c8667b9a4699ca0232c8009d9da509606878e402",
-                "reference": "c8667b9a4699ca0232c8009d9da509606878e402",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-documentconverter/zipball/6214133b53e06a68fd1a9f2e0810d20ba3b1ee12",
+                "reference": "6214133b53e06a68fd1a9f2e0810d20ba3b1ee12",
                 "shasum": ""
             },
             "require": {
-                "php": "^8.1",
+                "php": "^8.3",
                 "silverstripe/asset-admin": "^3",
                 "silverstripe/cms": "^6"
             },
@@ -7677,7 +7677,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-documentconverter/tree/pulls/4/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:11:23+00:00"
+            "time": "2024-08-28T05:53:59+00:00"
         },
         {
             "name": "silverstripe/dynamodb",
@@ -7910,16 +7910,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-errorpage.git",
-                "reference": "87629d3fd7060ab6a115e394b5efc643d89294a4"
+                "reference": "017594747bc6513fe043bdd1dfb0d717d83de046"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-errorpage/zipball/87629d3fd7060ab6a115e394b5efc643d89294a4",
-                "reference": "87629d3fd7060ab6a115e394b5efc643d89294a4",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-errorpage/zipball/017594747bc6513fe043bdd1dfb0d717d83de046",
+                "reference": "017594747bc6513fe043bdd1dfb0d717d83de046",
                 "shasum": ""
             },
             "require": {
-                "php": "^8.1",
+                "php": "^8.3",
                 "silverstripe/cms": "^6",
                 "silverstripe/framework": "^6",
                 "silverstripe/vendor-plugin": "^2"
@@ -7965,7 +7965,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-errorpage/tree/pulls/3/replace-extension-subclasses"
             },
-            "time": "2024-08-20T04:11:54+00:00"
+            "time": "2024-08-28T05:54:04+00:00"
         },
         {
             "name": "silverstripe/event-dispatcher",
