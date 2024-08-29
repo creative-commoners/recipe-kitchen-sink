@@ -6864,12 +6864,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-asset-admin.git",
-                "reference": "a7666b31078b6545e3ed4d4bda3525f14a551853"
+                "reference": "49bb34469e3fe268b908f96545718e9105ba0c96"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/a7666b31078b6545e3ed4d4bda3525f14a551853",
-                "reference": "a7666b31078b6545e3ed4d4bda3525f14a551853",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/49bb34469e3fe268b908f96545718e9105ba0c96",
+                "reference": "49bb34469e3fe268b908f96545718e9105ba0c96",
                 "shasum": ""
             },
             "require": {
@@ -6915,7 +6915,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-asset-admin/tree/pulls/3/standardise-endpoints"
             },
-            "time": "2024-08-29T04:23:20+00:00"
+            "time": "2024-08-29T06:44:21+00:00"
         },
         {
             "name": "silverstripe/assets",
@@ -7041,12 +7041,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-behat-extension.git",
-                "reference": "351ab80431b786a07ef6b75521e3b3abf05f4c24"
+                "reference": "a84252623d6b59657e5adf072c82a542869a1b0f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-behat-extension/zipball/351ab80431b786a07ef6b75521e3b3abf05f4c24",
-                "reference": "351ab80431b786a07ef6b75521e3b3abf05f4c24",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-behat-extension/zipball/a84252623d6b59657e5adf072c82a542869a1b0f",
+                "reference": "a84252623d6b59657e5adf072c82a542869a1b0f",
                 "shasum": ""
             },
             "require": {
@@ -7098,7 +7098,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-behat-extension/issues",
                 "source": "https://github.com/silverstripe/silverstripe-behat-extension/tree/6"
             },
-            "time": "2024-08-22T00:15:59+00:00"
+            "time": "2024-08-29T05:17:38+00:00"
         },
         {
             "name": "silverstripe/blog",
