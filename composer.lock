@@ -9030,17 +9030,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-realme.git",
-                "reference": "5d7272b6f86de6c5186e44fbb38fdbfab052928c"
+                "reference": "8d26634c9e9863e066a06e9bebdf531b1a318b1b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-realme/zipball/5d7272b6f86de6c5186e44fbb38fdbfab052928c",
-                "reference": "5d7272b6f86de6c5186e44fbb38fdbfab052928c",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-realme/zipball/8d26634c9e9863e066a06e9bebdf531b1a318b1b",
+                "reference": "8d26634c9e9863e066a06e9bebdf531b1a318b1b",
                 "shasum": ""
             },
             "require": {
                 "onelogin/php-saml": "^4",
-                "php": "^8.1",
+                "php": "^8.3",
                 "silverstripe/framework": "^6"
             },
             "require-dev": {
@@ -9088,7 +9088,7 @@
                 "issues": "https://github.com/silverstripe/realme/issues",
                 "source": "https://github.com/silverstripe/silverstripe-realme/tree/6"
             },
-            "time": "2024-08-03T00:04:49+00:00"
+            "time": "2024-08-28T23:01:40+00:00"
         },
         {
             "name": "silverstripe/recipe-authoring-tools",
