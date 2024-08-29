@@ -10844,12 +10844,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-versioned.git",
-                "reference": "107aef4facd8121a45781d063328ec0ba749625d"
+                "reference": "789ddac51134a7e4a8c1509e48b46135076da0c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-versioned/zipball/107aef4facd8121a45781d063328ec0ba749625d",
-                "reference": "107aef4facd8121a45781d063328ec0ba749625d",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-versioned/zipball/789ddac51134a7e4a8c1509e48b46135076da0c1",
+                "reference": "789ddac51134a7e4a8c1509e48b46135076da0c1",
                 "shasum": ""
             },
             "require": {
@@ -10896,7 +10896,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-versioned/issues",
                 "source": "https://github.com/silverstripe/silverstripe-versioned/tree/3"
             },
-            "time": "2024-08-28T23:05:55+00:00"
+            "time": "2024-08-29T03:12:37+00:00"
         },
         {
             "name": "silverstripe/versioned-admin",
