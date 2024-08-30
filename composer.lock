@@ -8274,12 +8274,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-graphql.git",
-                "reference": "39eb19efb4e7766a21ec49e1e9bf90f81f93ca50"
+                "reference": "a8c75916b177c79645969fee79b826401c3c7b29"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-graphql/zipball/39eb19efb4e7766a21ec49e1e9bf90f81f93ca50",
-                "reference": "39eb19efb4e7766a21ec49e1e9bf90f81f93ca50",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-graphql/zipball/a8c75916b177c79645969fee79b826401c3c7b29",
+                "reference": "a8c75916b177c79645969fee79b826401c3c7b29",
                 "shasum": ""
             },
             "require": {
@@ -8328,7 +8328,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-graphql/tree/pulls/6/standalone"
             },
-            "time": "2024-08-30T00:07:01+00:00"
+            "time": "2024-08-30T05:14:46+00:00"
         },
         {
             "name": "silverstripe/graphql-devtools",
