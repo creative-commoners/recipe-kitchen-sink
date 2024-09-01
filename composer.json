@@ -38,13 +38,19 @@
         "colymba/gridfield-bulk-editing-tools": "5.x-dev",
         "tractorcow/silverstripe-fluent": "8.x-dev",
         "silverstripe/dynamodb": "6.x-dev",
-        "silverstripe/linkfield": "5.x-dev"
-    },
-    "require-dev": {
-        "silverstripe/frameworktest": "^2",
-        "silverstripe/graphql-devtools": "1.x-dev",
-        "silverstripe/recipe-testing": "^4",
-        "mikey179/vfsstream": "^1.6"
+        "silverstripe/linkfield": "5.x-dev",
+        "silverstripe/frameworktest": "2.x-dev",
+        "silverstripe/graphql-devtools": "dev-pulls/1/symfony7 as 1.x-dev",
+        "silverstripe/recipe-testing": "dev-pulls/4/symfony7 as 4.x-dev",
+        "mikey179/vfsstream": "^1.6.10",
+        "silverstripe/assets": "dev-pulls/3/symfony7 as 3.x-dev",
+        "silverstripe/behat-extension": "dev-pulls/6/symfony7 as 6.x-dev",
+        "silverstripe/config": "dev-pulls/3/symfony7 as 3.x-dev",
+        "silverstripe/event-dispatcher": "dev-pulls/2/symfony7 as 2.x-dev",
+        "silverstripe/framework": "dev-pulls/6/symfony7 as 6.x-dev",
+        "silverstripe/session-manager": "dev-pulls/3/symfony7 as 3.x-dev",
+        "silverstripe/versioned": "dev-pulls/3/symfony7 as 3.x-dev",
+        "symbiote/silverstripe-advancedworkflow": "dev-pulls/7/symfony7 as 7.x-dev"
     },
     "extra": {
         "project-files": [
@@ -61,8 +67,60 @@
             "composer/installers": true,
             "silverstripe/recipe-plugin": true,
             "silverstripe/vendor-plugin": true
+        },
+        "platform": {
+            "php": "8.3"
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "x0": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-assets"
+        },
+        "x1": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-behat-extension"
+        },
+        "x2": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-config"
+        },
+        "x3": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-event-dispatcher"
+        },
+        "x4": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-framework"
+        },
+        "x5": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-graphql-devtools"
+        },
+        "x6": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/recipe-testing"
+        },
+        "x7": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-session-manager"
+        },
+        "x8": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-versioned"
+        },
+        "x9": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-advancedworkflow"
+        }
+    },
+    "conflict": {
+        "symfony/cache-contracts": "3.2.1",
+        "symfony/deprecation-contracts": "3.2.1",
+        "symfony/event-dispatcher-contracts": "3.2.1",
+        "symfony/service-contracts": "3.2.1",
+        "symfony/translation-contracts": "3.2.1"
+    }
 }
