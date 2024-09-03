@@ -1,3 +1,6 @@
+---
+Name: dbclassnameconfig
+---
 SilverStripe\ORM\DataObject:
   fixed_fields:
     ClassName: SilverStripe\ORM\FieldType\DBClassNameVarchar
