@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.321.7",
+            "version": "3.321.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "c64ee32d80ec2ab5d8d6a0b77297c2d69602ef3b"
+                "reference": "df456658bdc2ad84a00cf35a7b5af874fdcc7a53"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/c64ee32d80ec2ab5d8d6a0b77297c2d69602ef3b",
-                "reference": "c64ee32d80ec2ab5d8d6a0b77297c2d69602ef3b",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/df456658bdc2ad84a00cf35a7b5af874fdcc7a53",
+                "reference": "df456658bdc2ad84a00cf35a7b5af874fdcc7a53",
                 "shasum": ""
             },
             "require": {
@@ -194,9 +194,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.321.7"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.321.8"
             },
-            "time": "2024-09-09T18:09:23+00:00"
+            "time": "2024-09-10T18:18:03+00:00"
         },
         {
             "name": "behat/behat",
@@ -7093,12 +7093,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "e5245c21e23bca955b9f706e7d359b7f27d1c609"
+                "reference": "037777ba1221dcf26c2edeb7d4ac0a0ccd6931ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/e5245c21e23bca955b9f706e7d359b7f27d1c609",
-                "reference": "e5245c21e23bca955b9f706e7d359b7f27d1c609",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/037777ba1221dcf26c2edeb7d4ac0a0ccd6931ca",
+                "reference": "037777ba1221dcf26c2edeb7d4ac0a0ccd6931ca",
                 "shasum": ""
             },
             "require": {
@@ -7159,7 +7159,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/phpunit11"
             },
-            "time": "2024-09-10T04:41:55+00:00"
+            "time": "2024-09-10T23:58:44+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -7226,12 +7226,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-assets.git",
-                "reference": "2024be762ae1265949483375942d568dee5bb456"
+                "reference": "337777ff625fa25be8a48f50ec6aa16fa355b92f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-assets/zipball/2024be762ae1265949483375942d568dee5bb456",
-                "reference": "2024be762ae1265949483375942d568dee5bb456",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-assets/zipball/337777ff625fa25be8a48f50ec6aa16fa355b92f",
+                "reference": "337777ff625fa25be8a48f50ec6aa16fa355b92f",
                 "shasum": ""
             },
             "require": {
@@ -7293,7 +7293,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-assets/tree/pulls/3/phpunit11"
             },
-            "time": "2024-09-10T06:42:17+00:00"
+            "time": "2024-09-10T23:58:27+00:00"
         },
         {
             "name": "silverstripe/auditor",
@@ -7891,12 +7891,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/developer-docs.git",
-                "reference": "5e2e906a9685a2d8975fe8aea11ca10ec2d3e86e"
+                "reference": "5df953251093394ac972e009bcb0b021ab176f9a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/developer-docs/zipball/5e2e906a9685a2d8975fe8aea11ca10ec2d3e86e",
-                "reference": "5e2e906a9685a2d8975fe8aea11ca10ec2d3e86e",
+                "url": "https://api.github.com/repos/silverstripe/developer-docs/zipball/5df953251093394ac972e009bcb0b021ab176f9a",
+                "reference": "5df953251093394ac972e009bcb0b021ab176f9a",
                 "shasum": ""
             },
             "require-dev": {
@@ -7930,7 +7930,7 @@
                 "issues": "https://github.com/silverstripe/developer-docs/issues",
                 "source": "https://github.com/silverstripe/developer-docs/tree/6"
             },
-            "time": "2024-09-10T04:26:03+00:00"
+            "time": "2024-09-11T00:04:14+00:00"
         },
         {
             "name": "silverstripe/documentconverter",
@@ -8395,12 +8395,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "638fa4b67789f2df29bf7eda4e57cbadeff10fa8"
+                "reference": "9238c8445c958f6bd0f96740a8bfe6814526707b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/638fa4b67789f2df29bf7eda4e57cbadeff10fa8",
-                "reference": "638fa4b67789f2df29bf7eda4e57cbadeff10fa8",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/9238c8445c958f6bd0f96740a8bfe6814526707b",
+                "reference": "9238c8445c958f6bd0f96740a8bfe6814526707b",
                 "shasum": ""
             },
             "require": {
@@ -8530,7 +8530,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/phpunit11"
             },
-            "time": "2024-09-10T06:42:51+00:00"
+            "time": "2024-09-10T23:58:00+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -8972,12 +8972,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-linkfield.git",
-                "reference": "3a05872ebd95c860990fb4d3a074e3385208dc5e"
+                "reference": "abadc8a4572060d5aa5423900ebdda19af9945c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-linkfield/zipball/3a05872ebd95c860990fb4d3a074e3385208dc5e",
-                "reference": "3a05872ebd95c860990fb4d3a074e3385208dc5e",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-linkfield/zipball/abadc8a4572060d5aa5423900ebdda19af9945c0",
+                "reference": "abadc8a4572060d5aa5423900ebdda19af9945c0",
                 "shasum": ""
             },
             "require": {
@@ -9033,7 +9033,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-linkfield/tree/pulls/5/phpunit11"
             },
-            "time": "2024-09-10T07:40:33+00:00"
+            "time": "2024-09-10T23:58:36+00:00"
         },
         {
             "name": "silverstripe/login-forms",
@@ -15192,16 +15192,16 @@
         },
         {
             "name": "webonyx/graphql-php",
-            "version": "v15.13.0",
+            "version": "v15.14.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webonyx/graphql-php.git",
-                "reference": "b3b8c5bba097b0db95098fadb63e8980e184a03b"
+                "reference": "87f956498895757f0808f22c193577ed090f7f3b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/b3b8c5bba097b0db95098fadb63e8980e184a03b",
-                "reference": "b3b8c5bba097b0db95098fadb63e8980e184a03b",
+                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/87f956498895757f0808f22c193577ed090f7f3b",
+                "reference": "87f956498895757f0808f22c193577ed090f7f3b",
                 "shasum": ""
             },
             "require": {
@@ -15214,12 +15214,12 @@
                 "amphp/http-server": "^2.1",
                 "dms/phpunit-arraysubset-asserts": "dev-master",
                 "ergebnis/composer-normalize": "^2.28",
-                "friendsofphp/php-cs-fixer": "3.63.2",
-                "mll-lab/php-cs-fixer-config": "^5",
+                "friendsofphp/php-cs-fixer": "3.64.0",
+                "mll-lab/php-cs-fixer-config": "^5.9.2",
                 "nyholm/psr7": "^1.5",
                 "phpbench/phpbench": "^1.2",
                 "phpstan/extension-installer": "^1.1",
-                "phpstan/phpstan": "1.12.0",
+                "phpstan/phpstan": "1.12.3",
                 "phpstan/phpstan-phpunit": "1.4.0",
                 "phpstan/phpstan-strict-rules": "1.6.0",
                 "phpunit/phpunit": "^9.5 || ^10.5.21",
@@ -15254,7 +15254,7 @@
             ],
             "support": {
                 "issues": "https://github.com/webonyx/graphql-php/issues",
-                "source": "https://github.com/webonyx/graphql-php/tree/v15.13.0"
+                "source": "https://github.com/webonyx/graphql-php/tree/v15.14.0"
             },
             "funding": [
                 {
@@ -15262,7 +15262,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2024-08-29T10:55:21+00:00"
+            "time": "2024-09-10T10:36:37+00:00"
         }
     ],
     "packages-dev": [],
