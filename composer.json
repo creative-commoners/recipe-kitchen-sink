@@ -31,7 +31,7 @@
         "silverstripe/subsites": "dev-pulls/4/phpunit11 as 4.x-dev",
         "silverstripe/lumberjack": "dev-pulls/4/phpunit11 as 4.x-dev",
         "silverstripe/staticpublishqueue": "dev-pulls/7/phpunit11 as 7.x-dev",
-        "dnadesign/silverstripe-elemental-userforms": "5.x-dev",
+        "dnadesign/silverstripe-elemental-userforms": "dev-pulls/5/phpunit11 as 5.x-dev",
         "symbiote/silverstripe-multivaluefield": "dev-pulls/7/phpunit11 as 7.x-dev",
         "symbiote/silverstripe-gridfieldextensions": "dev-pulls/5/phpunit11 as 5.x-dev",
         "symbiote/silverstripe-queuedjobs": "dev-pulls/6/phpunit11 as 6.x-dev",
@@ -83,7 +83,8 @@
         "silverstripe/versionfeed": "dev-pulls/4/phpunit11 as 4.x-dev",
         "symbiote/silverstripe-advancedworkflow": "dev-pulls/7/phpunit11 as 7.x-dev",
         "silverstripe/closure": "dev-pulls/3.9/phpunit11 as 3.9.x-dev",
-        "silverstripe/markdown-php-codesniffer": "dev-pulls/1.0/phpunit11 as 1.0.x-dev"
+        "silverstripe/markdown-php-codesniffer": "dev-pulls/1.0/phpunit11 as 1.0.x-dev",
+        "silverstripe/contentreview": "dev-pulls/6/phpunit11 as 6.x-dev"
     },
     "extra": {
         "project-files": [
@@ -395,6 +396,14 @@
         "x71": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/markdown-php-codesniffer"
+        },
+        "x72": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-elemental-userforms"
+        },
+        "x73": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-contentreview"
         }
     },
     "conflict": {
