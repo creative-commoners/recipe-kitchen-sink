@@ -7751,12 +7751,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-contentreview.git",
-                "reference": "511144e8861a8a9e6eb942a82e55036f1788ec24"
+                "reference": "df79207c60f9f80bfd5a90a63db4f1c10ac63062"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-contentreview/zipball/511144e8861a8a9e6eb942a82e55036f1788ec24",
-                "reference": "511144e8861a8a9e6eb942a82e55036f1788ec24",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-contentreview/zipball/df79207c60f9f80bfd5a90a63db4f1c10ac63062",
+                "reference": "df79207c60f9f80bfd5a90a63db4f1c10ac63062",
                 "shasum": ""
             },
             "require": {
@@ -7819,7 +7819,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-contentreview/tree/pulls/6/phpunit11"
             },
-            "time": "2024-09-10T05:17:21+00:00"
+            "time": "2024-09-12T03:16:46+00:00"
         },
         {
             "name": "silverstripe/crontask",
@@ -8391,12 +8391,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "71e5d715d2d04dd45f99b35202178f92b2804fe9"
+                "reference": "9878ee68355d48765a4d4bf11e612e2d83cfd08a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/71e5d715d2d04dd45f99b35202178f92b2804fe9",
-                "reference": "71e5d715d2d04dd45f99b35202178f92b2804fe9",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/9878ee68355d48765a4d4bf11e612e2d83cfd08a",
+                "reference": "9878ee68355d48765a4d4bf11e612e2d83cfd08a",
                 "shasum": ""
             },
             "require": {
@@ -8526,7 +8526,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/phpunit11"
             },
-            "time": "2024-09-12T01:25:04+00:00"
+            "time": "2024-09-12T03:16:30+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
