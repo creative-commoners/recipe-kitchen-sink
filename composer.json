@@ -18,7 +18,7 @@
         "silverstripe/auditor": "3.x-dev",
         "silverstripe/developer-docs": "5.x-dev",
         "silverstripe/environmentcheck": "3.x-dev",
-        "silverstripe/hybridsessions": "3.x-dev",
+        "silverstripe/hybridsessions": "dev-pulls/3/db-replica as 3.x-dev",
         "silverstripe/registry": "3.x-dev",
         "silverstripe/totp-authenticator": "5.x-dev",
         "silverstripe/mfa": "5.x-dev",
@@ -41,13 +41,14 @@
         "colymba/gridfield-bulk-editing-tools": "4.x-dev",
         "tractorcow/silverstripe-fluent": "7.x-dev",
         "silverstripe/dynamodb": "5.x-dev",
-        "silverstripe/linkfield": "4.x-dev"
-    },
-    "require-dev": {
-        "silverstripe/frameworktest": "^1",
+        "silverstripe/linkfield": "4.x-dev",
+        "silverstripe/frameworktest": "1.x-dev",
         "silverstripe/graphql-devtools": "1.x-dev",
         "silverstripe/recipe-testing": "^3",
-        "mikey179/vfsstream": "^1.6"
+        "mikey179/vfsstream": "^1.6.10",
+        "silverstripe/framework": "dev-pulls/5/db-replica as 5.x-dev",
+        "silverstripe/admin": "dev-pulls/2/db-replica as 2.x-dev",
+        "silverstripe/session-manager": "dev-pulls/2/db-replica as 2.x-dev"
     },
     "extra": {
         "project-files": [
@@ -64,8 +65,36 @@
             "composer/installers": true,
             "silverstripe/recipe-plugin": true,
             "silverstripe/vendor-plugin": true
+        },
+        "platform": {
+            "php": "8.1"
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "x0": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-framework"
+        },
+        "x1": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-admin"
+        },
+        "x2": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-session-manager"
+        },
+        "x3": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-hybridsessions"
+        }
+    },
+    "conflict": {
+        "symfony/cache-contracts": "3.2.1",
+        "symfony/deprecation-contracts": "3.2.1",
+        "symfony/event-dispatcher-contracts": "3.2.1",
+        "symfony/service-contracts": "3.2.1",
+        "symfony/translation-contracts": "3.2.1"
+    }
 }
