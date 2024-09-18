@@ -7752,12 +7752,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-contentreview.git",
-                "reference": "c58902a27f3da4b8334ba5ba1cf637ed07cc1404"
+                "reference": "7d086ceb821e1f5e7435a1c90bb68016cb88150d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-contentreview/zipball/c58902a27f3da4b8334ba5ba1cf637ed07cc1404",
-                "reference": "c58902a27f3da4b8334ba5ba1cf637ed07cc1404",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-contentreview/zipball/7d086ceb821e1f5e7435a1c90bb68016cb88150d",
+                "reference": "7d086ceb821e1f5e7435a1c90bb68016cb88150d",
                 "shasum": ""
             },
             "require": {
@@ -7820,7 +7820,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-contentreview/tree/pulls/6/phpunit11"
             },
-            "time": "2024-09-17T23:38:41+00:00"
+            "time": "2024-09-18T01:53:15+00:00"
         },
         {
             "name": "silverstripe/crontask",
@@ -8392,12 +8392,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "e2010cfd1e67ba395174f03efb90a17c08693bd8"
+                "reference": "9a92488ad77635588ed5884dd3d23b375f9d47a6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/e2010cfd1e67ba395174f03efb90a17c08693bd8",
-                "reference": "e2010cfd1e67ba395174f03efb90a17c08693bd8",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/9a92488ad77635588ed5884dd3d23b375f9d47a6",
+                "reference": "9a92488ad77635588ed5884dd3d23b375f9d47a6",
                 "shasum": ""
             },
             "require": {
@@ -8527,7 +8527,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/phpunit11"
             },
-            "time": "2024-09-17T23:39:37+00:00"
+            "time": "2024-09-18T01:53:44+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -12043,12 +12043,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-queuedjobs.git",
-                "reference": "00144f3d19fbcdc23fc52b66f62e3404b555c9ea"
+                "reference": "44a56a227cfd6d9803f29bcc69b664a8176b381f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-queuedjobs/zipball/00144f3d19fbcdc23fc52b66f62e3404b555c9ea",
-                "reference": "00144f3d19fbcdc23fc52b66f62e3404b555c9ea",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-queuedjobs/zipball/44a56a227cfd6d9803f29bcc69b664a8176b381f",
+                "reference": "44a56a227cfd6d9803f29bcc69b664a8176b381f",
                 "shasum": ""
             },
             "require": {
@@ -12099,7 +12099,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-queuedjobs/tree/pulls/6/phpunit11"
             },
-            "time": "2024-09-17T23:44:55+00:00"
+            "time": "2024-09-18T01:54:13+00:00"
         },
         {
             "name": "symfony/cache",
