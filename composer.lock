@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c64e1f2a493ae0a37286a9108633cddb",
+    "content-hash": "bef75c8282959a151939367dc6bf4b16",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.322.4",
+            "version": "3.322.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "f6d2c64cb87d9e70ad99aeaffcd879a412d2ccb5"
+                "reference": "968fe51da0854eac0e0aeac6ec8b86856c6bd83e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/f6d2c64cb87d9e70ad99aeaffcd879a412d2ccb5",
-                "reference": "f6d2c64cb87d9e70ad99aeaffcd879a412d2ccb5",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/968fe51da0854eac0e0aeac6ec8b86856c6bd83e",
+                "reference": "968fe51da0854eac0e0aeac6ec8b86856c6bd83e",
                 "shasum": ""
             },
             "require": {
@@ -194,9 +194,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.322.4"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.322.5"
             },
-            "time": "2024-09-24T18:10:10+00:00"
+            "time": "2024-09-25T18:14:27+00:00"
         },
         {
             "name": "behat/behat",
@@ -739,16 +739,16 @@
         },
         {
             "name": "composer/ca-bundle",
-            "version": "1.5.1",
+            "version": "1.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/ca-bundle.git",
-                "reference": "063d9aa8696582f5a41dffbbaf3c81024f0a604a"
+                "reference": "48a792895a2b7a6ee65dd5442c299d7b835b6137"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/063d9aa8696582f5a41dffbbaf3c81024f0a604a",
-                "reference": "063d9aa8696582f5a41dffbbaf3c81024f0a604a",
+                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/48a792895a2b7a6ee65dd5442c299d7b835b6137",
+                "reference": "48a792895a2b7a6ee65dd5442c299d7b835b6137",
                 "shasum": ""
             },
             "require": {
@@ -758,8 +758,8 @@
             },
             "require-dev": {
                 "phpstan/phpstan": "^1.10",
+                "phpunit/phpunit": "^8 || ^9",
                 "psr/log": "^1.0 || ^2.0 || ^3.0",
-                "symfony/phpunit-bridge": "^4.2 || ^5",
                 "symfony/process": "^4.0 || ^5.0 || ^6.0 || ^7.0"
             },
             "type": "library",
@@ -795,7 +795,7 @@
             "support": {
                 "irc": "irc://irc.freenode.org/composer",
                 "issues": "https://github.com/composer/ca-bundle/issues",
-                "source": "https://github.com/composer/ca-bundle/tree/1.5.1"
+                "source": "https://github.com/composer/ca-bundle/tree/1.5.2"
             },
             "funding": [
                 {
@@ -811,7 +811,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-07-08T15:28:20+00:00"
+            "time": "2024-09-25T07:49:53+00:00"
         },
         {
             "name": "composer/class-map-generator",
@@ -8041,12 +8041,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-contentreview.git",
-                "reference": "3f09b871c3618f33a84b19127ba0805d341ae75a"
+                "reference": "40e45cda53c414650ee9db415d344ab9f02dc371"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-contentreview/zipball/3f09b871c3618f33a84b19127ba0805d341ae75a",
-                "reference": "3f09b871c3618f33a84b19127ba0805d341ae75a",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-contentreview/zipball/40e45cda53c414650ee9db415d344ab9f02dc371",
+                "reference": "40e45cda53c414650ee9db415d344ab9f02dc371",
                 "shasum": ""
             },
             "require": {
@@ -8109,7 +8109,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-contentreview/issues",
                 "source": "https://github.com/silverstripe/silverstripe-contentreview/tree/5"
             },
-            "time": "2024-09-23T21:39:51+00:00"
+            "time": "2024-09-25T04:11:45+00:00"
         },
         {
             "name": "silverstripe/crontask",
@@ -8686,12 +8686,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "2d413619b539d571f4095ec90724c18d37990923"
+                "reference": "d66c230e4f2c96a2281260d811142c62644e3cf1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/2d413619b539d571f4095ec90724c18d37990923",
-                "reference": "2d413619b539d571f4095ec90724c18d37990923",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/d66c230e4f2c96a2281260d811142c62644e3cf1",
+                "reference": "d66c230e4f2c96a2281260d811142c62644e3cf1",
                 "shasum": ""
             },
             "require": {
@@ -8822,7 +8822,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/5/db-replica"
             },
-            "time": "2024-09-25T02:57:56+00:00"
+            "time": "2024-09-26T04:13:20+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -9055,12 +9055,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-hybridsessions.git",
-                "reference": "16e754e523a838460265a39760fbe96823386532"
+                "reference": "a1761cd30840a414fe4802760dbfe198af3d9fe1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-hybridsessions/zipball/16e754e523a838460265a39760fbe96823386532",
-                "reference": "16e754e523a838460265a39760fbe96823386532",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-hybridsessions/zipball/a1761cd30840a414fe4802760dbfe198af3d9fe1",
+                "reference": "a1761cd30840a414fe4802760dbfe198af3d9fe1",
                 "shasum": ""
             },
             "require": {
@@ -9099,7 +9099,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-hybridsessions/tree/pulls/3/db-replica"
             },
-            "time": "2024-09-24T23:12:05+00:00"
+            "time": "2024-09-26T03:22:54+00:00"
         },
         {
             "name": "silverstripe/iframe",
@@ -9446,16 +9446,16 @@
         },
         {
             "name": "silverstripe/mfa",
-            "version": "5.x-dev",
+            "version": "dev-pulls/5/db-replica",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-mfa.git",
-                "reference": "9373bc7ded9d61e9144c6e9b148ecc772dc2bd40"
+                "url": "https://github.com/creative-commoners/silverstripe-mfa.git",
+                "reference": "2169046b80c12d96f8e893edb2f77519c75a9cb7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-mfa/zipball/9373bc7ded9d61e9144c6e9b148ecc772dc2bd40",
-                "reference": "9373bc7ded9d61e9144c6e9b148ecc772dc2bd40",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-mfa/zipball/2169046b80c12d96f8e893edb2f77519c75a9cb7",
+                "reference": "2169046b80c12d96f8e893edb2f77519c75a9cb7",
                 "shasum": ""
             },
             "require": {
@@ -9481,7 +9481,6 @@
                 "silverstripe/totp-authenticator": "Adds a method to authenticate with you phone using a time-based one-time password.",
                 "silverstripe/webauthn-authenticator": "Adds a method to authenticate with security keys or built-in platform authenticators."
             },
-            "default-branch": true,
             "type": "silverstripe-vendormodule",
             "extra": {
                 "expose": [
@@ -9496,7 +9495,6 @@
                     "SilverStripe\\MFA\\Tests\\Behat\\": "tests/Behat/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9516,17 +9514,17 @@
             ],
             "description": "Enable multi-factor authentication with fallback codes",
             "keywords": [
-                "2-Factor",
-                "Authentication",
+                "2-factor",
+                "authentication",
                 "module",
                 "security",
                 "silverstripe"
             ],
             "support": {
                 "issues": "https://github.com/silverstripe/silverstripe-mfa/issues",
-                "source": "https://github.com/silverstripe/silverstripe-mfa/tree/5"
+                "source": "https://github.com/creative-commoners/silverstripe-mfa/tree/pulls/5/db-replica"
             },
-            "time": "2024-09-02T02:09:45+00:00"
+            "time": "2024-09-26T03:17:08+00:00"
         },
         {
             "name": "silverstripe/mimevalidator",
@@ -10596,12 +10594,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-session-manager.git",
-                "reference": "08362390d355bd7d8a8603013a8b5b9ea7768520"
+                "reference": "247c58036d535a4975a856d13056e055ab12c9cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-session-manager/zipball/08362390d355bd7d8a8603013a8b5b9ea7768520",
-                "reference": "08362390d355bd7d8a8603013a8b5b9ea7768520",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-session-manager/zipball/247c58036d535a4975a856d13056e055ab12c9cb",
+                "reference": "247c58036d535a4975a856d13056e055ab12c9cb",
                 "shasum": ""
             },
             "require": {
@@ -10661,7 +10659,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-session-manager/tree/pulls/2/db-replica"
             },
-            "time": "2024-09-24T23:11:39+00:00"
+            "time": "2024-09-26T03:24:54+00:00"
         },
         {
             "name": "silverstripe/sharedraftcontent",
@@ -11217,12 +11215,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-testsession.git",
-                "reference": "5d14e87748af4d3bddd9a20846baed407e58d400"
+                "reference": "51e738d0c7b8a38f234483e59346baf1678aa222"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-testsession/zipball/5d14e87748af4d3bddd9a20846baed407e58d400",
-                "reference": "5d14e87748af4d3bddd9a20846baed407e58d400",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-testsession/zipball/51e738d0c7b8a38f234483e59346baf1678aa222",
+                "reference": "51e738d0c7b8a38f234483e59346baf1678aa222",
                 "shasum": ""
             },
             "require": {
@@ -11269,7 +11267,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-testsession/tree/pulls/3/db-replica"
             },
-            "time": "2024-09-24T23:03:19+00:00"
+            "time": "2024-09-26T03:19:07+00:00"
         },
         {
             "name": "silverstripe/textextraction",
@@ -15748,6 +15746,12 @@
             "version": "dev-pulls/3/db-replica",
             "alias": "3.x-dev",
             "alias_normalized": "3.9999999.9999999.9999999-dev"
+        },
+        {
+            "package": "silverstripe/mfa",
+            "version": "dev-pulls/5/db-replica",
+            "alias": "5.x-dev",
+            "alias_normalized": "5.9999999.9999999.9999999-dev"
         },
         {
             "package": "silverstripe/session-manager",
