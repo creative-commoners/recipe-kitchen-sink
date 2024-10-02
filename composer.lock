@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.322.9",
+            "version": "3.322.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "0bd7513a7dd9b5330cb92575da99d9057f79b39c"
+                "reference": "0adb58bc7989068b489d320970951163847b520b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/0bd7513a7dd9b5330cb92575da99d9057f79b39c",
-                "reference": "0bd7513a7dd9b5330cb92575da99d9057f79b39c",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/0adb58bc7989068b489d320970951163847b520b",
+                "reference": "0adb58bc7989068b489d320970951163847b520b",
                 "shasum": ""
             },
             "require": {
@@ -194,9 +194,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.322.9"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.322.10"
             },
-            "time": "2024-10-01T18:23:10+00:00"
+            "time": "2024-10-02T18:14:16+00:00"
         },
         {
             "name": "behat/behat",
@@ -888,16 +888,16 @@
         },
         {
             "name": "composer/composer",
-            "version": "2.7.9",
+            "version": "2.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "e30ccdd665828ae66eb1be78f056e39e1d5f55ab"
+                "reference": "d5e75c21ceeb6829918a75ed63b56c576b4a6261"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/e30ccdd665828ae66eb1be78f056e39e1d5f55ab",
-                "reference": "e30ccdd665828ae66eb1be78f056e39e1d5f55ab",
+                "url": "https://api.github.com/repos/composer/composer/zipball/d5e75c21ceeb6829918a75ed63b56c576b4a6261",
+                "reference": "d5e75c21ceeb6829918a75ed63b56c576b4a6261",
                 "shasum": ""
             },
             "require": {
@@ -942,7 +942,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "2.7-dev"
+                    "dev-main": "2.8-dev"
                 },
                 "phpstan": {
                     "includes": [
@@ -982,7 +982,7 @@
                 "irc": "ircs://irc.libera.chat:6697/composer",
                 "issues": "https://github.com/composer/composer/issues",
                 "security": "https://github.com/composer/composer/security/policy",
-                "source": "https://github.com/composer/composer/tree/2.7.9"
+                "source": "https://github.com/composer/composer/tree/2.8.0"
             },
             "funding": [
                 {
@@ -998,7 +998,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-09-04T12:43:28+00:00"
+            "time": "2024-10-02T14:40:29+00:00"
         },
         {
             "name": "composer/installers",
@@ -6990,12 +6990,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-behat-extension.git",
-                "reference": "975ff8dd8153a090f72fc312b5423c606f41cdc7"
+                "reference": "e9378fc9beb83bf82019d4304a1506faf90a8467"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-behat-extension/zipball/975ff8dd8153a090f72fc312b5423c606f41cdc7",
-                "reference": "975ff8dd8153a090f72fc312b5423c606f41cdc7",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-behat-extension/zipball/e9378fc9beb83bf82019d4304a1506faf90a8467",
+                "reference": "e9378fc9beb83bf82019d4304a1506faf90a8467",
                 "shasum": ""
             },
             "require": {
@@ -7047,7 +7047,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-behat-extension/issues",
                 "source": "https://github.com/silverstripe/silverstripe-behat-extension/tree/6"
             },
-            "time": "2024-09-26T05:29:53+00:00"
+            "time": "2024-10-02T04:32:00+00:00"
         },
         {
             "name": "silverstripe/blog",
@@ -7255,12 +7255,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-cms.git",
-                "reference": "6194844f616121908eef4be519f489b3f4b5a448"
+                "reference": "bd48b04731f0c83dd9af07d15bc444250d3a12dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/6194844f616121908eef4be519f489b3f4b5a448",
-                "reference": "6194844f616121908eef4be519f489b3f4b5a448",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/bd48b04731f0c83dd9af07d15bc444250d3a12dc",
+                "reference": "bd48b04731f0c83dd9af07d15bc444250d3a12dc",
                 "shasum": ""
             },
             "require": {
@@ -7321,7 +7321,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-cms/issues",
                 "source": "https://github.com/silverstripe/silverstripe-cms/tree/6"
             },
-            "time": "2024-09-26T22:00:33+00:00"
+            "time": "2024-10-02T05:39:01+00:00"
         },
         {
             "name": "silverstripe/config",
@@ -8011,12 +8011,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "2dbb1a4e6373f27c8fc34ea56c94933cd2af2bf2"
+                "reference": "0a6f3db598d09acf9a2d795383ca44f71cf040b9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/2dbb1a4e6373f27c8fc34ea56c94933cd2af2bf2",
-                "reference": "2dbb1a4e6373f27c8fc34ea56c94933cd2af2bf2",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/0a6f3db598d09acf9a2d795383ca44f71cf040b9",
+                "reference": "0a6f3db598d09acf9a2d795383ca44f71cf040b9",
                 "shasum": ""
             },
             "require": {
@@ -8154,7 +8154,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/5/db-replica"
             },
-            "time": "2024-10-02T01:45:05+00:00"
+            "time": "2024-10-02T21:41:10+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -9041,12 +9041,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-authoring-tools.git",
-                "reference": "18c8df0a94a4895cc6349af6f2c7336654b1a840"
+                "reference": "ceef4f2078e790b3cbc5e9c3d19925a2ce3ada8f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-authoring-tools/zipball/18c8df0a94a4895cc6349af6f2c7336654b1a840",
-                "reference": "18c8df0a94a4895cc6349af6f2c7336654b1a840",
+                "url": "https://api.github.com/repos/silverstripe/recipe-authoring-tools/zipball/ceef4f2078e790b3cbc5e9c3d19925a2ce3ada8f",
+                "reference": "ceef4f2078e790b3cbc5e9c3d19925a2ce3ada8f",
                 "shasum": ""
             },
             "require": {
@@ -9075,7 +9075,7 @@
                 "issues": "https://github.com/silverstripe/recipe-authoring-tools/issues",
                 "source": "https://github.com/silverstripe/recipe-authoring-tools/tree/3"
             },
-            "time": "2024-09-18T03:31:39+00:00"
+            "time": "2024-10-02T21:41:32+00:00"
         },
         {
             "name": "silverstripe/recipe-blog",
