@@ -16,7 +16,7 @@
         "silverstripe/recipe-services": "3.x-dev",
         "silverstripe/recipe-content-blocks": "4.x-dev",
         "silverstripe/auditor": "4.x-dev",
-        "silverstripe/developer-docs": "6.x-dev",
+        "silverstripe/developer-docs": "dev-pulls/6/field-validators as 6.x-dev",
         "silverstripe/environmentcheck": "4.x-dev",
         "silverstripe/hybridsessions": "4.x-dev",
         "silverstripe/registry": "4.x-dev",
@@ -39,13 +39,16 @@
         "tractorcow/silverstripe-fluent": "8.x-dev",
         "silverstripe/dynamodb": "6.x-dev",
         "silverstripe/linkfield": "5.x-dev",
-        "silverstripe/graphql": "6.x-dev"
-    },
-    "require-dev": {
-        "silverstripe/frameworktest": "^2",
+        "silverstripe/graphql": "6.x-dev",
+        "silverstripe/frameworktest": "2.x-dev",
         "silverstripe/graphql-devtools": "2.x-dev",
         "silverstripe/recipe-testing": "^4",
-        "mikey179/vfsstream": "^1.6"
+        "mikey179/vfsstream": "^1.6.10",
+        "silverstripe/framework": "dev-pulls/6/field-validators as 6.x-dev",
+        "silverstripe/assets": "dev-pulls/3/field-validators as 3.x-dev",
+        "silverstripe/asset-admin": "dev-pulls/3/field-validators as 3.x-dev",
+        "silverstripe/campaign-admin": "dev-pulls/3/field-validators as 3.x-dev",
+        "silverstripe/cms": "dev-pulls/6/field-validators as 6.x-dev"
     },
     "extra": {
         "project-files": [
@@ -62,8 +65,44 @@
             "composer/installers": true,
             "silverstripe/recipe-plugin": true,
             "silverstripe/vendor-plugin": true
+        },
+        "platform": {
+            "php": "8.3"
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "x0": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-framework"
+        },
+        "x1": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-assets"
+        },
+        "x2": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-asset-admin"
+        },
+        "x3": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-campaign-admin"
+        },
+        "x4": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-cms"
+        },
+        "x5": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/developer-docs"
+        }
+    },
+    "conflict": {
+        "symfony/cache-contracts": "3.2.1",
+        "symfony/deprecation-contracts": "3.2.1",
+        "symfony/event-dispatcher-contracts": "3.2.1",
+        "symfony/service-contracts": "3.2.1",
+        "symfony/translation-contracts": "3.2.1"
+    }
 }
