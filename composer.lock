@@ -4436,6 +4436,67 @@
             "time": "2022-02-21T01:04:05+00:00"
         },
         {
+            "name": "php-parallel-lint/php-parallel-lint",
+            "version": "v1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-parallel-lint/PHP-Parallel-Lint.git",
+                "reference": "6db563514f27e19595a19f45a4bf757b6401194e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-parallel-lint/PHP-Parallel-Lint/zipball/6db563514f27e19595a19f45a4bf757b6401194e",
+                "reference": "6db563514f27e19595a19f45a4bf757b6401194e",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=5.3.0"
+            },
+            "replace": {
+                "grogy/php-parallel-lint": "*",
+                "jakub-onderka/php-parallel-lint": "*"
+            },
+            "require-dev": {
+                "nette/tester": "^1.3 || ^2.0",
+                "php-parallel-lint/php-console-highlighter": "0.* || ^1.0",
+                "squizlabs/php_codesniffer": "^3.6"
+            },
+            "suggest": {
+                "php-parallel-lint/php-console-highlighter": "Highlight syntax in code snippet"
+            },
+            "bin": [
+                "parallel-lint"
+            ],
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "./src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jakub Onderka",
+                    "email": "ahoj@jakubonderka.cz"
+                }
+            ],
+            "description": "This tool checks the syntax of PHP files about 20x faster than serial check.",
+            "homepage": "https://github.com/php-parallel-lint/PHP-Parallel-Lint",
+            "keywords": [
+                "lint",
+                "static analysis"
+            ],
+            "support": {
+                "issues": "https://github.com/php-parallel-lint/PHP-Parallel-Lint/issues",
+                "source": "https://github.com/php-parallel-lint/PHP-Parallel-Lint/tree/v1.4.0"
+            },
+            "time": "2024-03-27T12:14:49+00:00"
+        },
+        {
             "name": "php-webdriver/webdriver",
             "version": "1.15.1",
             "source": {
@@ -8491,12 +8552,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-installer.git",
-                "reference": "a0ae625d65e7ca6707a4b3a8dc44de4b22753fc4"
+                "reference": "7a2b2cf83f0ea116896820269b69d7d8594dfb78"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-installer/zipball/a0ae625d65e7ca6707a4b3a8dc44de4b22753fc4",
-                "reference": "a0ae625d65e7ca6707a4b3a8dc44de4b22753fc4",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-installer/zipball/7a2b2cf83f0ea116896820269b69d7d8594dfb78",
+                "reference": "7a2b2cf83f0ea116896820269b69d7d8594dfb78",
                 "shasum": ""
             },
             "require": {
@@ -8528,7 +8589,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-installer/issues",
                 "source": "https://github.com/silverstripe/silverstripe-installer/tree/6"
             },
-            "time": "2024-09-18T03:31:26+00:00"
+            "time": "2024-10-02T21:58:20+00:00"
         },
         {
             "name": "silverstripe/ldap",
@@ -8600,12 +8661,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-linkfield.git",
-                "reference": "37f25d7b620af136bf79b12c24074271ec2a6181"
+                "reference": "0f83e151515badef292f1f231c561dce47f76b85"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-linkfield/zipball/37f25d7b620af136bf79b12c24074271ec2a6181",
-                "reference": "37f25d7b620af136bf79b12c24074271ec2a6181",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-linkfield/zipball/0f83e151515badef292f1f231c561dce47f76b85",
+                "reference": "0f83e151515badef292f1f231c561dce47f76b85",
                 "shasum": ""
             },
             "require": {
@@ -8655,7 +8716,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-linkfield/issues",
                 "source": "https://github.com/silverstripe/silverstripe-linkfield/tree/5"
             },
-            "time": "2024-09-30T20:36:45+00:00"
+            "time": "2024-10-02T21:59:59+00:00"
         },
         {
             "name": "silverstripe/login-forms",
@@ -9083,12 +9144,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-blog.git",
-                "reference": "9318a052a8e76dc10d911416450da7134fdf5b98"
+                "reference": "6a55d04a1cfadda9c51e7f67d909cd4597e99280"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-blog/zipball/9318a052a8e76dc10d911416450da7134fdf5b98",
-                "reference": "9318a052a8e76dc10d911416450da7134fdf5b98",
+                "url": "https://api.github.com/repos/silverstripe/recipe-blog/zipball/6a55d04a1cfadda9c51e7f67d909cd4597e99280",
+                "reference": "6a55d04a1cfadda9c51e7f67d909cd4597e99280",
                 "shasum": ""
             },
             "require": {
@@ -9119,7 +9180,7 @@
                 "issues": "https://github.com/silverstripe/recipe-blog/issues",
                 "source": "https://github.com/silverstripe/recipe-blog/tree/3"
             },
-            "time": "2024-09-18T03:34:09+00:00"
+            "time": "2024-10-02T22:17:23+00:00"
         },
         {
             "name": "silverstripe/recipe-cms",
@@ -9127,12 +9188,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-cms.git",
-                "reference": "e23c292d7fcd837200053a1fea2ba4ec05c6aed7"
+                "reference": "01469b4217c76aa4b01fe5b88228305c8c5cd4b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-cms/zipball/e23c292d7fcd837200053a1fea2ba4ec05c6aed7",
-                "reference": "e23c292d7fcd837200053a1fea2ba4ec05c6aed7",
+                "url": "https://api.github.com/repos/silverstripe/recipe-cms/zipball/01469b4217c76aa4b01fe5b88228305c8c5cd4b6",
+                "reference": "01469b4217c76aa4b01fe5b88228305c8c5cd4b6",
                 "shasum": ""
             },
             "require": {
@@ -9171,7 +9232,7 @@
                 "issues": "https://github.com/silverstripe/recipe-cms/issues",
                 "source": "https://github.com/silverstripe/recipe-cms/tree/6"
             },
-            "time": "2024-09-18T03:34:11+00:00"
+            "time": "2024-10-02T22:15:52+00:00"
         },
         {
             "name": "silverstripe/recipe-collaboration",
@@ -9179,12 +9240,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-collaboration.git",
-                "reference": "07c8d14adb4dcf97c510d41a1f4620216f673171"
+                "reference": "5cf13231be6bd93579cd8e6159d750cac3affb36"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-collaboration/zipball/07c8d14adb4dcf97c510d41a1f4620216f673171",
-                "reference": "07c8d14adb4dcf97c510d41a1f4620216f673171",
+                "url": "https://api.github.com/repos/silverstripe/recipe-collaboration/zipball/5cf13231be6bd93579cd8e6159d750cac3affb36",
+                "reference": "5cf13231be6bd93579cd8e6159d750cac3affb36",
                 "shasum": ""
             },
             "require": {
@@ -9215,7 +9276,7 @@
                 "issues": "https://github.com/silverstripe/recipe-collaboration/issues",
                 "source": "https://github.com/silverstripe/recipe-collaboration/tree/3"
             },
-            "time": "2024-09-18T03:34:12+00:00"
+            "time": "2024-10-02T22:14:32+00:00"
         },
         {
             "name": "silverstripe/recipe-content-blocks",
@@ -9223,12 +9284,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-content-blocks.git",
-                "reference": "c7e5aed8ac42b0640938abbee0b1b63633f56180"
+                "reference": "1d9c02b78e1f58586cc9c666e42dfa0e0711206f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-content-blocks/zipball/c7e5aed8ac42b0640938abbee0b1b63633f56180",
-                "reference": "c7e5aed8ac42b0640938abbee0b1b63633f56180",
+                "url": "https://api.github.com/repos/silverstripe/recipe-content-blocks/zipball/1d9c02b78e1f58586cc9c666e42dfa0e0711206f",
+                "reference": "1d9c02b78e1f58586cc9c666e42dfa0e0711206f",
                 "shasum": ""
             },
             "require": {
@@ -9263,7 +9324,7 @@
                 "issues": "https://github.com/silverstripe/recipe-content-blocks/issues",
                 "source": "https://github.com/silverstripe/recipe-content-blocks/tree/4"
             },
-            "time": "2024-09-18T03:34:14+00:00"
+            "time": "2024-10-02T22:13:20+00:00"
         },
         {
             "name": "silverstripe/recipe-core",
@@ -9271,12 +9332,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-core.git",
-                "reference": "7cfef12f3a184ee9b6fb08545ba1e27602d52856"
+                "reference": "2627ef745f97038e1369aa490bf74beabce8e51f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-core/zipball/7cfef12f3a184ee9b6fb08545ba1e27602d52856",
-                "reference": "7cfef12f3a184ee9b6fb08545ba1e27602d52856",
+                "url": "https://api.github.com/repos/silverstripe/recipe-core/zipball/2627ef745f97038e1369aa490bf74beabce8e51f",
+                "reference": "2627ef745f97038e1369aa490bf74beabce8e51f",
                 "shasum": ""
             },
             "require": {
@@ -9314,7 +9375,7 @@
                 "issues": "https://github.com/silverstripe/recipe-core/issues",
                 "source": "https://github.com/silverstripe/recipe-core/tree/6"
             },
-            "time": "2024-09-18T03:34:15+00:00"
+            "time": "2024-10-02T22:12:03+00:00"
         },
         {
             "name": "silverstripe/recipe-form-building",
@@ -9322,12 +9383,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-form-building.git",
-                "reference": "58cfcd0781496b5507e6c64b68a1bdd08cd9a25a"
+                "reference": "a3a67453c93b03313cea41b6ca8db93f882bd8fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-form-building/zipball/58cfcd0781496b5507e6c64b68a1bdd08cd9a25a",
-                "reference": "58cfcd0781496b5507e6c64b68a1bdd08cd9a25a",
+                "url": "https://api.github.com/repos/silverstripe/recipe-form-building/zipball/a3a67453c93b03313cea41b6ca8db93f882bd8fa",
+                "reference": "a3a67453c93b03313cea41b6ca8db93f882bd8fa",
                 "shasum": ""
             },
             "require": {
@@ -9360,7 +9421,7 @@
                 "issues": "https://github.com/silverstripe/recipe-form-building/issues",
                 "source": "https://github.com/silverstripe/recipe-form-building/tree/3"
             },
-            "time": "2024-09-18T03:34:17+00:00"
+            "time": "2024-10-02T22:10:39+00:00"
         },
         {
             "name": "silverstripe/recipe-plugin",
@@ -9417,12 +9478,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-reporting-tools.git",
-                "reference": "778585bd050096619ad89c7e4e056442fa1b93eb"
+                "reference": "331fe25e49140f75cc2cc5f1c4e54c945fa01f32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-reporting-tools/zipball/778585bd050096619ad89c7e4e056442fa1b93eb",
-                "reference": "778585bd050096619ad89c7e4e056442fa1b93eb",
+                "url": "https://api.github.com/repos/silverstripe/recipe-reporting-tools/zipball/331fe25e49140f75cc2cc5f1c4e54c945fa01f32",
+                "reference": "331fe25e49140f75cc2cc5f1c4e54c945fa01f32",
                 "shasum": ""
             },
             "require": {
@@ -9453,7 +9514,7 @@
                 "issues": "https://github.com/silverstripe/recipe-reporting-tools/issues",
                 "source": "https://github.com/silverstripe/recipe-reporting-tools/tree/3"
             },
-            "time": "2024-09-18T03:34:19+00:00"
+            "time": "2024-10-02T22:09:14+00:00"
         },
         {
             "name": "silverstripe/recipe-services",
@@ -9461,12 +9522,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-services.git",
-                "reference": "027fdef4c449c330a5ad1c9006183096eab37df5"
+                "reference": "9f9309afd4740280095f8197a7c6b50b017b038d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-services/zipball/027fdef4c449c330a5ad1c9006183096eab37df5",
-                "reference": "027fdef4c449c330a5ad1c9006183096eab37df5",
+                "url": "https://api.github.com/repos/silverstripe/recipe-services/zipball/9f9309afd4740280095f8197a7c6b50b017b038d",
+                "reference": "9f9309afd4740280095f8197a7c6b50b017b038d",
                 "shasum": ""
             },
             "require": {
@@ -9493,7 +9554,7 @@
                 "issues": "https://github.com/silverstripe/recipe-services/issues",
                 "source": "https://github.com/silverstripe/recipe-services/tree/3"
             },
-            "time": "2024-09-18T03:34:21+00:00"
+            "time": "2024-10-02T22:07:19+00:00"
         },
         {
             "name": "silverstripe/recipe-testing",
@@ -9501,16 +9562,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/recipe-testing.git",
-                "reference": "546d522d5514638cc53f3c3f4d3334b95ebc62b7"
+                "reference": "26facdedd692822114c4821c494f2235c203016f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/recipe-testing/zipball/546d522d5514638cc53f3c3f4d3334b95ebc62b7",
-                "reference": "546d522d5514638cc53f3c3f4d3334b95ebc62b7",
+                "url": "https://api.github.com/repos/silverstripe/recipe-testing/zipball/26facdedd692822114c4821c494f2235c203016f",
+                "reference": "26facdedd692822114c4821c494f2235c203016f",
                 "shasum": ""
             },
             "require": {
                 "php": "^8.3",
+                "php-parallel-lint/php-parallel-lint": "^1",
                 "phpunit/phpunit": "^11.3",
                 "silverstripe/behat-extension": "^6",
                 "silverstripe/framework": "^6",
@@ -9537,7 +9599,7 @@
             "support": {
                 "source": "https://github.com/silverstripe/recipe-testing/tree/4"
             },
-            "time": "2024-09-18T03:29:42+00:00"
+            "time": "2024-10-02T22:00:28+00:00"
         },
         {
             "name": "silverstripe/registry",
