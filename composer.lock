@@ -6805,12 +6805,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "fbc0596f6ad49c64fada64218b235f1085cae201"
+                "reference": "cb79248b12c611344102be39d6a13a5acd6573b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/fbc0596f6ad49c64fada64218b235f1085cae201",
-                "reference": "fbc0596f6ad49c64fada64218b235f1085cae201",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/cb79248b12c611344102be39d6a13a5acd6573b7",
+                "reference": "cb79248b12c611344102be39d6a13a5acd6573b7",
                 "shasum": ""
             },
             "require": {
@@ -6871,7 +6871,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/2/db-replica"
             },
-            "time": "2024-09-27T02:54:55+00:00"
+            "time": "2024-10-03T04:14:07+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -7576,12 +7576,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/developer-docs.git",
-                "reference": "c06669d37b46a911bb8b4a2c343645eaded91110"
+                "reference": "5ac78329ac0459d7205c05203d0722f4d668d2cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/developer-docs/zipball/c06669d37b46a911bb8b4a2c343645eaded91110",
-                "reference": "c06669d37b46a911bb8b4a2c343645eaded91110",
+                "url": "https://api.github.com/repos/creative-commoners/developer-docs/zipball/5ac78329ac0459d7205c05203d0722f4d668d2cf",
+                "reference": "5ac78329ac0459d7205c05203d0722f4d668d2cf",
                 "shasum": ""
             },
             "require-dev": {
@@ -7613,7 +7613,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/developer-docs/tree/pulls/5/db-replica"
             },
-            "time": "2024-10-01T21:17:28+00:00"
+            "time": "2024-10-03T04:13:33+00:00"
         },
         {
             "name": "silverstripe/documentconverter",
@@ -8072,12 +8072,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "0a6f3db598d09acf9a2d795383ca44f71cf040b9"
+                "reference": "4aaca6540f1192fff6f7b9d1b7d8fbb2a826cd4e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/0a6f3db598d09acf9a2d795383ca44f71cf040b9",
-                "reference": "0a6f3db598d09acf9a2d795383ca44f71cf040b9",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/4aaca6540f1192fff6f7b9d1b7d8fbb2a826cd4e",
+                "reference": "4aaca6540f1192fff6f7b9d1b7d8fbb2a826cd4e",
                 "shasum": ""
             },
             "require": {
@@ -8119,7 +8119,7 @@
                 "symfony/mailer": "^7.0",
                 "symfony/mime": "^7.0",
                 "symfony/translation": "^7.0",
-                "symfony/validator": "^7.0",
+                "symfony/validator": "^7.1",
                 "symfony/yaml": "^7.0"
             },
             "conflict": {
@@ -8215,7 +8215,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/5/db-replica"
             },
-            "time": "2024-10-02T21:41:10+00:00"
+            "time": "2024-10-02T23:01:59+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -10518,12 +10518,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-testsession.git",
-                "reference": "d7c4b0c420ee7eef95bec2335a48fb07c2c0b5ff"
+                "reference": "402a9f931ed5c106fa8f67338827b54b71b0ecd6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-testsession/zipball/d7c4b0c420ee7eef95bec2335a48fb07c2c0b5ff",
-                "reference": "d7c4b0c420ee7eef95bec2335a48fb07c2c0b5ff",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-testsession/zipball/402a9f931ed5c106fa8f67338827b54b71b0ecd6",
+                "reference": "402a9f931ed5c106fa8f67338827b54b71b0ecd6",
                 "shasum": ""
             },
             "require": {
@@ -10570,7 +10570,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-testsession/tree/pulls/3/db-replica"
             },
-            "time": "2024-09-27T02:59:48+00:00"
+            "time": "2024-10-03T04:12:35+00:00"
         },
         {
             "name": "silverstripe/textextraction",
