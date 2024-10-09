@@ -21,7 +21,7 @@
         "silverstripe/hybridsessions": "dev-pulls/3/db-replica as 4.x-dev",
         "silverstripe/registry": "4.x-dev",
         "silverstripe/totp-authenticator": "6.x-dev",
-        "silverstripe/mfa": "6.x-dev",
+        "silverstripe/mfa": "dev-pulls/6/db-replica as 6.x-dev",
         "silverstripe/crontask": "4.x-dev",
         "silverstripe/gridfieldqueuedexport": "4.x-dev",
         "silverstripe/ldap": "3.x-dev",
@@ -95,6 +95,10 @@
         "x5": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/silverstripe-hybridsessions"
+        },
+        "x6": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-mfa"
         }
     },
     "conflict": {

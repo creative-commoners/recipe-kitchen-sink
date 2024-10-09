@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c983da69a99f4337b23010c92f11fd16",
+    "content-hash": "8abc5612ca04234b6d46a9afa4e5c7a9",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -8828,16 +8828,16 @@
         },
         {
             "name": "silverstripe/mfa",
-            "version": "6.x-dev",
+            "version": "dev-pulls/6/db-replica",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-mfa.git",
-                "reference": "a52ef444c346f352ea6f44d4f2533f1582c1bb37"
+                "url": "https://github.com/creative-commoners/silverstripe-mfa.git",
+                "reference": "f4b1006f6e0ae07eac65e39705290c136c2ca8e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-mfa/zipball/a52ef444c346f352ea6f44d4f2533f1582c1bb37",
-                "reference": "a52ef444c346f352ea6f44d4f2533f1582c1bb37",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-mfa/zipball/f4b1006f6e0ae07eac65e39705290c136c2ca8e9",
+                "reference": "f4b1006f6e0ae07eac65e39705290c136c2ca8e9",
                 "shasum": ""
             },
             "require": {
@@ -8877,7 +8877,6 @@
                     "SilverStripe\\MFA\\Tests\\Behat\\": "tests/Behat/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8897,17 +8896,17 @@
             ],
             "description": "Enable multi-factor authentication with fallback codes",
             "keywords": [
-                "2-Factor",
-                "Authentication",
+                "2-factor",
+                "authentication",
                 "module",
                 "security",
                 "silverstripe"
             ],
             "support": {
                 "issues": "https://github.com/silverstripe/silverstripe-mfa/issues",
-                "source": "https://github.com/silverstripe/silverstripe-mfa/tree/6"
+                "source": "https://github.com/creative-commoners/silverstripe-mfa/tree/pulls/6/db-replica"
             },
-            "time": "2024-09-23T21:24:40+00:00"
+            "time": "2024-10-09T02:02:24+00:00"
         },
         {
             "name": "silverstripe/mimevalidator",
@@ -14947,6 +14946,12 @@
             "version": "dev-pulls/3/db-replica",
             "alias": "4.x-dev",
             "alias_normalized": "4.9999999.9999999.9999999-dev"
+        },
+        {
+            "package": "silverstripe/mfa",
+            "version": "dev-pulls/6/db-replica",
+            "alias": "6.x-dev",
+            "alias_normalized": "6.9999999.9999999.9999999-dev"
         },
         {
             "package": "silverstripe/session-manager",
