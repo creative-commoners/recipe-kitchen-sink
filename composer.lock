@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9454615521af119948da8f39a7245f7c",
+    "content-hash": "99bf341e80faa5e16554472ced4f60b9",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -7316,16 +7316,16 @@
         },
         {
             "name": "silverstripe/cms",
-            "version": "6.x-dev",
+            "version": "dev-pulls/6/field-validators",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-cms.git",
-                "reference": "bd48b04731f0c83dd9af07d15bc444250d3a12dc"
+                "url": "https://github.com/creative-commoners/silverstripe-cms.git",
+                "reference": "6437f6d3b27c78f589061c6dc89e03004adb3d24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/bd48b04731f0c83dd9af07d15bc444250d3a12dc",
-                "reference": "bd48b04731f0c83dd9af07d15bc444250d3a12dc",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/6437f6d3b27c78f589061c6dc89e03004adb3d24",
+                "reference": "6437f6d3b27c78f589061c6dc89e03004adb3d24",
                 "shasum": ""
             },
             "require": {
@@ -7362,7 +7362,14 @@
                     "SilverStripe\\CMS\\Tests\\Behaviour\\": "tests/behat/src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "scripts": {
+                "lint": [
+                    "phpcs -s code/ tests/php/ tests/behat/src/"
+                ],
+                "lint-clean": [
+                    "phpcbf code/ tests/php/ tests/behat/src/"
+                ]
+            },
             "license": [
                 "BSD-3-Clause"
             ],
@@ -7383,10 +7390,9 @@
                 "silverstripe"
             ],
             "support": {
-                "issues": "https://github.com/silverstripe/silverstripe-cms/issues",
-                "source": "https://github.com/silverstripe/silverstripe-cms/tree/6"
+                "source": "https://github.com/creative-commoners/silverstripe-cms/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-02T05:39:01+00:00"
+            "time": "2024-10-10T03:56:50+00:00"
         },
         {
             "name": "silverstripe/config",
@@ -8076,12 +8082,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "d28e5f06ba3589fb268ae45866b92d95daebd6fd"
+                "reference": "cff944f23f897a13799c4a04fd0ceee62b3e0685"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/d28e5f06ba3589fb268ae45866b92d95daebd6fd",
-                "reference": "d28e5f06ba3589fb268ae45866b92d95daebd6fd",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/cff944f23f897a13799c4a04fd0ceee62b3e0685",
+                "reference": "cff944f23f897a13799c4a04fd0ceee62b3e0685",
                 "shasum": ""
             },
             "require": {
@@ -8220,7 +8226,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-09T22:33:29+00:00"
+            "time": "2024-10-10T03:59:52+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -15023,6 +15029,12 @@
             "alias_normalized": "3.9999999.9999999.9999999-dev"
         },
         {
+            "package": "silverstripe/cms",
+            "version": "dev-pulls/6/field-validators",
+            "alias": "6.x-dev",
+            "alias_normalized": "6.9999999.9999999.9999999-dev"
+        },
+        {
             "package": "silverstripe/contentreview",
             "version": "dev-pulls/6/field-validators",
             "alias": "6.x-dev",
@@ -15041,6 +15053,7 @@
         "dnadesign/silverstripe-elemental-userforms": 20,
         "silverstripe/assets": 20,
         "silverstripe/auditor": 20,
+        "silverstripe/cms": 20,
         "silverstripe/contentreview": 20,
         "silverstripe/crontask": 20,
         "silverstripe/developer-docs": 20,

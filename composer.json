@@ -45,6 +45,7 @@
         "silverstripe/recipe-testing": "^4",
         "mikey179/vfsstream": "^1.6.10",
         "silverstripe/framework": "dev-pulls/6/field-validators as 6.x-dev",
+        "silverstripe/cms": "dev-pulls/6/field-validators as 6.x-dev",
         "silverstripe/assets": "dev-pulls/3/field-validators as 3.x-dev",
         "silverstripe/contentreview": "dev-pulls/6/field-validators as 6.x-dev"
     },
@@ -82,6 +83,10 @@
         "x2": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/silverstripe-contentreview"
+        },
+        "x3": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-cms"
         }
     },
     "conflict": {
