@@ -8081,12 +8081,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "c516612144cb1e91078160ed603abe313dff5f0a"
+                "reference": "a213fe2a08a8d162ec3a7b4bff3f655cef8b1796"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/c516612144cb1e91078160ed603abe313dff5f0a",
-                "reference": "c516612144cb1e91078160ed603abe313dff5f0a",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/a213fe2a08a8d162ec3a7b4bff3f655cef8b1796",
+                "reference": "a213fe2a08a8d162ec3a7b4bff3f655cef8b1796",
                 "shasum": ""
             },
             "require": {
@@ -8225,7 +8225,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-10T06:59:07+00:00"
+            "time": "2024-10-10T21:40:42+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -8452,12 +8452,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-hybridsessions.git",
-                "reference": "c7efcfe71d3e538acdc6b5f9f51ce148c809f37b"
+                "reference": "760b5de75332a32625f85f8a3832d497ba4043ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-hybridsessions/zipball/c7efcfe71d3e538acdc6b5f9f51ce148c809f37b",
-                "reference": "c7efcfe71d3e538acdc6b5f9f51ce148c809f37b",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-hybridsessions/zipball/760b5de75332a32625f85f8a3832d497ba4043ef",
+                "reference": "760b5de75332a32625f85f8a3832d497ba4043ef",
                 "shasum": ""
             },
             "require": {
@@ -8498,7 +8498,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-hybridsessions/issues",
                 "source": "https://github.com/silverstripe/silverstripe-hybridsessions/tree/4"
             },
-            "time": "2024-09-26T05:31:41+00:00"
+            "time": "2024-10-10T21:57:10+00:00"
         },
         {
             "name": "silverstripe/iframe",
@@ -8842,12 +8842,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-mfa.git",
-                "reference": "a52ef444c346f352ea6f44d4f2533f1582c1bb37"
+                "reference": "195d5200e08aec710fb859356aae432659983e9c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-mfa/zipball/a52ef444c346f352ea6f44d4f2533f1582c1bb37",
-                "reference": "a52ef444c346f352ea6f44d4f2533f1582c1bb37",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-mfa/zipball/195d5200e08aec710fb859356aae432659983e9c",
+                "reference": "195d5200e08aec710fb859356aae432659983e9c",
                 "shasum": ""
             },
             "require": {
@@ -8917,7 +8917,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-mfa/issues",
                 "source": "https://github.com/silverstripe/silverstripe-mfa/tree/6"
             },
-            "time": "2024-09-23T21:24:40+00:00"
+            "time": "2024-10-10T22:01:13+00:00"
         },
         {
             "name": "silverstripe/mimevalidator",
@@ -9918,12 +9918,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-session-manager.git",
-                "reference": "091a3312701527ed764964e6d2985e88513a3b0e"
+                "reference": "bcf83208e4cc71ec1101d4a31c90d4933984243f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-session-manager/zipball/091a3312701527ed764964e6d2985e88513a3b0e",
-                "reference": "091a3312701527ed764964e6d2985e88513a3b0e",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-session-manager/zipball/bcf83208e4cc71ec1101d4a31c90d4933984243f",
+                "reference": "bcf83208e4cc71ec1101d4a31c90d4933984243f",
                 "shasum": ""
             },
             "require": {
@@ -9985,7 +9985,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-session-manager/issues",
                 "source": "https://github.com/silverstripe/silverstripe-session-manager/tree/3"
             },
-            "time": "2024-09-26T05:17:25+00:00"
+            "time": "2024-10-10T21:58:51+00:00"
         },
         {
             "name": "silverstripe/sharedraftcontent",
@@ -10530,12 +10530,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-testsession.git",
-                "reference": "3eb61e353f2fa7ddff519d254b991223df250844"
+                "reference": "a247a44a19289e8496472e21a07757fd973eb4c5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-testsession/zipball/3eb61e353f2fa7ddff519d254b991223df250844",
-                "reference": "3eb61e353f2fa7ddff519d254b991223df250844",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-testsession/zipball/a247a44a19289e8496472e21a07757fd973eb4c5",
+                "reference": "a247a44a19289e8496472e21a07757fd973eb4c5",
                 "shasum": ""
             },
             "require": {
@@ -10579,7 +10579,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-testsession/issues",
                 "source": "https://github.com/silverstripe/silverstripe-testsession/tree/4"
             },
-            "time": "2024-09-26T05:17:06+00:00"
+            "time": "2024-10-10T21:53:58+00:00"
         },
         {
             "name": "silverstripe/textextraction",
