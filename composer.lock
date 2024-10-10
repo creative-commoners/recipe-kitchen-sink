@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "99bf341e80faa5e16554472ced4f60b9",
+    "content-hash": "049708e320a698ff97d1712b32dc9449",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.323.4",
+            "version": "3.324.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "e66ee025b1d169fad3c784934f56648d3eec11ae"
+                "reference": "b258712f0d986e00e1143d55246b6f9e344c7184"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/e66ee025b1d169fad3c784934f56648d3eec11ae",
-                "reference": "e66ee025b1d169fad3c784934f56648d3eec11ae",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/b258712f0d986e00e1143d55246b6f9e344c7184",
+                "reference": "b258712f0d986e00e1143d55246b6f9e344c7184",
                 "shasum": ""
             },
             "require": {
@@ -194,9 +194,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.323.4"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.324.0"
             },
-            "time": "2024-10-09T18:10:22+00:00"
+            "time": "2024-10-10T18:06:36+00:00"
         },
         {
             "name": "behat/behat",
@@ -3181,16 +3181,16 @@
         },
         {
             "name": "league/csv",
-            "version": "9.16.0",
+            "version": "9.17.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/csv.git",
-                "reference": "998280c6c34bd67d8125fdc8b45bae28d761b440"
+                "reference": "8cab815fb11ec93aa2f7b8a57b3daa1f1a364011"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/csv/zipball/998280c6c34bd67d8125fdc8b45bae28d761b440",
-                "reference": "998280c6c34bd67d8125fdc8b45bae28d761b440",
+                "url": "https://api.github.com/repos/thephpleague/csv/zipball/8cab815fb11ec93aa2f7b8a57b3daa1f1a364011",
+                "reference": "8cab815fb11ec93aa2f7b8a57b3daa1f1a364011",
                 "shasum": ""
             },
             "require": {
@@ -3198,17 +3198,16 @@
                 "php": "^8.1.2"
             },
             "require-dev": {
-                "doctrine/collections": "^2.2.2",
                 "ext-dom": "*",
                 "ext-xdebug": "*",
-                "friendsofphp/php-cs-fixer": "^3.57.1",
-                "phpbench/phpbench": "^1.2.15",
-                "phpstan/phpstan": "^1.11.1",
-                "phpstan/phpstan-deprecation-rules": "^1.2.0",
+                "friendsofphp/php-cs-fixer": "^3.64.0",
+                "phpbench/phpbench": "^1.3.1",
+                "phpstan/phpstan": "^1.12.5",
+                "phpstan/phpstan-deprecation-rules": "^1.2.1",
                 "phpstan/phpstan-phpunit": "^1.4.0",
-                "phpstan/phpstan-strict-rules": "^1.6.0",
-                "phpunit/phpunit": "^10.5.16 || ^11.1.3",
-                "symfony/var-dumper": "^6.4.6 || ^7.0.7"
+                "phpstan/phpstan-strict-rules": "^1.6.1",
+                "phpunit/phpunit": "^10.5.16 || ^11.4.0",
+                "symfony/var-dumper": "^6.4.8 || ^7.1.5"
             },
             "suggest": {
                 "ext-dom": "Required to use the XMLConverter and the HTMLConverter classes",
@@ -3226,7 +3225,7 @@
                     "src/functions_include.php"
                 ],
                 "psr-4": {
-                    "League\\Csv\\": "src"
+                    "League\\Csv\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -3265,7 +3264,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-05-24T11:04:54+00:00"
+            "time": "2024-10-10T10:30:28+00:00"
         },
         {
             "name": "league/flysystem",
@@ -8230,16 +8229,16 @@
         },
         {
             "name": "silverstripe/frameworktest",
-            "version": "2.x-dev",
+            "version": "dev-pulls/2/field-validators",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-frameworktest.git",
-                "reference": "f0fe0d3607110b70dba5c25dd1616c9f328bee9c"
+                "url": "https://github.com/creative-commoners/silverstripe-frameworktest.git",
+                "reference": "84b65f25957f2d3089d31d5533aee94247119b02"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-frameworktest/zipball/f0fe0d3607110b70dba5c25dd1616c9f328bee9c",
-                "reference": "f0fe0d3607110b70dba5c25dd1616c9f328bee9c",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-frameworktest/zipball/84b65f25957f2d3089d31d5533aee94247119b02",
+                "reference": "84b65f25957f2d3089d31d5533aee94247119b02",
                 "shasum": ""
             },
             "require": {
@@ -8267,7 +8266,6 @@
                     "SSilverStripe\\FrameworkTest\\": "code/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8284,10 +8282,9 @@
                 "testing"
             ],
             "support": {
-                "issues": "https://github.com/silverstripe/silverstripe-frameworktest/issues",
-                "source": "https://github.com/silverstripe/silverstripe-frameworktest/tree/2"
+                "source": "https://github.com/creative-commoners/silverstripe-frameworktest/tree/pulls/2/field-validators"
             },
-            "time": "2024-09-26T05:17:35+00:00"
+            "time": "2024-10-10T21:16:36+00:00"
         },
         {
             "name": "silverstripe/graphql",
@@ -15045,6 +15042,12 @@
             "version": "dev-pulls/6/field-validators",
             "alias": "6.x-dev",
             "alias_normalized": "6.9999999.9999999.9999999-dev"
+        },
+        {
+            "package": "silverstripe/frameworktest",
+            "version": "dev-pulls/2/field-validators",
+            "alias": "2.x-dev",
+            "alias_normalized": "2.9999999.9999999.9999999-dev"
         }
     ],
     "minimum-stability": "dev",

@@ -40,7 +40,7 @@
         "silverstripe/dynamodb": "6.x-dev",
         "silverstripe/linkfield": "5.x-dev",
         "silverstripe/graphql": "6.x-dev",
-        "silverstripe/frameworktest": "2.x-dev",
+        "silverstripe/frameworktest": "dev-pulls/2/field-validators as 2.x-dev",
         "silverstripe/graphql-devtools": "2.x-dev",
         "silverstripe/recipe-testing": "^4",
         "mikey179/vfsstream": "^1.6.10",
@@ -87,6 +87,10 @@
         "x3": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/silverstripe-cms"
+        },
+        "x4": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-frameworktest"
         }
     },
     "conflict": {
