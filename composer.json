@@ -21,7 +21,7 @@
         "silverstripe/hybridsessions": "4.x-dev",
         "silverstripe/registry": "4.x-dev",
         "silverstripe/totp-authenticator": "6.x-dev",
-        "silverstripe/mfa": "6.x-dev",
+        "silverstripe/mfa": "dev-pulls/6/refactor-template-layer as 6.x-dev",
         "silverstripe/crontask": "4.x-dev",
         "silverstripe/gridfieldqueuedexport": "4.x-dev",
         "silverstripe/ldap": "3.x-dev",
@@ -30,7 +30,7 @@
         "silverstripe/webauthn-authenticator": "6.x-dev",
         "silverstripe/subsites": "4.x-dev",
         "silverstripe/lumberjack": "4.x-dev",
-        "silverstripe/staticpublishqueue": "7.x-dev",
+        "silverstripe/staticpublishqueue": "dev-pulls/7/refactor-template-layer as 7.x-dev",
         "dnadesign/silverstripe-elemental-userforms": "5.x-dev",
         "symbiote/silverstripe-multivaluefield": "7.x-dev",
         "symbiote/silverstripe-gridfieldextensions": "5.x-dev",
@@ -39,7 +39,17 @@
         "tractorcow/silverstripe-fluent": "8.x-dev",
         "silverstripe/dynamodb": "6.x-dev",
         "silverstripe/linkfield": "5.x-dev",
-        "silverstripe/graphql": "6.x-dev"
+        "silverstripe/graphql": "6.x-dev",
+        "silverstripe/framework": "dev-pulls/6/refactor-template-layer as 6.9999999.9999999.9999999-dev",
+        "silverstripe/admin": "dev-pulls/3/template-engine as 3.9999999.9999999.9999999-dev",
+        "silverstripe/assets": "dev-pulls/3/refactor-template-layer as 3.9999999.9999999.9999999-dev",
+        "silverstripe/asset-admin": "dev-pulls/3/refactor-template-layer as 3.9999999.9999999.9999999-dev",
+        "silverstripe/cms": "dev-pulls/6/refactor-template-layer as 6.9999999.9999999.9999999-dev",
+        "silverstripe/contentreview": "dev-pulls/6/refactor-template-layer as 6.9999999.9999999.9999999-dev",
+        "symbiote/silverstripe-advancedworkflow": "dev-pulls/7/refactor-template-layer as 7.9999999.9999999.9999999-dev",
+        "dnadesign/silverstripe-elemental": "dev-pulls/6/refactor-template-layer as 6.9999999.9999999.9999999-dev",
+        "silverstripe/userforms": "dev-pulls/7/refactor-template-layer as 7.9999999.9999999.9999999-dev",
+        "silverstripe/behat-extension": "dev-pulls/6/refactor-template-layer as 6.9999999.9999999.9999999-dev"
     },
     "require-dev": {
         "silverstripe/frameworktest": "^2",
@@ -65,5 +75,55 @@
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "silverstripe/framework": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-framework.git"
+        },
+        "silverstripe/admin": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-admin.git"
+        },
+        "silverstripe/assets": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-assets.git"
+        },
+        "silverstripe/asset-admin": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-asset-admin.git"
+        },
+        "silverstripe/cms": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-cms.git"
+        },
+        "silverstripe/contentreview": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-contentreview.git"
+        },
+        "symbiote/silverstripe-advancedworkflow": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-advancedworkflow.git"
+        },
+        "dnadesign/silverstripe-elemental": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-elemental.git"
+        },
+        "silverstripe/userforms": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-userforms.git"
+        },
+        "silverstripe/staticpublishqueue": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-staticpublishqueue.git"
+        },
+        "silverstripe/mfa": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-mfa.git"
+        },
+        "silverstripe/behat-extension": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-behat-extension.git"
+        }
+    }
 }
