@@ -6808,12 +6808,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-admin.git",
-                "reference": "547afc6b47c2691500b762c335cc17d5d643936f"
+                "reference": "ed8ee37f0d46ba99018cace55f741fffab68699b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-admin/zipball/547afc6b47c2691500b762c335cc17d5d643936f",
-                "reference": "547afc6b47c2691500b762c335cc17d5d643936f",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-admin/zipball/ed8ee37f0d46ba99018cace55f741fffab68699b",
+                "reference": "ed8ee37f0d46ba99018cace55f741fffab68699b",
                 "shasum": ""
             },
             "require": {
@@ -6868,7 +6868,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-admin/issues",
                 "source": "https://github.com/silverstripe/silverstripe-admin/tree/3"
             },
-            "time": "2024-10-03T02:37:55+00:00"
+            "time": "2024-10-10T22:42:20+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -8081,12 +8081,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "a213fe2a08a8d162ec3a7b4bff3f655cef8b1796"
+                "reference": "7e01f810bd2304ac98edc2a42c1a3ef1f04026d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/a213fe2a08a8d162ec3a7b4bff3f655cef8b1796",
-                "reference": "a213fe2a08a8d162ec3a7b4bff3f655cef8b1796",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/7e01f810bd2304ac98edc2a42c1a3ef1f04026d4",
+                "reference": "7e01f810bd2304ac98edc2a42c1a3ef1f04026d4",
                 "shasum": ""
             },
             "require": {
@@ -8225,7 +8225,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-10T21:40:42+00:00"
+            "time": "2024-10-11T00:54:21+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
