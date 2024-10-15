@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.324.2",
+            "version": "3.324.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "fea3d0ac8f96009cb87cf8166caba6558f26a0ab"
+                "reference": "018a692622175ad65ebefa3f6645e4e6208a11fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/fea3d0ac8f96009cb87cf8166caba6558f26a0ab",
-                "reference": "fea3d0ac8f96009cb87cf8166caba6558f26a0ab",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/018a692622175ad65ebefa3f6645e4e6208a11fe",
+                "reference": "018a692622175ad65ebefa3f6645e4e6208a11fe",
                 "shasum": ""
             },
             "require": {
@@ -194,9 +194,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.324.2"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.324.3"
             },
-            "time": "2024-10-14T18:06:11+00:00"
+            "time": "2024-10-15T18:29:08+00:00"
         },
         {
             "name": "behat/behat",
@@ -7583,12 +7583,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/developer-docs.git",
-                "reference": "7ec82e348013197b8a142aedc9191fbef4c5d80e"
+                "reference": "92d010335813ff909190a58fba9b6e3bcfe0ae52"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/developer-docs/zipball/7ec82e348013197b8a142aedc9191fbef4c5d80e",
-                "reference": "7ec82e348013197b8a142aedc9191fbef4c5d80e",
+                "url": "https://api.github.com/repos/creative-commoners/developer-docs/zipball/92d010335813ff909190a58fba9b6e3bcfe0ae52",
+                "reference": "92d010335813ff909190a58fba9b6e3bcfe0ae52",
                 "shasum": ""
             },
             "require-dev": {
@@ -7620,7 +7620,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/developer-docs/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-14T21:49:44+00:00"
+            "time": "2024-10-15T21:14:20+00:00"
         },
         {
             "name": "silverstripe/documentconverter",
@@ -8079,12 +8079,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "a8c3aa39b00b95bc6594e481a5fbe861ae49ed88"
+                "reference": "4631aa006722dabf0fb3ffdb6933d642690ad46c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/a8c3aa39b00b95bc6594e481a5fbe861ae49ed88",
-                "reference": "a8c3aa39b00b95bc6594e481a5fbe861ae49ed88",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/4631aa006722dabf0fb3ffdb6933d642690ad46c",
+                "reference": "4631aa006722dabf0fb3ffdb6933d642690ad46c",
                 "shasum": ""
             },
             "require": {
@@ -8223,7 +8223,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-15T05:24:34+00:00"
+            "time": "2024-10-15T20:59:14+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
