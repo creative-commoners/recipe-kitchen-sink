@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "049708e320a698ff97d1712b32dc9449",
+    "content-hash": "b0bbcd3e1bd969051511431b66400699",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -7579,23 +7579,22 @@
         },
         {
             "name": "silverstripe/developer-docs",
-            "version": "6.x-dev",
+            "version": "dev-pulls/6/field-validators",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe/developer-docs.git",
-                "reference": "0774f5449c066c5b45d6eebaca7fc3366e0c09df"
+                "url": "https://github.com/creative-commoners/developer-docs.git",
+                "reference": "7ec82e348013197b8a142aedc9191fbef4c5d80e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/developer-docs/zipball/0774f5449c066c5b45d6eebaca7fc3366e0c09df",
-                "reference": "0774f5449c066c5b45d6eebaca7fc3366e0c09df",
+                "url": "https://api.github.com/repos/creative-commoners/developer-docs/zipball/7ec82e348013197b8a142aedc9191fbef4c5d80e",
+                "reference": "7ec82e348013197b8a142aedc9191fbef4c5d80e",
                 "shasum": ""
             },
             "require-dev": {
                 "silverstripe/documentation-lint": "^1"
             },
             "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "CC-BY-3.0"
             ],
@@ -7619,10 +7618,9 @@
                 "silverstripe"
             ],
             "support": {
-                "issues": "https://github.com/silverstripe/developer-docs/issues",
-                "source": "https://github.com/silverstripe/developer-docs/tree/6"
+                "source": "https://github.com/creative-commoners/developer-docs/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-13T20:07:57+00:00"
+            "time": "2024-10-14T21:49:44+00:00"
         },
         {
             "name": "silverstripe/documentconverter",
@@ -8081,12 +8079,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "7b09f1824f7adff9bffc7a8a8b702c3e8d3ff6e1"
+                "reference": "b052f45a802a5fc40cc8d5bb3d8557284d101894"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/7b09f1824f7adff9bffc7a8a8b702c3e8d3ff6e1",
-                "reference": "7b09f1824f7adff9bffc7a8a8b702c3e8d3ff6e1",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/b052f45a802a5fc40cc8d5bb3d8557284d101894",
+                "reference": "b052f45a802a5fc40cc8d5bb3d8557284d101894",
                 "shasum": ""
             },
             "require": {
@@ -8225,7 +8223,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-15T00:08:57+00:00"
+            "time": "2024-10-15T02:48:10+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -10716,12 +10714,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-userforms.git",
-                "reference": "81cba4ed4cdf327fbd58d05884facbccbe59bc56"
+                "reference": "4f821d118872a9fe487dd4e89bc5fdcd0c0958de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/81cba4ed4cdf327fbd58d05884facbccbe59bc56",
-                "reference": "81cba4ed4cdf327fbd58d05884facbccbe59bc56",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/4f821d118872a9fe487dd4e89bc5fdcd0c0958de",
+                "reference": "4f821d118872a9fe487dd4e89bc5fdcd0c0958de",
                 "shasum": ""
             },
             "require": {
@@ -10798,7 +10796,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-userforms/issues",
                 "source": "https://github.com/silverstripe/silverstripe-userforms/tree/7"
             },
-            "time": "2024-09-30T21:02:12+00:00"
+            "time": "2024-10-15T02:10:40+00:00"
         },
         {
             "name": "silverstripe/vendor-plugin",
@@ -15033,6 +15031,12 @@
         },
         {
             "package": "silverstripe/contentreview",
+            "version": "dev-pulls/6/field-validators",
+            "alias": "6.x-dev",
+            "alias_normalized": "6.9999999.9999999.9999999-dev"
+        },
+        {
+            "package": "silverstripe/developer-docs",
             "version": "dev-pulls/6/field-validators",
             "alias": "6.x-dev",
             "alias_normalized": "6.9999999.9999999.9999999-dev"

@@ -16,7 +16,7 @@
         "silverstripe/recipe-services": "3.x-dev",
         "silverstripe/recipe-content-blocks": "4.x-dev",
         "silverstripe/auditor": "4.x-dev",
-        "silverstripe/developer-docs": "6.x-dev",
+        "silverstripe/developer-docs": "dev-pulls/6/field-validators as 6.x-dev",
         "silverstripe/environmentcheck": "4.x-dev",
         "silverstripe/hybridsessions": "4.x-dev",
         "silverstripe/registry": "4.x-dev",
@@ -89,6 +89,14 @@
             "url": "git@github.com:creative-commoners/silverstripe-cms"
         },
         "x4": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-frameworktest"
+        },
+        "x5": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/developer-docs"
+        },
+        "x6": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/silverstripe-frameworktest"
         }
