@@ -7445,12 +7445,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-contentreview.git",
-                "reference": "89c36475e4660fc89bdb546cf02654c96d5b20fb"
+                "reference": "3ed6eb09711561c9669747f5db042c39d8b054cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-contentreview/zipball/89c36475e4660fc89bdb546cf02654c96d5b20fb",
-                "reference": "89c36475e4660fc89bdb546cf02654c96d5b20fb",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-contentreview/zipball/3ed6eb09711561c9669747f5db042c39d8b054cf",
+                "reference": "3ed6eb09711561c9669747f5db042c39d8b054cf",
                 "shasum": ""
             },
             "require": {
@@ -7513,7 +7513,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-contentreview/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-02T05:50:47+00:00"
+            "time": "2024-10-15T01:19:44+00:00"
         },
         {
             "name": "silverstripe/crontask",
