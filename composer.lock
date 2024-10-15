@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b0bbcd3e1bd969051511431b66400699",
+    "content-hash": "398bb41a41f2d6030183f2b393bddb9e",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -6929,12 +6929,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-assets.git",
-                "reference": "e092f517ec24d53d752e57c736a0830008f8f55f"
+                "reference": "c28b13f427e28685f2a20d57abc85e54488151c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-assets/zipball/e092f517ec24d53d752e57c736a0830008f8f55f",
-                "reference": "e092f517ec24d53d752e57c736a0830008f8f55f",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-assets/zipball/c28b13f427e28685f2a20d57abc85e54488151c0",
+                "reference": "c28b13f427e28685f2a20d57abc85e54488151c0",
                 "shasum": ""
             },
             "require": {
@@ -6997,7 +6997,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-assets/tree/pulls/3/field-validators"
             },
-            "time": "2024-10-02T03:02:09+00:00"
+            "time": "2024-10-15T05:24:33+00:00"
         },
         {
             "name": "silverstripe/auditor",
@@ -8079,12 +8079,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "b052f45a802a5fc40cc8d5bb3d8557284d101894"
+                "reference": "a8c3aa39b00b95bc6594e481a5fbe861ae49ed88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/b052f45a802a5fc40cc8d5bb3d8557284d101894",
-                "reference": "b052f45a802a5fc40cc8d5bb3d8557284d101894",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/a8c3aa39b00b95bc6594e481a5fbe861ae49ed88",
+                "reference": "a8c3aa39b00b95bc6594e481a5fbe861ae49ed88",
                 "shasum": ""
             },
             "require": {
@@ -8223,7 +8223,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/field-validators"
             },
-            "time": "2024-10-15T02:48:10+00:00"
+            "time": "2024-10-15T05:24:34+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -11496,16 +11496,16 @@
         },
         {
             "name": "symbiote/silverstripe-advancedworkflow",
-            "version": "7.x-dev",
+            "version": "dev-pulls/7/field-validators",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symbiote/silverstripe-advancedworkflow.git",
-                "reference": "0513531c7c080878bd7ca2d4751c3969090a670c"
+                "url": "https://github.com/creative-commoners/silverstripe-advancedworkflow.git",
+                "reference": "31f2df45103de158bf1d15ad79e1673d6b8bf8cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symbiote/silverstripe-advancedworkflow/zipball/0513531c7c080878bd7ca2d4751c3969090a670c",
-                "reference": "0513531c7c080878bd7ca2d4751c3969090a670c",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-advancedworkflow/zipball/31f2df45103de158bf1d15ad79e1673d6b8bf8cf",
+                "reference": "31f2df45103de158bf1d15ad79e1673d6b8bf8cf",
                 "shasum": ""
             },
             "require": {
@@ -11543,7 +11543,6 @@
                     "Symbiote\\AdvancedWorkflow\\Tests\\Behat\\": "tests/behat/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -11564,10 +11563,9 @@
                 "workflow"
             ],
             "support": {
-                "issues": "https://github.com/symbiote/silverstripe-advancedworkflow/issues",
-                "source": "https://github.com/symbiote/silverstripe-advancedworkflow/tree/7"
+                "source": "https://github.com/creative-commoners/silverstripe-advancedworkflow/tree/pulls/7/field-validators"
             },
-            "time": "2024-09-26T05:23:30+00:00"
+            "time": "2024-10-15T05:04:23+00:00"
         },
         {
             "name": "symbiote/silverstripe-gridfieldextensions",
@@ -15052,6 +15050,12 @@
             "version": "dev-pulls/2/field-validators",
             "alias": "2.x-dev",
             "alias_normalized": "2.9999999.9999999.9999999-dev"
+        },
+        {
+            "package": "symbiote/silverstripe-advancedworkflow",
+            "version": "dev-pulls/7/field-validators",
+            "alias": "7.x-dev",
+            "alias_normalized": "7.9999999.9999999.9999999-dev"
         }
     ],
     "minimum-stability": "dev",
@@ -15092,6 +15096,7 @@
         "silverstripe/textextraction": 20,
         "silverstripe/totp-authenticator": 20,
         "silverstripe/webauthn-authenticator": 20,
+        "symbiote/silverstripe-advancedworkflow": 20,
         "symbiote/silverstripe-gridfieldextensions": 20,
         "symbiote/silverstripe-multivaluefield": 20,
         "symbiote/silverstripe-queuedjobs": 20,
