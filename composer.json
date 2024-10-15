@@ -38,11 +38,19 @@
         "colymba/gridfield-bulk-editing-tools": "5.x-dev",
         "tractorcow/silverstripe-fluent": "8.x-dev",
         "silverstripe/dynamodb": "6.x-dev",
-        "silverstripe/linkfield": "5.x-dev",
-        "silverstripe/graphql": "6.x-dev"
+        "silverstripe/linkfield": "dev-pulls/5/config-not-runtime as 5.x-dev",
+        "silverstripe/graphql": "6.x-dev",
+        "silverstripe/admin": "dev-pulls/3/new-admincontroller as 3.9999999.9999999.9999999-dev",
+        "silverstripe/externallinks": "dev-pulls/4/new-admincontroller as 4.9999999.9999999.9999999-dev",
+        "silverstripe/asset-admin": "dev-pulls/3/new-admincontroller as 3.9999999.9999999.9999999-dev",
+        "dnadesign/silverstripe-elemental": "dev-pulls/6/new-admincontroller as 6.9999999.9999999.9999999-dev",
+        "silverstripe/campaign-admin": "dev-pulls/3/new-admincontroller as 3.9999999.9999999.9999999-dev",
+        "silverstripe/versioned-admin": "dev-pulls/3/new-admincontroller as 3.9999999.9999999.9999999-dev",
+        "silverstripe/cms": "dev-pulls/6/new-admincontroller as 6.9999999.9999999.9999999-dev",
+        "silverstripe/userforms": "dev-pulls/7/config-not-runtime as 7.9999999.9999999.9999999-dev"
     },
     "require-dev": {
-        "silverstripe/frameworktest": "^2",
+        "silverstripe/frameworktest": "dev-pulls/2/new-admincontroller as 2.x-dev",
         "silverstripe/graphql-devtools": "2.x-dev",
         "silverstripe/recipe-testing": "^4",
         "mikey179/vfsstream": "^1.6"
@@ -65,5 +73,47 @@
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "silverstripe/admin": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-admin.git"
+        },
+        "silverstripe/externallinks": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-externallinks.git"
+        },
+        "silverstripe/asset-admin": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-asset-admin.git"
+        },
+        "dnadesign/silverstripe-elemental": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-elemental.git"
+        },
+        "silverstripe/frameworktest": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-frameworktest.git"
+        },
+        "silverstripe/campaign-admin": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-campaign-admin.git"
+        },
+        "silverstripe/versioned-admin": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-versioned-admin.git"
+        },
+        "silverstripe/cms": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-cms.git"
+        },
+        "silverstripe/linkfield": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-linkfield.git"
+        },
+        "silverstripe/userforms": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-userforms.git"
+        }
+    }
 }
