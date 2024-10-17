@@ -48,7 +48,8 @@
         "mikey179/vfsstream": "^1.6.10",
         "silverstripe/framework": "dev-pulls/5/core-deprecation as 5.x-dev",
         "silverstripe/config": "dev-pulls/2/depr-supported as 2.x-dev",
-        "bringyourownideas/silverstripe-maintenance": "dev-pulls/3/stable-sm as 3.x-dev"
+        "bringyourownideas/silverstripe-maintenance": "dev-pulls/3/stable-sm as 3.x-dev",
+        "silverstripe/supported-modules": "dev-pulls/main/readme as 1.x-dev"
     },
     "extra": {
         "project-files": [
@@ -88,6 +89,10 @@
         "x3": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/developer-docs"
+        },
+        "x4": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/supported-modules"
         }
     },
     "conflict": {
