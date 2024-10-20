@@ -606,12 +606,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-maintenance.git",
-                "reference": "eb63b9926784e5cee34cce0d80e3512b89bc265a"
+                "reference": "ccead6d685394f980042d05c6e95efca83c79e4b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-maintenance/zipball/eb63b9926784e5cee34cce0d80e3512b89bc265a",
-                "reference": "eb63b9926784e5cee34cce0d80e3512b89bc265a",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-maintenance/zipball/ccead6d685394f980042d05c6e95efca83c79e4b",
+                "reference": "ccead6d685394f980042d05c6e95efca83c79e4b",
                 "shasum": ""
             },
             "require": {
@@ -670,7 +670,7 @@
                 "issues": "https://github.com/bringyourownideas/silverstripe-maintenance/issues",
                 "source": "https://github.com/creative-commoners/silverstripe-maintenance/tree/pulls/3/stable-sm"
             },
-            "time": "2024-10-17T02:54:05+00:00"
+            "time": "2024-10-20T21:55:46+00:00"
         },
         {
             "name": "colymba/gridfield-bulk-editing-tools",
