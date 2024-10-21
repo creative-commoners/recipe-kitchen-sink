@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.324.6",
+            "version": "3.324.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "7412a44da62fd607efbaac4084e69d6621f29de1"
+                "reference": "c430d00e5ea6ce23739d6345f073fdd39e8ef0dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/7412a44da62fd607efbaac4084e69d6621f29de1",
-                "reference": "7412a44da62fd607efbaac4084e69d6621f29de1",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/c430d00e5ea6ce23739d6345f073fdd39e8ef0dc",
+                "reference": "c430d00e5ea6ce23739d6345f073fdd39e8ef0dc",
                 "shasum": ""
             },
             "require": {
@@ -194,9 +194,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.324.6"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.324.7"
             },
-            "time": "2024-10-18T18:06:33+00:00"
+            "time": "2024-10-21T18:06:52+00:00"
         },
         {
             "name": "behat/behat",
@@ -2677,38 +2677,38 @@
         },
         {
             "name": "laminas/laminas-authentication",
-            "version": "2.17.0",
+            "version": "2.18.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-authentication.git",
-                "reference": "49202c2fdd7844209e05232334fe7fe7e4f62834"
+                "reference": "c1da3ec75bd4d6e3c63cf3a89f0f1a59a81a82bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-authentication/zipball/49202c2fdd7844209e05232334fe7fe7e4f62834",
-                "reference": "49202c2fdd7844209e05232334fe7fe7e4f62834",
+                "url": "https://api.github.com/repos/laminas/laminas-authentication/zipball/c1da3ec75bd4d6e3c63cf3a89f0f1a59a81a82bd",
+                "reference": "c1da3ec75bd4d6e3c63cf3a89f0f1a59a81a82bd",
                 "shasum": ""
             },
             "require": {
                 "ext-mbstring": "*",
-                "laminas/laminas-stdlib": "^3.6.0",
-                "php": "~8.1.0 || ~8.2.0 || ~8.3.0"
+                "laminas/laminas-stdlib": "^3.19.0",
+                "php": "~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0"
             },
             "conflict": {
                 "zendframework/zend-authentication": "*"
             },
             "require-dev": {
-                "laminas/laminas-coding-standard": "~2.4.0",
+                "laminas/laminas-coding-standard": "~2.5.0",
                 "laminas/laminas-db": "^2.20.0",
                 "laminas/laminas-http": "^2.19.0",
                 "laminas/laminas-ldap": "^2.18.1",
                 "laminas/laminas-session": "^2.21.0",
-                "laminas/laminas-uri": "^2.11.0",
-                "laminas/laminas-validator": "^2.61.0",
+                "laminas/laminas-uri": "^2.12.0",
+                "laminas/laminas-validator": "^2.64.1",
                 "phpunit/phpunit": "^9.6.20",
-                "psalm/plugin-phpunit": "^0.17.0",
-                "squizlabs/php_codesniffer": "^3.10.1",
-                "vimeo/psalm": "^4.30.0"
+                "psalm/plugin-phpunit": "^0.19.0",
+                "squizlabs/php_codesniffer": "^3.10.2",
+                "vimeo/psalm": "^5.26.0"
             },
             "suggest": {
                 "laminas/laminas-db": "Laminas\\Db component",
@@ -2748,7 +2748,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2024-07-15T08:31:06+00:00"
+            "time": "2024-10-21T10:45:35+00:00"
         },
         {
             "name": "laminas/laminas-eventmanager",
@@ -7573,12 +7573,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/developer-docs.git",
-                "reference": "ca51cdf7081a6ee7c02e1fea661b69cdba1cd416"
+                "reference": "a0e3f11c3810b768dbcd78ee90580e78146fc9ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/developer-docs/zipball/ca51cdf7081a6ee7c02e1fea661b69cdba1cd416",
-                "reference": "ca51cdf7081a6ee7c02e1fea661b69cdba1cd416",
+                "url": "https://api.github.com/repos/silverstripe/developer-docs/zipball/a0e3f11c3810b768dbcd78ee90580e78146fc9ab",
+                "reference": "a0e3f11c3810b768dbcd78ee90580e78146fc9ab",
                 "shasum": ""
             },
             "require-dev": {
@@ -7612,7 +7612,7 @@
                 "issues": "https://github.com/silverstripe/developer-docs/issues",
                 "source": "https://github.com/silverstripe/developer-docs/tree/6"
             },
-            "time": "2024-10-20T22:56:13+00:00"
+            "time": "2024-10-21T08:40:28+00:00"
         },
         {
             "name": "silverstripe/documentconverter",
@@ -8071,12 +8071,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "3ce511ca508998edcbc3a77da875de6e88df2050"
+                "reference": "41cbfe4e49970712e4e737776fee313cc2d36fd5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/3ce511ca508998edcbc3a77da875de6e88df2050",
-                "reference": "3ce511ca508998edcbc3a77da875de6e88df2050",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/41cbfe4e49970712e4e737776fee313cc2d36fd5",
+                "reference": "41cbfe4e49970712e4e737776fee313cc2d36fd5",
                 "shasum": ""
             },
             "require": {
@@ -8215,7 +8215,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/ss-list-combine"
             },
-            "time": "2024-10-21T04:53:02+00:00"
+            "time": "2024-10-21T21:49:17+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
