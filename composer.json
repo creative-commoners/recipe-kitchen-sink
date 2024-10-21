@@ -39,7 +39,8 @@
         "tractorcow/silverstripe-fluent": "8.x-dev",
         "silverstripe/dynamodb": "6.x-dev",
         "silverstripe/linkfield": "5.x-dev",
-        "silverstripe/graphql": "6.x-dev"
+        "silverstripe/graphql": "6.x-dev",
+        "silverstripe/framework": "dev-pulls/6/flush-on-sake as 6.9999999.9999999.9999999-dev"
     },
     "require-dev": {
         "silverstripe/frameworktest": "^2",
@@ -65,5 +66,11 @@
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "silverstripe/framework": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-framework.git"
+        }
+    }
 }
