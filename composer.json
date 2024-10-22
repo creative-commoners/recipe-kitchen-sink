@@ -45,7 +45,8 @@
         "silverstripe/recipe-testing": "^4",
         "mikey179/vfsstream": "^1.6.10",
         "silverstripe/framework": "dev-pulls/6/ss-list-combine as 6.x-dev",
-        "silverstripe/reports": "dev-pulls/6/ss-list-combine as 6.x-dev"
+        "silverstripe/reports": "dev-pulls/6/ss-list-combine as 6.x-dev",
+        "silverstripe/cms": "dev-pulls/6/remove-depr as 6.x-dev"
     },
     "extra": {
         "project-files": [
@@ -85,6 +86,10 @@
         "x3": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/silverstripe-gridfieldextensions"
+        },
+        "x4": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-cms"
         }
     },
     "conflict": {

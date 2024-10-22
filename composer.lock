@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b378cf92b7735010502adf31e97be990",
+    "content-hash": "05302210de562535899d293c1df85370",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -7309,16 +7309,16 @@
         },
         {
             "name": "silverstripe/cms",
-            "version": "6.x-dev",
+            "version": "dev-pulls/6/remove-depr",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-cms.git",
-                "reference": "b05a24d5d1a49379e5f9bfc532d44f1bec13e180"
+                "url": "https://github.com/creative-commoners/silverstripe-cms.git",
+                "reference": "e1be07d6f058a17a46fc32d46c0c58b2a88bc193"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/b05a24d5d1a49379e5f9bfc532d44f1bec13e180",
-                "reference": "b05a24d5d1a49379e5f9bfc532d44f1bec13e180",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/e1be07d6f058a17a46fc32d46c0c58b2a88bc193",
+                "reference": "e1be07d6f058a17a46fc32d46c0c58b2a88bc193",
                 "shasum": ""
             },
             "require": {
@@ -7355,7 +7355,14 @@
                     "SilverStripe\\CMS\\Tests\\Behaviour\\": "tests/behat/src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "scripts": {
+                "lint": [
+                    "phpcs -s code/ tests/php/ tests/behat/src/"
+                ],
+                "lint-clean": [
+                    "phpcbf code/ tests/php/ tests/behat/src/"
+                ]
+            },
             "license": [
                 "BSD-3-Clause"
             ],
@@ -7376,10 +7383,9 @@
                 "silverstripe"
             ],
             "support": {
-                "issues": "https://github.com/silverstripe/silverstripe-cms/issues",
-                "source": "https://github.com/silverstripe/silverstripe-cms/tree/6"
+                "source": "https://github.com/creative-commoners/silverstripe-cms/tree/pulls/6/remove-depr"
             },
-            "time": "2024-10-21T23:57:32+00:00"
+            "time": "2024-10-22T02:55:15+00:00"
         },
         {
             "name": "silverstripe/config",
@@ -14928,6 +14934,12 @@
     "packages-dev": [],
     "aliases": [
         {
+            "package": "silverstripe/cms",
+            "version": "dev-pulls/6/remove-depr",
+            "alias": "6.x-dev",
+            "alias_normalized": "6.9999999.9999999.9999999-dev"
+        },
+        {
             "package": "silverstripe/framework",
             "version": "dev-pulls/6/ss-list-combine",
             "alias": "6.x-dev",
@@ -14957,6 +14969,7 @@
         "colymba/gridfield-bulk-editing-tools": 20,
         "dnadesign/silverstripe-elemental-userforms": 20,
         "silverstripe/auditor": 20,
+        "silverstripe/cms": 20,
         "silverstripe/crontask": 20,
         "silverstripe/developer-docs": 20,
         "silverstripe/dynamodb": 20,
