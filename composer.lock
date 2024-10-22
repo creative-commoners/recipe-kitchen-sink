@@ -8071,12 +8071,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "b47c2c610b9e1346e1b45641034fb86e3a547bae"
+                "reference": "e0b2f721eafbeb1b275316c64b81df9d0e4295e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/b47c2c610b9e1346e1b45641034fb86e3a547bae",
-                "reference": "b47c2c610b9e1346e1b45641034fb86e3a547bae",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/e0b2f721eafbeb1b275316c64b81df9d0e4295e6",
+                "reference": "e0b2f721eafbeb1b275316c64b81df9d0e4295e6",
                 "shasum": ""
             },
             "require": {
@@ -8215,7 +8215,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/ss-list-combine"
             },
-            "time": "2024-10-22T02:30:54+00:00"
+            "time": "2024-10-22T04:51:20+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -10711,12 +10711,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-userforms.git",
-                "reference": "574ca14ee7f511f85db356406c5c56d20c9ea34d"
+                "reference": "a8df472903ca59d5493f8e1b0c090fd35628a78c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/574ca14ee7f511f85db356406c5c56d20c9ea34d",
-                "reference": "574ca14ee7f511f85db356406c5c56d20c9ea34d",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/a8df472903ca59d5493f8e1b0c090fd35628a78c",
+                "reference": "a8df472903ca59d5493f8e1b0c090fd35628a78c",
                 "shasum": ""
             },
             "require": {
@@ -10793,7 +10793,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-userforms/issues",
                 "source": "https://github.com/silverstripe/silverstripe-userforms/tree/7"
             },
-            "time": "2024-10-20T22:56:02+00:00"
+            "time": "2024-10-22T03:48:00+00:00"
         },
         {
             "name": "silverstripe/vendor-plugin",
