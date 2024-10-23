@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8addd60e51c20875f6d853f5887e1acd",
+    "content-hash": "355a725f0c355d91c1d2ebf3c6efab6b",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -9910,16 +9910,16 @@
         },
         {
             "name": "silverstripe/session-manager",
-            "version": "3.x-dev",
+            "version": "dev-pulls/3/fix-pass-int",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-session-manager.git",
-                "reference": "bcf83208e4cc71ec1101d4a31c90d4933984243f"
+                "url": "https://github.com/creative-commoners/silverstripe-session-manager.git",
+                "reference": "3c9d9afb3c285ad4fc3735ae29cb5365c91176ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-session-manager/zipball/bcf83208e4cc71ec1101d4a31c90d4933984243f",
-                "reference": "bcf83208e4cc71ec1101d4a31c90d4933984243f",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-session-manager/zipball/3c9d9afb3c285ad4fc3735ae29cb5365c91176ac",
+                "reference": "3c9d9afb3c285ad4fc3735ae29cb5365c91176ac",
                 "shasum": ""
             },
             "require": {
@@ -9953,7 +9953,6 @@
                     "SilverStripe\\SessionManager\\Tests\\Behat\\Context\\": "tests/behat/src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9978,10 +9977,9 @@
                 "silverstripe"
             ],
             "support": {
-                "issues": "https://github.com/silverstripe/silverstripe-session-manager/issues",
-                "source": "https://github.com/silverstripe/silverstripe-session-manager/tree/3"
+                "source": "https://github.com/creative-commoners/silverstripe-session-manager/tree/pulls/3/fix-pass-int"
             },
-            "time": "2024-10-10T21:58:51+00:00"
+            "time": "2024-10-23T01:22:13+00:00"
         },
         {
             "name": "silverstripe/sharedraftcontent",
@@ -10307,12 +10305,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-subsites.git",
-                "reference": "1972483da9835f3ad997acd323317032f60489fd"
+                "reference": "f178243f388f3ec47bdd0ca32775914ade8b92a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-subsites/zipball/1972483da9835f3ad997acd323317032f60489fd",
-                "reference": "1972483da9835f3ad997acd323317032f60489fd",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-subsites/zipball/f178243f388f3ec47bdd0ca32775914ade8b92a3",
+                "reference": "f178243f388f3ec47bdd0ca32775914ade8b92a3",
                 "shasum": ""
             },
             "require": {
@@ -10360,7 +10358,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-subsites/tree/pulls/4/fix-pass-int"
             },
-            "time": "2024-10-23T00:15:53+00:00"
+            "time": "2024-10-23T01:21:27+00:00"
         },
         {
             "name": "silverstripe/supported-modules",
@@ -14941,6 +14939,12 @@
             "alias_normalized": "6.9999999.9999999.9999999-dev"
         },
         {
+            "package": "silverstripe/session-manager",
+            "version": "dev-pulls/3/fix-pass-int",
+            "alias": "3.x-dev",
+            "alias_normalized": "3.9999999.9999999.9999999-dev"
+        },
+        {
             "package": "silverstripe/subsites",
             "version": "dev-pulls/4/fix-pass-int",
             "alias": "4.x-dev",
@@ -14984,6 +14988,7 @@
         "silverstripe/recipe-services": 20,
         "silverstripe/registry": 20,
         "silverstripe/reports": 20,
+        "silverstripe/session-manager": 20,
         "silverstripe/staticpublishqueue": 20,
         "silverstripe/subsites": 20,
         "silverstripe/textextraction": 20,
