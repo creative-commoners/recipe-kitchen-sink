@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "355a725f0c355d91c1d2ebf3c6efab6b",
+    "content-hash": "52b1951bdd48fde5db416b604934ee30",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -8071,12 +8071,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "6c6262d340e181420ce741554b42c5283f449d9c"
+                "reference": "23373f5fd3aec9ce7923b0e8c30ad5cd08ba06c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/6c6262d340e181420ce741554b42c5283f449d9c",
-                "reference": "6c6262d340e181420ce741554b42c5283f449d9c",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/23373f5fd3aec9ce7923b0e8c30ad5cd08ba06c2",
+                "reference": "23373f5fd3aec9ce7923b0e8c30ad5cd08ba06c2",
                 "shasum": ""
             },
             "require": {
@@ -8215,7 +8215,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/ss-list-combine"
             },
-            "time": "2024-10-23T02:20:53+00:00"
+            "time": "2024-10-23T04:25:28+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -9910,16 +9910,16 @@
         },
         {
             "name": "silverstripe/session-manager",
-            "version": "dev-pulls/3/fix-pass-int",
+            "version": "3.x-dev",
             "source": {
                 "type": "git",
-                "url": "https://github.com/creative-commoners/silverstripe-session-manager.git",
-                "reference": "3c9d9afb3c285ad4fc3735ae29cb5365c91176ac"
+                "url": "https://github.com/silverstripe/silverstripe-session-manager.git",
+                "reference": "bcf83208e4cc71ec1101d4a31c90d4933984243f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-session-manager/zipball/3c9d9afb3c285ad4fc3735ae29cb5365c91176ac",
-                "reference": "3c9d9afb3c285ad4fc3735ae29cb5365c91176ac",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-session-manager/zipball/bcf83208e4cc71ec1101d4a31c90d4933984243f",
+                "reference": "bcf83208e4cc71ec1101d4a31c90d4933984243f",
                 "shasum": ""
             },
             "require": {
@@ -9953,6 +9953,7 @@
                     "SilverStripe\\SessionManager\\Tests\\Behat\\Context\\": "tests/behat/src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -9977,9 +9978,10 @@
                 "silverstripe"
             ],
             "support": {
-                "source": "https://github.com/creative-commoners/silverstripe-session-manager/tree/pulls/3/fix-pass-int"
+                "issues": "https://github.com/silverstripe/silverstripe-session-manager/issues",
+                "source": "https://github.com/silverstripe/silverstripe-session-manager/tree/3"
             },
-            "time": "2024-10-23T01:22:13+00:00"
+            "time": "2024-10-10T21:58:51+00:00"
         },
         {
             "name": "silverstripe/sharedraftcontent",
@@ -10298,67 +10300,6 @@
                 "source": "https://github.com/silverstripe/silverstripe-staticpublishqueue/tree/7"
             },
             "time": "2024-10-22T03:23:59+00:00"
-        },
-        {
-            "name": "silverstripe/subsites",
-            "version": "dev-pulls/4/fix-pass-int",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/creative-commoners/silverstripe-subsites.git",
-                "reference": "f178243f388f3ec47bdd0ca32775914ade8b92a3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-subsites/zipball/f178243f388f3ec47bdd0ca32775914ade8b92a3",
-                "reference": "f178243f388f3ec47bdd0ca32775914ade8b92a3",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^8.3",
-                "silverstripe/admin": "^3",
-                "silverstripe/asset-admin": "^3",
-                "silverstripe/cms": "^6",
-                "silverstripe/errorpage": "^3",
-                "silverstripe/framework": "^6",
-                "silverstripe/versioned": "^3"
-            },
-            "require-dev": {
-                "phpstan/extension-installer": "^1.3",
-                "phpunit/phpunit": "^11.3",
-                "silverstripe/standards": "^1",
-                "squizlabs/php_codesniffer": "^3"
-            },
-            "type": "silverstripe-vendormodule",
-            "extra": {
-                "expose": [
-                    "client/dist"
-                ]
-            },
-            "autoload": {
-                "psr-4": {
-                    "SilverStripe\\Subsites\\": "src/",
-                    "SilverStripe\\Subsites\\Tests\\": "tests/php/"
-                }
-            },
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Sam Minnee",
-                    "email": "sam@silverstripe.com"
-                }
-            ],
-            "description": "Run multiple sites from a single SilverStripe install.",
-            "keywords": [
-                "multisite",
-                "silverstripe",
-                "subsites"
-            ],
-            "support": {
-                "source": "https://github.com/creative-commoners/silverstripe-subsites/tree/pulls/4/fix-pass-int"
-            },
-            "time": "2024-10-23T01:21:27+00:00"
         },
         {
             "name": "silverstripe/supported-modules",
@@ -14939,18 +14880,6 @@
             "alias_normalized": "6.9999999.9999999.9999999-dev"
         },
         {
-            "package": "silverstripe/session-manager",
-            "version": "dev-pulls/3/fix-pass-int",
-            "alias": "3.x-dev",
-            "alias_normalized": "3.9999999.9999999.9999999-dev"
-        },
-        {
-            "package": "silverstripe/subsites",
-            "version": "dev-pulls/4/fix-pass-int",
-            "alias": "4.x-dev",
-            "alias_normalized": "4.9999999.9999999.9999999-dev"
-        },
-        {
             "package": "symbiote/silverstripe-gridfieldextensions",
             "version": "dev-pulls/5/ss-list-combine",
             "alias": "5.x-dev",
@@ -14988,9 +14917,7 @@
         "silverstripe/recipe-services": 20,
         "silverstripe/registry": 20,
         "silverstripe/reports": 20,
-        "silverstripe/session-manager": 20,
         "silverstripe/staticpublishqueue": 20,
-        "silverstripe/subsites": 20,
         "silverstripe/textextraction": 20,
         "silverstripe/totp-authenticator": 20,
         "silverstripe/webauthn-authenticator": 20,
