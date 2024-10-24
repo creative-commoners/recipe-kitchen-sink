@@ -44,7 +44,8 @@
         "silverstripe/recipe-testing": "^4",
         "mikey179/vfsstream": "^1.6.10",
         "silverstripe/framework": "dev-pulls/6/ss-list-combine as 6.x-dev",
-        "silverstripe/reports": "dev-pulls/6/ss-list-combine as 6.x-dev"
+        "silverstripe/reports": "dev-pulls/6/ss-list-combine as 6.x-dev",
+        "silverstripe/subsites": "4.x-dev"
     },
     "extra": {
         "project-files": [
