@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.356.32",
+            "version": "3.356.33",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "c564fb87e180da5ae45185a4526bb05a69998d05"
+                "reference": "b93da7b0eeec09b220daa9b598a94832f99cefa7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/c564fb87e180da5ae45185a4526bb05a69998d05",
-                "reference": "c564fb87e180da5ae45185a4526bb05a69998d05",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/b93da7b0eeec09b220daa9b598a94832f99cefa7",
+                "reference": "b93da7b0eeec09b220daa9b598a94832f99cefa7",
                 "shasum": ""
             },
             "require": {
@@ -193,9 +193,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.356.32"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.356.33"
             },
-            "time": "2025-10-03T18:12:05+00:00"
+            "time": "2025-10-06T19:01:41+00:00"
         },
         {
             "name": "behat/behat",
@@ -1807,12 +1807,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-elemental.git",
-                "reference": "ece74e234d4bf248518dd8bf7257a812cb82e1a2"
+                "reference": "bb942187e0e1dc6c7c7fabde45837e4b8d7c4ed0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/ece74e234d4bf248518dd8bf7257a812cb82e1a2",
-                "reference": "ece74e234d4bf248518dd8bf7257a812cb82e1a2",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/bb942187e0e1dc6c7c7fabde45837e4b8d7c4ed0",
+                "reference": "bb942187e0e1dc6c7c7fabde45837e4b8d7c4ed0",
                 "shasum": ""
             },
             "require": {
@@ -1873,7 +1873,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-elemental/tree/pulls/5.4/tabindex"
             },
-            "time": "2025-10-06T03:17:28+00:00"
+            "time": "2025-10-06T22:26:08+00:00"
         },
         {
             "name": "dnadesign/silverstripe-elemental-userforms",
@@ -7493,12 +7493,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "1941af232aad3f5cf43da8b336a6989f600ce0a8"
+                "reference": "3e1c95342f3a7a60a6e8f09c026544855b6349d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/1941af232aad3f5cf43da8b336a6989f600ce0a8",
-                "reference": "1941af232aad3f5cf43da8b336a6989f600ce0a8",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/3e1c95342f3a7a60a6e8f09c026544855b6349d6",
+                "reference": "3e1c95342f3a7a60a6e8f09c026544855b6349d6",
                 "shasum": ""
             },
             "require": {
@@ -7562,7 +7562,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/2.4/tabindex"
             },
-            "time": "2025-10-06T03:17:49+00:00"
+            "time": "2025-10-06T22:26:06+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -7570,12 +7570,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-asset-admin.git",
-                "reference": "64207ea4e9ce44cbd123179324987b2521d3350b"
+                "reference": "a2d5d7b3578fbb732dec5ef95d19f5e0428d2f3a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/64207ea4e9ce44cbd123179324987b2521d3350b",
-                "reference": "64207ea4e9ce44cbd123179324987b2521d3350b",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/a2d5d7b3578fbb732dec5ef95d19f5e0428d2f3a",
+                "reference": "a2d5d7b3578fbb732dec5ef95d19f5e0428d2f3a",
                 "shasum": ""
             },
             "require": {
@@ -7622,7 +7622,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-asset-admin/tree/pulls/2.4/tabindex"
             },
-            "time": "2025-10-06T03:09:32+00:00"
+            "time": "2025-10-06T22:26:18+00:00"
         },
         {
             "name": "silverstripe/assets",
@@ -9355,12 +9355,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-linkfield.git",
-                "reference": "7d321457579ba39ea54161a817fc17aaeae9f9ca"
+                "reference": "f27e54e5fc14a21a29de2e29847e6a03724d0b18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-linkfield/zipball/7d321457579ba39ea54161a817fc17aaeae9f9ca",
-                "reference": "7d321457579ba39ea54161a817fc17aaeae9f9ca",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-linkfield/zipball/f27e54e5fc14a21a29de2e29847e6a03724d0b18",
+                "reference": "f27e54e5fc14a21a29de2e29847e6a03724d0b18",
                 "shasum": ""
             },
             "require": {
@@ -9418,7 +9418,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-linkfield/tree/pulls/4.2/tabindex"
             },
-            "time": "2025-10-06T01:37:58+00:00"
+            "time": "2025-10-06T22:38:51+00:00"
         },
         {
             "name": "silverstripe/login-forms",
