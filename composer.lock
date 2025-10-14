@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.356.37",
+            "version": "3.356.38",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "855bcaaa4c486fc67447bf17cfbff9ff75341ad7"
+                "reference": "b53c1e580b025da5e068106330125894a347cc75"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/855bcaaa4c486fc67447bf17cfbff9ff75341ad7",
-                "reference": "855bcaaa4c486fc67447bf17cfbff9ff75341ad7",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/b53c1e580b025da5e068106330125894a347cc75",
+                "reference": "b53c1e580b025da5e068106330125894a347cc75",
                 "shasum": ""
             },
             "require": {
@@ -193,9 +193,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.356.37"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.356.38"
             },
-            "time": "2025-10-10T18:50:12+00:00"
+            "time": "2025-10-13T18:05:18+00:00"
         },
         {
             "name": "behat/behat",
@@ -1143,19 +1143,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-elemental-userforms.git",
-                "reference": "7d43a219b8de3713f44595dd7e4f67b186013465"
+                "reference": "bd3f9577ade8dd46e929989262a6880dee3501b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-elemental-userforms/zipball/7d43a219b8de3713f44595dd7e4f67b186013465",
-                "reference": "7d43a219b8de3713f44595dd7e4f67b186013465",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-elemental-userforms/zipball/bd3f9577ade8dd46e929989262a6880dee3501b2",
+                "reference": "bd3f9577ade8dd46e929989262a6880dee3501b2",
                 "shasum": ""
             },
             "require": {
-                "dnadesign/silverstripe-elemental": "^6",
+                "dnadesign/silverstripe-elemental": "^6.2",
                 "php": "^8.3",
-                "silverstripe/framework": "^6",
-                "silverstripe/userforms": "^7"
+                "silverstripe/framework": "^6.2",
+                "silverstripe/userforms": "^7.1"
             },
             "require-dev": {
                 "phpstan/extension-installer": "^1.3",
@@ -1194,7 +1194,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-elemental-userforms/issues",
                 "source": "https://github.com/silverstripe/silverstripe-elemental-userforms/tree/5"
             },
-            "time": "2025-10-03T02:25:58+00:00"
+            "time": "2025-10-13T21:00:09+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -6044,12 +6044,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-cms.git",
-                "reference": "3a393592801e8e65969dbb7ade32a13304aa4030"
+                "reference": "e971648175262158ad6a5f4fb8ed4b00052f2d2f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/3a393592801e8e65969dbb7ade32a13304aa4030",
-                "reference": "3a393592801e8e65969dbb7ade32a13304aa4030",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/e971648175262158ad6a5f4fb8ed4b00052f2d2f",
+                "reference": "e971648175262158ad6a5f4fb8ed4b00052f2d2f",
                 "shasum": ""
             },
             "require": {
@@ -6114,7 +6114,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-cms/tree/pulls/6/tree-aria"
             },
-            "time": "2025-10-13T01:45:24+00:00"
+            "time": "2025-10-14T04:48:11+00:00"
         },
         {
             "name": "silverstripe/config",
