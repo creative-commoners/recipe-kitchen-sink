@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.356.38",
+            "version": "3.356.39",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "b53c1e580b025da5e068106330125894a347cc75"
+                "reference": "1a08e07656baf7328e18a98b8ec766a6fd5c92a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/b53c1e580b025da5e068106330125894a347cc75",
-                "reference": "b53c1e580b025da5e068106330125894a347cc75",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/1a08e07656baf7328e18a98b8ec766a6fd5c92a9",
+                "reference": "1a08e07656baf7328e18a98b8ec766a6fd5c92a9",
                 "shasum": ""
             },
             "require": {
@@ -193,9 +193,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.356.38"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.356.39"
             },
-            "time": "2025-10-13T18:05:18+00:00"
+            "time": "2025-10-14T18:08:04+00:00"
         },
         {
             "name": "behat/behat",
@@ -2156,16 +2156,16 @@
         },
         {
             "name": "laravel/serializable-closure",
-            "version": "v2.0.5",
+            "version": "v2.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/serializable-closure.git",
-                "reference": "3832547db6e0e2f8bb03d4093857b378c66eceed"
+                "reference": "038ce42edee619599a1debb7e81d7b3759492819"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/3832547db6e0e2f8bb03d4093857b378c66eceed",
-                "reference": "3832547db6e0e2f8bb03d4093857b378c66eceed",
+                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/038ce42edee619599a1debb7e81d7b3759492819",
+                "reference": "038ce42edee619599a1debb7e81d7b3759492819",
                 "shasum": ""
             },
             "require": {
@@ -2213,7 +2213,7 @@
                 "issues": "https://github.com/laravel/serializable-closure/issues",
                 "source": "https://github.com/laravel/serializable-closure"
             },
-            "time": "2025-09-22T17:29:40+00:00"
+            "time": "2025-10-09T13:42:30+00:00"
         },
         {
             "name": "lcobucci/clock",
@@ -5705,12 +5705,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "d157146dbf4c2a6726842f1e47e3ed83e73849db"
+                "reference": "099de6308286a287a06bd8176fe67a22609baf88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/d157146dbf4c2a6726842f1e47e3ed83e73849db",
-                "reference": "d157146dbf4c2a6726842f1e47e3ed83e73849db",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/099de6308286a287a06bd8176fe67a22609baf88",
+                "reference": "099de6308286a287a06bd8176fe67a22609baf88",
                 "shasum": ""
             },
             "require": {
@@ -5770,7 +5770,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/tree-aria"
             },
-            "time": "2025-10-13T01:49:58+00:00"
+            "time": "2025-10-14T22:22:35+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
