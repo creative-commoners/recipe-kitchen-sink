@@ -5705,12 +5705,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "2bc096e5623d2af2332490a7d5b0f758d304ec62"
+                "reference": "2a19fd3337ffb014efaba25cac3a2efe2dd6c594"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/2bc096e5623d2af2332490a7d5b0f758d304ec62",
-                "reference": "2bc096e5623d2af2332490a7d5b0f758d304ec62",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/2a19fd3337ffb014efaba25cac3a2efe2dd6c594",
+                "reference": "2a19fd3337ffb014efaba25cac3a2efe2dd6c594",
                 "shasum": ""
             },
             "require": {
@@ -5770,7 +5770,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/tabindex-no-focus"
             },
-            "time": "2025-10-28T21:45:59+00:00"
+            "time": "2025-10-28T22:38:27+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -6590,12 +6590,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-frameworktest.git",
-                "reference": "a95de2343255aa86fe93afd847142626d6536f5d"
+                "reference": "cd3c8d14ec2912b1a322b75ba36165041d76bc54"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-frameworktest/zipball/a95de2343255aa86fe93afd847142626d6536f5d",
-                "reference": "a95de2343255aa86fe93afd847142626d6536f5d",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-frameworktest/zipball/cd3c8d14ec2912b1a322b75ba36165041d76bc54",
+                "reference": "cd3c8d14ec2912b1a322b75ba36165041d76bc54",
                 "shasum": ""
             },
             "require": {
@@ -6640,7 +6640,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-frameworktest/tree/pulls/2/new-things"
             },
-            "time": "2025-10-28T21:41:54+00:00"
+            "time": "2025-10-28T22:38:13+00:00"
         },
         {
             "name": "silverstripe/graphql",
