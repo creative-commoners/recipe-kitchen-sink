@@ -32,8 +32,10 @@
         "silverstripe/dynamodb": "6.x-dev",
         "silverstripe/linkfield": "5.x-dev",
         "silverstripe/graphql": "6.x-dev",
-        "silverstripe/campaign-admin": "3.x-dev",
-        "silverstripe/environmentcheck": "4.x-dev"
+        "silverstripe/campaign-admin": "dev-pulls/3/filter-campaigns as 3.x-dev",
+        "silverstripe/environmentcheck": "4.x-dev",
+        "silverstripe/versioned": "dev-pulls/3/searchablefields-changeset as 3.9999999.9999999.9999999-dev",
+        "silverstripe/admin": "dev-pulls/3/search-improvements as 3.9999999.9999999.9999999-dev"
     },
     "require-dev": {
         "silverstripe/webauthn-authenticator": "6.x-dev",
@@ -52,6 +54,9 @@
         ]
     },
     "config": {
+        "platform": {
+            "php": "8.3"
+        },
         "process-timeout": 600,
         "allow-plugins": {
             "composer/installers": true,
@@ -60,5 +65,19 @@
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "silverstripe/versioned": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-versioned.git"
+        },
+        "silverstripe/admin": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-admin.git"
+        },
+        "silverstripe/campaign-admin": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-campaign-admin.git"
+        }
+    }
 }
