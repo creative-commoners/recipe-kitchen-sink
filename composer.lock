@@ -6167,12 +6167,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/developer-docs.git",
-                "reference": "a3a15e33e38ad6e6bd8b74696fbd8a11cddf1c86"
+                "reference": "331fb9d2ea8a40e9728926f39913cde5ee5b046a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/developer-docs/zipball/a3a15e33e38ad6e6bd8b74696fbd8a11cddf1c86",
-                "reference": "a3a15e33e38ad6e6bd8b74696fbd8a11cddf1c86",
+                "url": "https://api.github.com/repos/creative-commoners/developer-docs/zipball/331fb9d2ea8a40e9728926f39913cde5ee5b046a",
+                "reference": "331fb9d2ea8a40e9728926f39913cde5ee5b046a",
                 "shasum": ""
             },
             "require-dev": {
@@ -6204,7 +6204,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/developer-docs/tree/pulls/6/unsaved-indicator"
             },
-            "time": "2025-11-18T02:52:31+00:00"
+            "time": "2025-11-18T03:52:07+00:00"
         },
         {
             "name": "silverstripe/dynamodb",
