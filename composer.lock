@@ -5776,12 +5776,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-asset-admin.git",
-                "reference": "103e2402d090acd9758f55307d7712c805c8e619"
+                "reference": "1c9ea5a2d4666cf469f9cbcb4694984f6578deb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/103e2402d090acd9758f55307d7712c805c8e619",
-                "reference": "103e2402d090acd9758f55307d7712c805c8e619",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/1c9ea5a2d4666cf469f9cbcb4694984f6578deb0",
+                "reference": "1c9ea5a2d4666cf469f9cbcb4694984f6578deb0",
                 "shasum": ""
             },
             "require": {
@@ -5826,7 +5826,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-asset-admin/tree/pulls/3/unsaved-indicator"
             },
-            "time": "2025-11-18T03:36:03+00:00"
+            "time": "2025-11-19T08:23:31+00:00"
         },
         {
             "name": "silverstripe/assets",
@@ -6167,12 +6167,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/developer-docs.git",
-                "reference": "803b57486f5bff40e33eaf6458469dd9c559aa11"
+                "reference": "a21250cf6c36e854a5afa55ba5be14c3b4654179"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/developer-docs/zipball/803b57486f5bff40e33eaf6458469dd9c559aa11",
-                "reference": "803b57486f5bff40e33eaf6458469dd9c559aa11",
+                "url": "https://api.github.com/repos/creative-commoners/developer-docs/zipball/a21250cf6c36e854a5afa55ba5be14c3b4654179",
+                "reference": "a21250cf6c36e854a5afa55ba5be14c3b4654179",
                 "shasum": ""
             },
             "require-dev": {
@@ -6204,7 +6204,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/developer-docs/tree/pulls/6/unsaved-indicator"
             },
-            "time": "2025-11-19T04:04:45+00:00"
+            "time": "2025-11-19T08:23:17+00:00"
         },
         {
             "name": "silverstripe/dynamodb",
