@@ -1069,12 +1069,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-elemental.git",
-                "reference": "b4bedea9b33491eefcceff6a04fb0c08d6368499"
+                "reference": "fd5018b9ed9a01dd36a5740c76d59131391cbfe6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/b4bedea9b33491eefcceff6a04fb0c08d6368499",
-                "reference": "b4bedea9b33491eefcceff6a04fb0c08d6368499",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-elemental/zipball/fd5018b9ed9a01dd36a5740c76d59131391cbfe6",
+                "reference": "fd5018b9ed9a01dd36a5740c76d59131391cbfe6",
                 "shasum": ""
             },
             "require": {
@@ -1133,7 +1133,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-elemental/tree/pulls/6/unsaved-indicator"
             },
-            "time": "2025-11-19T23:34:52+00:00"
+            "time": "2025-11-20T01:52:59+00:00"
         },
         {
             "name": "dnadesign/silverstripe-elemental-userforms",
@@ -5703,12 +5703,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "9b175f5e323a97f6de46441922ed35ace4ce2eab"
+                "reference": "39594ee4eb011696e2a06d98e3cfd689dffa333b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/9b175f5e323a97f6de46441922ed35ace4ce2eab",
-                "reference": "9b175f5e323a97f6de46441922ed35ace4ce2eab",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/39594ee4eb011696e2a06d98e3cfd689dffa333b",
+                "reference": "39594ee4eb011696e2a06d98e3cfd689dffa333b",
                 "shasum": ""
             },
             "require": {
@@ -5768,7 +5768,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/unsaved-indicator"
             },
-            "time": "2025-11-19T23:35:17+00:00"
+            "time": "2025-11-20T01:52:23+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
