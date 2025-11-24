@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.363.0",
+            "version": "3.363.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "b2f78a0787a73801957eb329048d52b4181e9660"
+                "reference": "bcc08c51e133f6b48f4ecb6acb59372b15dda388"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/b2f78a0787a73801957eb329048d52b4181e9660",
-                "reference": "b2f78a0787a73801957eb329048d52b4181e9660",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/bcc08c51e133f6b48f4ecb6acb59372b15dda388",
+                "reference": "bcc08c51e133f6b48f4ecb6acb59372b15dda388",
                 "shasum": ""
             },
             "require": {
@@ -193,9 +193,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.363.0"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.363.1"
             },
-            "time": "2025-11-21T19:41:10+00:00"
+            "time": "2025-11-24T19:04:49+00:00"
         },
         {
             "name": "behat/behat",
@@ -5704,12 +5704,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "b00b6a51f637583ee2e50cc1710abfe0092f9917"
+                "reference": "a6ff4c34a93f9567e0099479a92fd2076583189d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/b00b6a51f637583ee2e50cc1710abfe0092f9917",
-                "reference": "b00b6a51f637583ee2e50cc1710abfe0092f9917",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/a6ff4c34a93f9567e0099479a92fd2076583189d",
+                "reference": "a6ff4c34a93f9567e0099479a92fd2076583189d",
                 "shasum": ""
             },
             "require": {
@@ -5769,7 +5769,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/unsaved-indicator"
             },
-            "time": "2025-11-24T04:49:02+00:00"
+            "time": "2025-11-24T21:25:09+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -8695,12 +8695,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-versioned-admin.git",
-                "reference": "8eca9101776f4d427755e4fe5dc9d5e03690989c"
+                "reference": "63853897139a6c2e040969825219bb2ea2f36785"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-versioned-admin/zipball/8eca9101776f4d427755e4fe5dc9d5e03690989c",
-                "reference": "8eca9101776f4d427755e4fe5dc9d5e03690989c",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-versioned-admin/zipball/63853897139a6c2e040969825219bb2ea2f36785",
+                "reference": "63853897139a6c2e040969825219bb2ea2f36785",
                 "shasum": ""
             },
             "require": {
@@ -8755,7 +8755,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-versioned-admin/issues",
                 "source": "https://github.com/silverstripe/silverstripe-versioned-admin/tree/3"
             },
-            "time": "2025-11-16T20:29:37+00:00"
+            "time": "2025-11-24T20:58:10+00:00"
         },
         {
             "name": "silverstripe/webauthn-authenticator",
