@@ -5,7 +5,7 @@
     "homepage": "https://github.com/silverstripe/recipe-kitchen-sink",
     "license": "BSD-3-Clause",
     "require": {
-        "php": "^8.3",
+        "php": "^8.5",
         "silverstripe/recipe-plugin": "2.x-dev",
         "silverstripe/installer": "6.x-dev",
         "silverstripe/developer-docs": "6.x-dev",
@@ -49,6 +49,28 @@
         "public-files": [
             "assets/*",
             "favicon.ico"
+        ],
+        "project-files-installed": [
+            ".env.example",
+            ".graphql-generated/_manifest_exclude",
+            ".htaccess",
+            "app/.htaccess",
+            "app/_config/mimevalidator.yml",
+            "app/_config/mysite.yml",
+            "app/_config/theme.yml",
+            "app/src/Page.php",
+            "app/src/PageController.php",
+            "behat.yml",
+            "phpunit.xml.dist"
+        ],
+        "public-files-installed": [
+            ".htaccess",
+            "assets/.gitignore",
+            "assets/.htaccess",
+            "assets/web.config",
+            "favicon.ico",
+            "index.php",
+            "web.config"
         ]
     },
     "config": {
@@ -60,7 +82,7 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         },
         "platform": {
-            "php": "8.3"
+            "php": "8.5"
         }
     },
     "prefer-stable": true,
