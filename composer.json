@@ -19,7 +19,6 @@
         "silverstripe/staticpublishqueue": "dev-pulls/7/php85 as 7.x-dev",
         "silverstripe/tagfield": "4.x-dev",
         "silverstripe/taxonomy": "4.x-dev",
-        "silverstripe/textextraction": "5.x-dev",
         "silverstripe/userforms": "dev-pulls/7/php85 as 7.x-dev",
         "dnadesign/silverstripe-elemental": "dev-pulls/6/php85 as 6.x-dev",
         "dnadesign/silverstripe-elemental-userforms": "5.x-dev",
@@ -30,6 +29,7 @@
         "tractorcow/silverstripe-fluent": "dev-pulls/8/php85 as 8.x-dev",
         "silverstripe/dynamodb": "6.x-dev",
         "silverstripe/linkfield": "dev-pulls/5/php85 as 5.x-dev",
+        "silverstripe/textextraction": "dev-pulls/5/php85 as 5.x-dev",
         "silverstripe/admin": "dev-pulls/3/php85 as 3.x-dev",
         "silverstripe/campaign-admin": "dev-pulls/3/php85 as 3.x-dev",
         "silverstripe/environmentcheck": "4.x-dev",
@@ -41,11 +41,13 @@
         "silverstripe/config": "dev-pulls/3/php85 as 3.x-dev",
         "silverstripe/framework": "dev-pulls/6/php85 as 6.x-dev",
         "silverstripe/cms": "dev-pulls/6/php85 as 6.x-dev",
+        "silverstripe/reports": "dev-pulls/6/php85 as 6.x-dev",
         "silverstripe/graphql": "dev-pulls/6/php85 as 6.x-dev",
         "silverstripe/versioned-admin": "dev-pulls/3/php85 as 3.x-dev",
         "silverstripe/assets": "dev-pulls/3/php85 as 3.x-dev",
         "silverstripe/gridfieldqueuedexport": "dev-pulls/4/php85 as 4.x-dev",
         "silverstripe/versioned": "dev-pulls/3/php85 as 3.x-dev",
+        "silverstripe/asset-admin": "dev-pulls/3/php85 as 3.x-dev",
         "silverstripe/template-engine": "dev-pulls/1/php85 as 1.x-dev"
     },
     "extra": {
@@ -155,6 +157,18 @@
         "x20": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/silverstripe-fluent"
+        },
+        "x21": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-asset-admin"
+        },
+        "x22": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-reports"
+        },
+        "x23": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-textextraction"
         }
     },
     "conflict": {
