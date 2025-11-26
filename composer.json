@@ -41,7 +41,10 @@
         "mikey179/vfsstream": "^1.6.10",
         "silverstripe/config": "dev-pulls/3/php85 as 3.x-dev",
         "silverstripe/framework": "dev-pulls/6/php85 as 6.x-dev",
-        "silverstripe/versioned-admin": "dev-pulls/3/php85 as 3.x-dev"
+        "silverstripe/versioned-admin": "dev-pulls/3/php85 as 3.x-dev",
+        "silverstripe/assets": "dev-pulls/3/php85 as 3.x-dev",
+        "silverstripe/versioned": "dev-pulls/3/php85 as 3.x-dev",
+        "silverstripe/template-engine": "dev-pulls/1/php85 as 1.x-dev"
     },
     "extra": {
         "project-files": [
@@ -90,6 +93,18 @@
         "x5": {
             "type": "vcs",
             "url": "git@github.com:creative-commoners/silverstripe-elemental"
+        },
+        "x6": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-assets"
+        },
+        "x7": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-template-engine"
+        },
+        "x8": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-versioned#535"
         }
     },
     "conflict": {
