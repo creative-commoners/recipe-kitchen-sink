@@ -6453,12 +6453,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "6438b78d58d884e9929d4ccc870d084d9a19210f"
+                "reference": "689fe5ca65d70ba1c83f4d9518cfd03a8af74011"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/6438b78d58d884e9929d4ccc870d084d9a19210f",
-                "reference": "6438b78d58d884e9929d4ccc870d084d9a19210f",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/689fe5ca65d70ba1c83f4d9518cfd03a8af74011",
+                "reference": "689fe5ca65d70ba1c83f4d9518cfd03a8af74011",
                 "shasum": ""
             },
             "require": {
@@ -6603,7 +6603,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/php85"
             },
-            "time": "2025-11-27T00:08:45+00:00"
+            "time": "2025-11-27T04:54:35+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -8507,12 +8507,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-userforms.git",
-                "reference": "81b24ec993d1982312a578dd33a793c314e67c4d"
+                "reference": "49e7b6ba091fd081b93ad6d9e667619583bec48d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-userforms/zipball/81b24ec993d1982312a578dd33a793c314e67c4d",
-                "reference": "81b24ec993d1982312a578dd33a793c314e67c4d",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-userforms/zipball/49e7b6ba091fd081b93ad6d9e667619583bec48d",
+                "reference": "49e7b6ba091fd081b93ad6d9e667619583bec48d",
                 "shasum": ""
             },
             "require": {
@@ -8595,7 +8595,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-userforms/tree/pulls/7/php85"
             },
-            "time": "2025-11-26T22:01:08+00:00"
+            "time": "2025-11-27T04:54:48+00:00"
         },
         {
             "name": "silverstripe/vendor-plugin",
