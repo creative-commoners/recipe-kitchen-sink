@@ -6781,12 +6781,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-gridfieldqueuedexport.git",
-                "reference": "ccf4316daa75f0911795e13810f762d2123cbf69"
+                "reference": "44a2c0d9247af8929d3099a591e45ef87edc23e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-gridfieldqueuedexport/zipball/ccf4316daa75f0911795e13810f762d2123cbf69",
-                "reference": "ccf4316daa75f0911795e13810f762d2123cbf69",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-gridfieldqueuedexport/zipball/44a2c0d9247af8929d3099a591e45ef87edc23e2",
+                "reference": "44a2c0d9247af8929d3099a591e45ef87edc23e2",
                 "shasum": ""
             },
             "require": {
@@ -6828,7 +6828,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-gridfieldqueuedexport/tree/pulls/4/php85"
             },
-            "time": "2025-11-26T21:48:07+00:00"
+            "time": "2025-11-27T01:50:06+00:00"
         },
         {
             "name": "silverstripe/htmleditor-tinymce",
@@ -7268,16 +7268,16 @@
         },
         {
             "name": "silverstripe/mink-facebook-web-driver",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/MinkFacebookWebDriver.git",
-                "reference": "5db2d50763ebd029b7f8dfd671821516fe0392ef"
+                "reference": "a53dea6a1d1387bb46806efee5faa00944b26b56"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/MinkFacebookWebDriver/zipball/5db2d50763ebd029b7f8dfd671821516fe0392ef",
-                "reference": "5db2d50763ebd029b7f8dfd671821516fe0392ef",
+                "url": "https://api.github.com/repos/silverstripe/MinkFacebookWebDriver/zipball/a53dea6a1d1387bb46806efee5faa00944b26b56",
+                "reference": "a53dea6a1d1387bb46806efee5faa00944b26b56",
                 "shasum": ""
             },
             "require": {
@@ -7324,9 +7324,9 @@
                 "webdriver"
             ],
             "support": {
-                "source": "https://github.com/silverstripe/MinkFacebookWebDriver/tree/2.0.0"
+                "source": "https://github.com/silverstripe/MinkFacebookWebDriver/tree/2.1.0"
             },
-            "time": "2025-03-27T02:54:10+00:00"
+            "time": "2025-11-27T01:43:34+00:00"
         },
         {
             "name": "silverstripe/realme",
