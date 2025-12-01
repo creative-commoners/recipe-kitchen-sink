@@ -6453,12 +6453,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "81cf6998c04368d4f99868989d325211d27ec74e"
+                "reference": "e7bda022c82bcb1d6213bab23738802f15741b13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/81cf6998c04368d4f99868989d325211d27ec74e",
-                "reference": "81cf6998c04368d4f99868989d325211d27ec74e",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/e7bda022c82bcb1d6213bab23738802f15741b13",
+                "reference": "e7bda022c82bcb1d6213bab23738802f15741b13",
                 "shasum": ""
             },
             "require": {
@@ -6498,6 +6498,7 @@
                 "symfony/config": "^7.0",
                 "symfony/console": "^7.0",
                 "symfony/dom-crawler": "^7.0",
+                "symfony/event-dispatcher": "^6|^7",
                 "symfony/filesystem": "^7.1",
                 "symfony/finder": "^7.0",
                 "symfony/http-foundation": "^7.0",
@@ -6603,7 +6604,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/php85"
             },
-            "time": "2025-12-01T02:41:45+00:00"
+            "time": "2025-12-01T04:20:29+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
