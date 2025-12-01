@@ -6428,12 +6428,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-framework.git",
-                "reference": "055e88d1a0308edabe853d85a9a483c7636644fc"
+                "reference": "cf94f1b8430a358dbf4a69dab6fa86e328b696b9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/055e88d1a0308edabe853d85a9a483c7636644fc",
-                "reference": "055e88d1a0308edabe853d85a9a483c7636644fc",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/cf94f1b8430a358dbf4a69dab6fa86e328b696b9",
+                "reference": "cf94f1b8430a358dbf4a69dab6fa86e328b696b9",
                 "shasum": ""
             },
             "require": {
@@ -6570,7 +6570,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-framework/issues",
                 "source": "https://github.com/silverstripe/silverstripe-framework/tree/6.1"
             },
-            "time": "2025-12-01T04:22:59+00:00"
+            "time": "2025-12-01T21:52:15+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -8595,12 +8595,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-versioned.git",
-                "reference": "617c14eb57f7a365acf395e9c5ffb9c2e60f2895"
+                "reference": "6090a9a49afa94b7ddb55c043076a53267fbf97d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-versioned/zipball/617c14eb57f7a365acf395e9c5ffb9c2e60f2895",
-                "reference": "617c14eb57f7a365acf395e9c5ffb9c2e60f2895",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-versioned/zipball/6090a9a49afa94b7ddb55c043076a53267fbf97d",
+                "reference": "6090a9a49afa94b7ddb55c043076a53267fbf97d",
                 "shasum": ""
             },
             "require": {
@@ -8651,7 +8651,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-versioned/tree/pulls/3.1/query-stage"
             },
-            "time": "2025-12-01T21:36:28+00:00"
+            "time": "2025-12-01T22:51:30+00:00"
         },
         {
             "name": "silverstripe/versioned-admin",
