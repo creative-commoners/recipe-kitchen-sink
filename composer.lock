@@ -6453,12 +6453,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-framework.git",
-                "reference": "e7bda022c82bcb1d6213bab23738802f15741b13"
+                "reference": "b88507c7f7f184a217640871a552d3e1ea0d676c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/e7bda022c82bcb1d6213bab23738802f15741b13",
-                "reference": "e7bda022c82bcb1d6213bab23738802f15741b13",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-framework/zipball/b88507c7f7f184a217640871a552d3e1ea0d676c",
+                "reference": "b88507c7f7f184a217640871a552d3e1ea0d676c",
                 "shasum": ""
             },
             "require": {
@@ -6604,7 +6604,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-framework/tree/pulls/6/php85"
             },
-            "time": "2025-12-01T04:20:29+00:00"
+            "time": "2025-12-01T04:58:30+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
