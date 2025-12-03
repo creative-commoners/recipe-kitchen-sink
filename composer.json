@@ -22,7 +22,7 @@
         "silverstripe/taxonomy": "4.x-dev",
         "silverstripe/textextraction": "5.x-dev",
         "silverstripe/userforms": "7.x-dev",
-        "dnadesign/silverstripe-elemental": "6.x-dev",
+        "dnadesign/silverstripe-elemental": "dev-pulls/6/move-block as 6.x-dev",
         "dnadesign/silverstripe-elemental-userforms": "5.x-dev",
         "symbiote/silverstripe-advancedworkflow": "7.x-dev",
         "symbiote/silverstripe-gridfieldextensions": "5.x-dev",
@@ -33,11 +33,13 @@
         "silverstripe/linkfield": "5.x-dev",
         "silverstripe/graphql": "6.x-dev",
         "silverstripe/campaign-admin": "3.x-dev",
-        "silverstripe/environmentcheck": "4.x-dev"
+        "silverstripe/environmentcheck": "4.x-dev",
+        "silverstripe/framework": "dev-pulls/6/dependent-field-stuff as 6.9999999.9999999.9999999-dev",
+        "silverstripe/admin": "dev-pulls/3/dependentcompositefield as 3.9999999.9999999.9999999-dev"
     },
     "require-dev": {
         "silverstripe/webauthn-authenticator": "6.x-dev",
-        "silverstripe/frameworktest": "^2",
+        "silverstripe/frameworktest": "dev-pulls/2/more as 3.0.0.0-dev",
         "silverstripe/graphql-devtools": "2.x-dev",
         "silverstripe/recipe-testing": "^4",
         "mikey179/vfsstream": "^1.6"
@@ -52,6 +54,9 @@
         ]
     },
     "config": {
+        "platform": {
+            "php": "8.3"
+        },
         "process-timeout": 600,
         "allow-plugins": {
             "composer/installers": true,
@@ -60,5 +65,23 @@
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "silverstripe/frameworktest": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-frameworktest.git"
+        },
+        "silverstripe/framework": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-framework.git"
+        },
+        "silverstripe/admin": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-admin.git"
+        },
+        "dnadesign/silverstripe-elemental": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-elemental.git"
+        }
+    }
 }
