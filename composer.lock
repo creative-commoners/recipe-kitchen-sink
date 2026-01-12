@@ -5730,12 +5730,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "1ad46c1ef8c0dcd192c6caef40f6299f2bdcab41"
+                "reference": "d968f4c60d441592b7048367a364ba01e3a2dc61"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/1ad46c1ef8c0dcd192c6caef40f6299f2bdcab41",
-                "reference": "1ad46c1ef8c0dcd192c6caef40f6299f2bdcab41",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/d968f4c60d441592b7048367a364ba01e3a2dc61",
+                "reference": "d968f4c60d441592b7048367a364ba01e3a2dc61",
                 "shasum": ""
             },
             "require": {
@@ -5795,7 +5795,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/kb-mouse-event"
             },
-            "time": "2026-01-12T03:21:00+00:00"
+            "time": "2026-01-12T08:07:27+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -5803,12 +5803,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-asset-admin.git",
-                "reference": "e9b88dbe14510b3d8d8ceb2827a21b113b2fa4c9"
+                "reference": "28f533d564a6af9cc51adb7eae168961908b22ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/e9b88dbe14510b3d8d8ceb2827a21b113b2fa4c9",
-                "reference": "e9b88dbe14510b3d8d8ceb2827a21b113b2fa4c9",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-asset-admin/zipball/28f533d564a6af9cc51adb7eae168961908b22ff",
+                "reference": "28f533d564a6af9cc51adb7eae168961908b22ff",
                 "shasum": ""
             },
             "require": {
@@ -5853,7 +5853,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-asset-admin/tree/pulls/3/kb-mouse-event"
             },
-            "time": "2026-01-12T03:21:08+00:00"
+            "time": "2026-01-12T07:30:07+00:00"
         },
         {
             "name": "silverstripe/assets",
@@ -6074,12 +6074,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-cms.git",
-                "reference": "6a36cf9c1b2a5af0fdfcd4c4cb90b15abc22ee0b"
+                "reference": "3b97d7c7b65234f5659dcecc6d6cb5a6beacf26c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/6a36cf9c1b2a5af0fdfcd4c4cb90b15abc22ee0b",
-                "reference": "6a36cf9c1b2a5af0fdfcd4c4cb90b15abc22ee0b",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/3b97d7c7b65234f5659dcecc6d6cb5a6beacf26c",
+                "reference": "3b97d7c7b65234f5659dcecc6d6cb5a6beacf26c",
                 "shasum": ""
             },
             "require": {
@@ -6144,7 +6144,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-cms/tree/pulls/6/kb-mouse-event"
             },
-            "time": "2026-01-12T03:21:16+00:00"
+            "time": "2026-01-12T07:22:30+00:00"
         },
         {
             "name": "silverstripe/config",
@@ -7140,12 +7140,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-mfa.git",
-                "reference": "058e8592343d535d3da86465ba3f5cbeb14c069e"
+                "reference": "daea0a5c093a6b40fd4764c4d6c1dfe844d876cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-mfa/zipball/058e8592343d535d3da86465ba3f5cbeb14c069e",
-                "reference": "058e8592343d535d3da86465ba3f5cbeb14c069e",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-mfa/zipball/daea0a5c093a6b40fd4764c4d6c1dfe844d876cd",
+                "reference": "daea0a5c093a6b40fd4764c4d6c1dfe844d876cd",
                 "shasum": ""
             },
             "require": {
@@ -7213,7 +7213,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-mfa/issues",
                 "source": "https://github.com/creative-commoners/silverstripe-mfa/tree/pulls/6/kb-mouse-event"
             },
-            "time": "2026-01-12T03:21:24+00:00"
+            "time": "2026-01-12T07:21:03+00:00"
         },
         {
             "name": "silverstripe/mimevalidator",
@@ -7682,12 +7682,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-segment-field.git",
-                "reference": "1a7ce2fc65643ec5dcc854d1e762e320c1714d33"
+                "reference": "409a24ee12462ba2415a5d35c464538b6707dc24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-segment-field/zipball/1a7ce2fc65643ec5dcc854d1e762e320c1714d33",
-                "reference": "1a7ce2fc65643ec5dcc854d1e762e320c1714d33",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-segment-field/zipball/409a24ee12462ba2415a5d35c464538b6707dc24",
+                "reference": "409a24ee12462ba2415a5d35c464538b6707dc24",
                 "shasum": ""
             },
             "require": {
@@ -7731,7 +7731,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-segment-field/tree/pulls/4/kb-mouse-event"
             },
-            "time": "2026-01-12T03:21:31+00:00"
+            "time": "2026-01-12T07:19:16+00:00"
         },
         {
             "name": "silverstripe/session-manager",
@@ -8456,12 +8456,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-totp-authenticator.git",
-                "reference": "b720d4a05ccfe1f27a151c95b8821bb7a960c2f6"
+                "reference": "85a36fadda520062502f5bb24192f5e15f895592"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-totp-authenticator/zipball/b720d4a05ccfe1f27a151c95b8821bb7a960c2f6",
-                "reference": "b720d4a05ccfe1f27a151c95b8821bb7a960c2f6",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-totp-authenticator/zipball/85a36fadda520062502f5bb24192f5e15f895592",
+                "reference": "85a36fadda520062502f5bb24192f5e15f895592",
                 "shasum": ""
             },
             "require": {
@@ -8510,7 +8510,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-totp-authenticator/tree/pulls/6/kb-mouse-event"
             },
-            "time": "2026-01-12T03:21:39+00:00"
+            "time": "2026-01-12T07:18:19+00:00"
         },
         {
             "name": "silverstripe/userforms",
@@ -8720,12 +8720,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-versioned-admin.git",
-                "reference": "973f94c16a70bc12d28efd5ba0f8d4407a0c0fa1"
+                "reference": "b1071cab34a623d27212f4969fea57b30cd1b8d8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-versioned-admin/zipball/973f94c16a70bc12d28efd5ba0f8d4407a0c0fa1",
-                "reference": "973f94c16a70bc12d28efd5ba0f8d4407a0c0fa1",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-versioned-admin/zipball/b1071cab34a623d27212f4969fea57b30cd1b8d8",
+                "reference": "b1071cab34a623d27212f4969fea57b30cd1b8d8",
                 "shasum": ""
             },
             "require": {
@@ -8786,7 +8786,7 @@
                 "source": "https://github.com/creative-commoners/silverstripe-versioned-admin/tree/pulls/3/kb-mouse-event",
                 "issues": "https://github.com/creative-commoners/silverstripe-versioned-admin/issues"
             },
-            "time": "2026-01-12T03:21:46+00:00"
+            "time": "2026-01-12T07:16:25+00:00"
         },
         {
             "name": "silverstripe/webauthn-authenticator",
@@ -9358,12 +9358,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-gridfieldextensions.git",
-                "reference": "bdf6cc95b67c68f09c58828447561e44252939c0"
+                "reference": "8af68beae70d28afe3cad102fb3008a3c8dc1328"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-gridfieldextensions/zipball/bdf6cc95b67c68f09c58828447561e44252939c0",
-                "reference": "bdf6cc95b67c68f09c58828447561e44252939c0",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-gridfieldextensions/zipball/8af68beae70d28afe3cad102fb3008a3c8dc1328",
+                "reference": "8af68beae70d28afe3cad102fb3008a3c8dc1328",
                 "shasum": ""
             },
             "require": {
@@ -9427,7 +9427,7 @@
                 "issues": "http://github.com/symbiote/silverstripe-gridfieldextensions/issues",
                 "source": "https://github.com/creative-commoners/silverstripe-gridfieldextensions/tree/pulls/5/kb-mouse-event"
             },
-            "time": "2026-01-12T03:21:53+00:00"
+            "time": "2026-01-12T07:11:43+00:00"
         },
         {
             "name": "symbiote/silverstripe-queuedjobs",
