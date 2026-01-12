@@ -5730,12 +5730,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "d968f4c60d441592b7048367a364ba01e3a2dc61"
+                "reference": "4edde4d9d27af5fc2d048219a23673c0e8cf47f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/d968f4c60d441592b7048367a364ba01e3a2dc61",
-                "reference": "d968f4c60d441592b7048367a364ba01e3a2dc61",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/4edde4d9d27af5fc2d048219a23673c0e8cf47f6",
+                "reference": "4edde4d9d27af5fc2d048219a23673c0e8cf47f6",
                 "shasum": ""
             },
             "require": {
@@ -5795,7 +5795,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/kb-mouse-event"
             },
-            "time": "2026-01-12T08:07:27+00:00"
+            "time": "2026-01-12T08:18:02+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
