@@ -5730,12 +5730,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "8445e39cab1782e52b3cc98a3eb375ba992c6385"
+                "reference": "f74f1b8d55d8c5af0c332b575fbfa53d99236e03"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/8445e39cab1782e52b3cc98a3eb375ba992c6385",
-                "reference": "8445e39cab1782e52b3cc98a3eb375ba992c6385",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/f74f1b8d55d8c5af0c332b575fbfa53d99236e03",
+                "reference": "f74f1b8d55d8c5af0c332b575fbfa53d99236e03",
                 "shasum": ""
             },
             "require": {
@@ -5795,7 +5795,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/refactor-yet-more"
             },
-            "time": "2026-01-17T02:13:28+00:00"
+            "time": "2026-01-20T03:21:01+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -8719,12 +8719,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-versioned-admin.git",
-                "reference": "f718ebdc003aac132416258fbf3a15deac71a9c1"
+                "reference": "f60106b42ba094caac23b947ac80bb227fccc67e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-versioned-admin/zipball/f718ebdc003aac132416258fbf3a15deac71a9c1",
-                "reference": "f718ebdc003aac132416258fbf3a15deac71a9c1",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-versioned-admin/zipball/f60106b42ba094caac23b947ac80bb227fccc67e",
+                "reference": "f60106b42ba094caac23b947ac80bb227fccc67e",
                 "shasum": ""
             },
             "require": {
@@ -8779,7 +8779,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-versioned-admin/issues",
                 "source": "https://github.com/silverstripe/silverstripe-versioned-admin/tree/3"
             },
-            "time": "2026-01-14T03:33:09+00:00"
+            "time": "2026-01-20T02:31:21+00:00"
         },
         {
             "name": "silverstripe/webauthn-authenticator",
@@ -9430,12 +9430,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-queuedjobs.git",
-                "reference": "890f367b41a1b92589ba8a49928e9ae3ce9cb725"
+                "reference": "62c28b3d070ee707c4a03a859df5a0039e793b0e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-queuedjobs/zipball/890f367b41a1b92589ba8a49928e9ae3ce9cb725",
-                "reference": "890f367b41a1b92589ba8a49928e9ae3ce9cb725",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-queuedjobs/zipball/62c28b3d070ee707c4a03a859df5a0039e793b0e",
+                "reference": "62c28b3d070ee707c4a03a859df5a0039e793b0e",
                 "shasum": ""
             },
             "require": {
@@ -9490,7 +9490,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-queuedjobs/issues",
                 "source": "https://github.com/silverstripe/silverstripe-queuedjobs/tree/6"
             },
-            "time": "2025-12-03T20:18:58+00:00"
+            "time": "2026-01-19T17:36:14+00:00"
         },
         {
             "name": "symfony/cache",
