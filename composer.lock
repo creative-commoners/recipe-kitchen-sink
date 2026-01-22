@@ -1093,12 +1093,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-elemental.git",
-                "reference": "eb9f34b5b1415db70be1c658fd0fbd7d88586884"
+                "reference": "304651f19f2b30c5e2d9dae92559e2abae0b20ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-elemental/zipball/eb9f34b5b1415db70be1c658fd0fbd7d88586884",
-                "reference": "eb9f34b5b1415db70be1c658fd0fbd7d88586884",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-elemental/zipball/304651f19f2b30c5e2d9dae92559e2abae0b20ef",
+                "reference": "304651f19f2b30c5e2d9dae92559e2abae0b20ef",
                 "shasum": ""
             },
             "require": {
@@ -1160,7 +1160,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-elemental/issues",
                 "source": "https://github.com/silverstripe/silverstripe-elemental/tree/6"
             },
-            "time": "2026-01-14T06:09:48+00:00"
+            "time": "2026-01-22T00:22:30+00:00"
         },
         {
             "name": "dnadesign/silverstripe-elemental-userforms",
@@ -5730,12 +5730,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "01cc1486e563befc07a60d3ff5edebe2c70a2760"
+                "reference": "4dd15a695bc44a1cdce5c4a40d75de164c72a43c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/01cc1486e563befc07a60d3ff5edebe2c70a2760",
-                "reference": "01cc1486e563befc07a60d3ff5edebe2c70a2760",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/4dd15a695bc44a1cdce5c4a40d75de164c72a43c",
+                "reference": "4dd15a695bc44a1cdce5c4a40d75de164c72a43c",
                 "shasum": ""
             },
             "require": {
@@ -5795,7 +5795,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/behat-tab-island"
             },
-            "time": "2026-01-22T00:01:41+00:00"
+            "time": "2026-01-22T04:00:40+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -5924,16 +5924,16 @@
         },
         {
             "name": "silverstripe/behat-extension",
-            "version": "6.1.0",
+            "version": "6.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-behat-extension.git",
-                "reference": "d584aba6533367aeab79079608941c4fcf24eee9"
+                "reference": "7df54d41901b27e7c2fffe83057d30c636608459"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-behat-extension/zipball/d584aba6533367aeab79079608941c4fcf24eee9",
-                "reference": "d584aba6533367aeab79079608941c4fcf24eee9",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-behat-extension/zipball/7df54d41901b27e7c2fffe83057d30c636608459",
+                "reference": "7df54d41901b27e7c2fffe83057d30c636608459",
                 "shasum": ""
             },
             "require": {
@@ -5985,9 +5985,9 @@
             ],
             "support": {
                 "issues": "https://github.com/silverstripe/silverstripe-behat-extension/issues",
-                "source": "https://github.com/silverstripe/silverstripe-behat-extension/tree/6.1.0"
+                "source": "https://github.com/silverstripe/silverstripe-behat-extension/tree/6.1.1"
             },
-            "time": "2025-10-08T08:45:53+00:00"
+            "time": "2026-01-22T02:28:06+00:00"
         },
         {
             "name": "silverstripe/campaign-admin",
