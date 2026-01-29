@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.369.21",
+            "version": "3.369.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "7076af00534135cbbf6cc19eb2521124a3549f0d"
+                "reference": "fe83cbc3adb5ed384179ac6d63531aadde0198e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/7076af00534135cbbf6cc19eb2521124a3549f0d",
-                "reference": "7076af00534135cbbf6cc19eb2521124a3549f0d",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/fe83cbc3adb5ed384179ac6d63531aadde0198e3",
+                "reference": "fe83cbc3adb5ed384179ac6d63531aadde0198e3",
                 "shasum": ""
             },
             "require": {
@@ -193,9 +193,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.21"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.22"
             },
-            "time": "2026-01-27T19:14:48+00:00"
+            "time": "2026-01-28T19:19:00+00:00"
         },
         {
             "name": "behat/behat",
@@ -5730,12 +5730,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "8b477fa9096ca6d6f3573c725febeada49f0a4ee"
+                "reference": "f03b2fef16b47592406be1a78a0f88179fdd412a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/8b477fa9096ca6d6f3573c725febeada49f0a4ee",
-                "reference": "8b477fa9096ca6d6f3573c725febeada49f0a4ee",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/f03b2fef16b47592406be1a78a0f88179fdd412a",
+                "reference": "f03b2fef16b47592406be1a78a0f88179fdd412a",
                 "shasum": ""
             },
             "require": {
@@ -5795,7 +5795,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/behat-tab-island"
             },
-            "time": "2026-01-28T10:50:18+00:00"
+            "time": "2026-01-29T10:51:02+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -5803,12 +5803,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-asset-admin.git",
-                "reference": "5a870a9a13d38e6be053547378870e08e8356a20"
+                "reference": "a15abd0021067c7e4854325770378c91b052c022"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-asset-admin/zipball/5a870a9a13d38e6be053547378870e08e8356a20",
-                "reference": "5a870a9a13d38e6be053547378870e08e8356a20",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-asset-admin/zipball/a15abd0021067c7e4854325770378c91b052c022",
+                "reference": "a15abd0021067c7e4854325770378c91b052c022",
                 "shasum": ""
             },
             "require": {
@@ -5848,7 +5848,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-asset-admin/issues",
                 "source": "https://github.com/silverstripe/silverstripe-asset-admin/tree/3"
             },
-            "time": "2026-01-13T21:22:13+00:00"
+            "time": "2026-01-28T19:55:09+00:00"
         },
         {
             "name": "silverstripe/assets",
@@ -5856,12 +5856,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-assets.git",
-                "reference": "b9b92a5245ef3768c93afcb731086db499de6be6"
+                "reference": "d912743c21a26f76513882de69559d019c964f4b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-assets/zipball/b9b92a5245ef3768c93afcb731086db499de6be6",
-                "reference": "b9b92a5245ef3768c93afcb731086db499de6be6",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-assets/zipball/d912743c21a26f76513882de69559d019c964f4b",
+                "reference": "d912743c21a26f76513882de69559d019c964f4b",
                 "shasum": ""
             },
             "require": {
@@ -5920,7 +5920,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-assets/issues",
                 "source": "https://github.com/silverstripe/silverstripe-assets/tree/3"
             },
-            "time": "2025-12-02T21:43:02+00:00"
+            "time": "2026-01-28T20:27:49+00:00"
         },
         {
             "name": "silverstripe/behat-extension",
@@ -6069,12 +6069,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-cms.git",
-                "reference": "41a4c9ca0ee70c278b125bc0526a0d3ea825b678"
+                "reference": "c89fd864c1f41ee4ce14020388e1510fa4015816"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/41a4c9ca0ee70c278b125bc0526a0d3ea825b678",
-                "reference": "41a4c9ca0ee70c278b125bc0526a0d3ea825b678",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/c89fd864c1f41ee4ce14020388e1510fa4015816",
+                "reference": "c89fd864c1f41ee4ce14020388e1510fa4015816",
                 "shasum": ""
             },
             "require": {
@@ -6139,7 +6139,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-cms/tree/pulls/6/remove-tabbing"
             },
-            "time": "2026-01-28T02:56:36+00:00"
+            "time": "2026-01-29T10:51:09+00:00"
         },
         {
             "name": "silverstripe/config",
@@ -6194,12 +6194,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/developer-docs.git",
-                "reference": "de57b1e19fb6555dd5ed0f73db209174145fa26a"
+                "reference": "ec16746d08d315b3bcc5331b13b740c4ee884f5e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/developer-docs/zipball/de57b1e19fb6555dd5ed0f73db209174145fa26a",
-                "reference": "de57b1e19fb6555dd5ed0f73db209174145fa26a",
+                "url": "https://api.github.com/repos/silverstripe/developer-docs/zipball/ec16746d08d315b3bcc5331b13b740c4ee884f5e",
+                "reference": "ec16746d08d315b3bcc5331b13b740c4ee884f5e",
                 "shasum": ""
             },
             "require-dev": {
@@ -6234,7 +6234,7 @@
                 "issues": "https://github.com/silverstripe/developer-docs/issues",
                 "source": "https://github.com/silverstripe/developer-docs/tree/6"
             },
-            "time": "2026-01-27T02:59:19+00:00"
+            "time": "2026-01-28T19:55:01+00:00"
         },
         {
             "name": "silverstripe/dynamodb",
@@ -6470,12 +6470,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-framework.git",
-                "reference": "db760054ff4c3e32b7a74e2b3ee5292c00086c50"
+                "reference": "3fde370fe64a097bc0ce62a0eb039426e46ab423"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/db760054ff4c3e32b7a74e2b3ee5292c00086c50",
-                "reference": "db760054ff4c3e32b7a74e2b3ee5292c00086c50",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/3fde370fe64a097bc0ce62a0eb039426e46ab423",
+                "reference": "3fde370fe64a097bc0ce62a0eb039426e46ab423",
                 "shasum": ""
             },
             "require": {
@@ -6613,7 +6613,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-framework/issues",
                 "source": "https://github.com/silverstripe/silverstripe-framework/tree/6"
             },
-            "time": "2026-01-22T21:48:14+00:00"
+            "time": "2026-01-28T20:28:55+00:00"
         },
         {
             "name": "silverstripe/frameworktest",
@@ -6621,12 +6621,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-frameworktest.git",
-                "reference": "3739a0fee6ae47b64ccb6b18773c0780cb442a41"
+                "reference": "8dbe6ce4fdf705541ed5551dca385b057e78bb08"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-frameworktest/zipball/3739a0fee6ae47b64ccb6b18773c0780cb442a41",
-                "reference": "3739a0fee6ae47b64ccb6b18773c0780cb442a41",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-frameworktest/zipball/8dbe6ce4fdf705541ed5551dca385b057e78bb08",
+                "reference": "8dbe6ce4fdf705541ed5551dca385b057e78bb08",
                 "shasum": ""
             },
             "require": {
@@ -6674,7 +6674,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-frameworktest/issues",
                 "source": "https://github.com/silverstripe/silverstripe-frameworktest/tree/2"
             },
-            "time": "2026-01-22T21:48:01+00:00"
+            "time": "2026-01-28T20:51:06+00:00"
         },
         {
             "name": "silverstripe/graphql",
