@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.370.1",
+            "version": "3.371.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "273a9bbed9e73016be390b8428f7925f15ea053e"
+                "reference": "80bafcdc7f22362e204f49c5adfea66e85939cc8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/273a9bbed9e73016be390b8428f7925f15ea053e",
-                "reference": "273a9bbed9e73016be390b8428f7925f15ea053e",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/80bafcdc7f22362e204f49c5adfea66e85939cc8",
+                "reference": "80bafcdc7f22362e204f49c5adfea66e85939cc8",
                 "shasum": ""
             },
             "require": {
@@ -193,9 +193,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.370.1"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.371.0"
             },
-            "time": "2026-02-23T19:05:30+00:00"
+            "time": "2026-02-24T19:08:17+00:00"
         },
         {
             "name": "behat/behat",
@@ -2181,16 +2181,16 @@
         },
         {
             "name": "laravel/serializable-closure",
-            "version": "v2.0.9",
+            "version": "v2.0.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/serializable-closure.git",
-                "reference": "8f631589ab07b7b52fead814965f5a800459cb3e"
+                "reference": "870fc81d2f879903dfc5b60bf8a0f94a1609e669"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/8f631589ab07b7b52fead814965f5a800459cb3e",
-                "reference": "8f631589ab07b7b52fead814965f5a800459cb3e",
+                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/870fc81d2f879903dfc5b60bf8a0f94a1609e669",
+                "reference": "870fc81d2f879903dfc5b60bf8a0f94a1609e669",
                 "shasum": ""
             },
             "require": {
@@ -2238,7 +2238,7 @@
                 "issues": "https://github.com/laravel/serializable-closure/issues",
                 "source": "https://github.com/laravel/serializable-closure"
             },
-            "time": "2026-02-03T06:55:34+00:00"
+            "time": "2026-02-20T19:59:49+00:00"
         },
         {
             "name": "lcobucci/clock",
@@ -5743,12 +5743,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "ea8d4cbf6374631180ca58b2deeaff539312bc12"
+                "reference": "6289daac3d1dd931d646233a23d52ee54e98a3d2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/ea8d4cbf6374631180ca58b2deeaff539312bc12",
-                "reference": "ea8d4cbf6374631180ca58b2deeaff539312bc12",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/6289daac3d1dd931d646233a23d52ee54e98a3d2",
+                "reference": "6289daac3d1dd931d646233a23d52ee54e98a3d2",
                 "shasum": ""
             },
             "require": {
@@ -5808,7 +5808,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/convert-more"
             },
-            "time": "2026-02-24T02:08:15+00:00"
+            "time": "2026-02-25T01:41:38+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -6852,12 +6852,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-htmleditor-tinymce.git",
-                "reference": "ac798268d1ad2b127949942fa7842fcc708741e0"
+                "reference": "0cf01a1483e90d401d6b33de189bffb6bb9d5ca2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-htmleditor-tinymce/zipball/ac798268d1ad2b127949942fa7842fcc708741e0",
-                "reference": "ac798268d1ad2b127949942fa7842fcc708741e0",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-htmleditor-tinymce/zipball/0cf01a1483e90d401d6b33de189bffb6bb9d5ca2",
+                "reference": "0cf01a1483e90d401d6b33de189bffb6bb9d5ca2",
                 "shasum": ""
             },
             "require": {
@@ -6905,7 +6905,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-htmleditor-tinymce/tree/pulls/1/func-comp"
             },
-            "time": "2026-02-24T01:09:35+00:00"
+            "time": "2026-02-25T00:52:27+00:00"
         },
         {
             "name": "silverstripe/installer",
