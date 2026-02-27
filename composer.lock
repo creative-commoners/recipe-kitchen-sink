@@ -5743,12 +5743,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "c3a266107db2c5410ca85ce8547c43f43554c428"
+                "reference": "8feb8606c1de7099d0398e3c38f235d21e7d4206"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/c3a266107db2c5410ca85ce8547c43f43554c428",
-                "reference": "c3a266107db2c5410ca85ce8547c43f43554c428",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/8feb8606c1de7099d0398e3c38f235d21e7d4206",
+                "reference": "8feb8606c1de7099d0398e3c38f235d21e7d4206",
                 "shasum": ""
             },
             "require": {
@@ -5808,7 +5808,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/convert-more"
             },
-            "time": "2026-02-26T21:03:45+00:00"
+            "time": "2026-02-27T03:00:38+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
@@ -6852,12 +6852,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-htmleditor-tinymce.git",
-                "reference": "0192091b5446e8c6651029c54a87d0b40b3da3ef"
+                "reference": "a1bd46a2de8d4cd5d9954910bbadb6fc81a317f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-htmleditor-tinymce/zipball/0192091b5446e8c6651029c54a87d0b40b3da3ef",
-                "reference": "0192091b5446e8c6651029c54a87d0b40b3da3ef",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-htmleditor-tinymce/zipball/a1bd46a2de8d4cd5d9954910bbadb6fc81a317f4",
+                "reference": "a1bd46a2de8d4cd5d9954910bbadb6fc81a317f4",
                 "shasum": ""
             },
             "require": {
@@ -6905,7 +6905,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-htmleditor-tinymce/tree/pulls/1/func-comp"
             },
-            "time": "2026-02-26T11:09:25+00:00"
+            "time": "2026-02-27T03:00:46+00:00"
         },
         {
             "name": "silverstripe/installer",
