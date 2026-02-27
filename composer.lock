@@ -5743,12 +5743,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-admin.git",
-                "reference": "c41532f53c599aadaf05a390161dd7ff70bcacba"
+                "reference": "c3721e68c694ad55d986554653d567a8b0878c36"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/c41532f53c599aadaf05a390161dd7ff70bcacba",
-                "reference": "c41532f53c599aadaf05a390161dd7ff70bcacba",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-admin/zipball/c3721e68c694ad55d986554653d567a8b0878c36",
+                "reference": "c3721e68c694ad55d986554653d567a8b0878c36",
                 "shasum": ""
             },
             "require": {
@@ -5808,7 +5808,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-admin/tree/pulls/3/convert-more"
             },
-            "time": "2026-02-27T04:30:03+00:00"
+            "time": "2026-02-27T04:39:19+00:00"
         },
         {
             "name": "silverstripe/asset-admin",
