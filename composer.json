@@ -8,7 +8,7 @@
         "php": "^8.3",
         "silverstripe/recipe-plugin": "2.x-dev",
         "silverstripe/installer": "6.x-dev",
-        "silverstripe/developer-docs": "6.x-dev",
+        "silverstripe/developer-docs": "dev-pulls/6/site-tree-changelog as 6.x-dev",
         "silverstripe/totp-authenticator": "6.x-dev",
         "silverstripe/mfa": "6.x-dev",
         "silverstripe/gridfieldqueuedexport": "4.x-dev",
@@ -33,14 +33,15 @@
         "silverstripe/linkfield": "5.x-dev",
         "silverstripe/graphql": "6.x-dev",
         "silverstripe/campaign-admin": "3.x-dev",
-        "silverstripe/environmentcheck": "4.x-dev"
-    },
-    "require-dev": {
+        "silverstripe/environmentcheck": "4.x-dev",
         "silverstripe/webauthn-authenticator": "6.x-dev",
-        "silverstripe/frameworktest": "^2",
+        "silverstripe/frameworktest": "2.x-dev",
         "silverstripe/graphql-devtools": "2.x-dev",
         "silverstripe/recipe-testing": "^4",
-        "mikey179/vfsstream": "^1.6"
+        "mikey179/vfsstream": "^1.6.10",
+        "silverstripe/admin": "dev-pulls/3/tree-aria as 3.x-dev",
+        "silverstripe/cms": "dev-pulls/6/tree-aria as 6.x-dev",
+        "silverstripe/framework": "dev-pulls/6/tree-aria as 6.x-dev"
     },
     "extra": {
         "project-files": [
@@ -56,9 +57,38 @@
         "allow-plugins": {
             "composer/installers": true,
             "silverstripe/recipe-plugin": true,
-            "silverstripe/vendor-plugin": true
+            "silverstripe/vendor-plugin": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        },
+        "platform": {
+            "php": "8.3"
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "x0": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/developer-docs"
+        },
+        "x1": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-admin"
+        },
+        "x2": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-cms"
+        },
+        "x3": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-framework"
+        }
+    },
+    "conflict": {
+        "symfony/cache-contracts": "3.2.1",
+        "symfony/deprecation-contracts": "3.2.1",
+        "symfony/event-dispatcher-contracts": "3.2.1",
+        "symfony/service-contracts": "3.2.1",
+        "symfony/translation-contracts": "3.2.1"
+    }
 }
