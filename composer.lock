@@ -6083,12 +6083,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-cms.git",
-                "reference": "ebfc0e60681324f7f2818f5a92a35c99d1f46cb8"
+                "reference": "5ea51f73f0f35a67ca79d334c632450a397a5b09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/ebfc0e60681324f7f2818f5a92a35c99d1f46cb8",
-                "reference": "ebfc0e60681324f7f2818f5a92a35c99d1f46cb8",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/5ea51f73f0f35a67ca79d334c632450a397a5b09",
+                "reference": "5ea51f73f0f35a67ca79d334c632450a397a5b09",
                 "shasum": ""
             },
             "require": {
@@ -6153,7 +6153,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-cms/tree/pulls/6/tree-aria"
             },
-            "time": "2026-03-27T01:24:24+00:00"
+            "time": "2026-03-27T02:29:46+00:00"
         },
         {
             "name": "silverstripe/config",
