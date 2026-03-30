@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.374.1",
+            "version": "3.374.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "fa9801583e679aecc95660838708acfd98aa28e7"
+                "reference": "67b6b6210af47319c74c5666388d71bc1bc58276"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/fa9801583e679aecc95660838708acfd98aa28e7",
-                "reference": "fa9801583e679aecc95660838708acfd98aa28e7",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/67b6b6210af47319c74c5666388d71bc1bc58276",
+                "reference": "67b6b6210af47319c74c5666388d71bc1bc58276",
                 "shasum": ""
             },
             "require": {
@@ -193,9 +193,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.374.1"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.374.2"
             },
-            "time": "2026-03-26T18:06:13+00:00"
+            "time": "2026-03-27T18:05:55+00:00"
         },
         {
             "name": "behat/behat",
@@ -6083,18 +6083,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creative-commoners/silverstripe-cms.git",
-                "reference": "5ea51f73f0f35a67ca79d334c632450a397a5b09"
+                "reference": "d57cea530340c91d520013e2d0a09d3d8c0283a4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/5ea51f73f0f35a67ca79d334c632450a397a5b09",
-                "reference": "5ea51f73f0f35a67ca79d334c632450a397a5b09",
+                "url": "https://api.github.com/repos/creative-commoners/silverstripe-cms/zipball/d57cea530340c91d520013e2d0a09d3d8c0283a4",
+                "reference": "d57cea530340c91d520013e2d0a09d3d8c0283a4",
                 "shasum": ""
             },
             "require": {
                 "php": "^8.3",
                 "silverstripe/admin": "^3.2",
-                "silverstripe/framework": "^6.2",
+                "silverstripe/framework": "^6.3",
                 "silverstripe/reports": "^6",
                 "silverstripe/siteconfig": "^6",
                 "silverstripe/versioned": "^3",
@@ -6153,7 +6153,7 @@
             "support": {
                 "source": "https://github.com/creative-commoners/silverstripe-cms/tree/pulls/6/tree-aria"
             },
-            "time": "2026-03-27T02:29:46+00:00"
+            "time": "2026-03-30T01:06:56+00:00"
         },
         {
             "name": "silverstripe/config",
@@ -12450,16 +12450,16 @@
         },
         {
             "name": "webonyx/graphql-php",
-            "version": "v15.31.2",
+            "version": "v15.31.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webonyx/graphql-php.git",
-                "reference": "b2c3b02f9151afeba7ab79580e89992ac0ad4fec"
+                "reference": "c20acbef1cb4af427ef6797512bfb2e651a85db9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/b2c3b02f9151afeba7ab79580e89992ac0ad4fec",
-                "reference": "b2c3b02f9151afeba7ab79580e89992ac0ad4fec",
+                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/c20acbef1cb4af427ef6797512bfb2e651a85db9",
+                "reference": "c20acbef1cb4af427ef6797512bfb2e651a85db9",
                 "shasum": ""
             },
             "require": {
@@ -12477,7 +12477,7 @@
                 "nyholm/psr7": "^1.5",
                 "phpbench/phpbench": "^1.2",
                 "phpstan/extension-installer": "^1.1",
-                "phpstan/phpstan": "2.1.42",
+                "phpstan/phpstan": "2.1.43",
                 "phpstan/phpstan-phpunit": "2.0.16",
                 "phpstan/phpstan-strict-rules": "2.0.10",
                 "phpunit/phpunit": "^9.5 || ^10.5.21 || ^11",
@@ -12513,7 +12513,7 @@
             ],
             "support": {
                 "issues": "https://github.com/webonyx/graphql-php/issues",
-                "source": "https://github.com/webonyx/graphql-php/tree/v15.31.2"
+                "source": "https://github.com/webonyx/graphql-php/tree/v15.31.3"
             },
             "funding": [
                 {
@@ -12525,7 +12525,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-03-23T07:32:52+00:00"
+            "time": "2026-03-29T18:22:41+00:00"
         }
     ],
     "packages-dev": [],
