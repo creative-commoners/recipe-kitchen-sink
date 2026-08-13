@@ -8,11 +8,11 @@
         "php": "^8.3",
         "silverstripe/recipe-plugin": "2.x-dev",
         "silverstripe/installer": "6.x-dev",
-        "silverstripe/developer-docs": "6.x-dev",
+        "silverstripe/developer-docs": "dev-pulls/6/use-env-cli as 6.x-dev",
         "silverstripe/totp-authenticator": "6.x-dev",
         "silverstripe/mfa": "6.x-dev",
         "silverstripe/gridfieldqueuedexport": "4.x-dev",
-        "silverstripe/realme": "6.x-dev",
+        "silverstripe/realme": "dev-pulls/6/use-env-cli as 6.x-dev",
         "silverstripe/segment-field": "4.x-dev",
         "silverstripe/sharedraftcontent": "4.x-dev",
         "silverstripe/spamprotection": "5.x-dev",
@@ -21,26 +21,27 @@
         "silverstripe/tagfield": "4.x-dev",
         "silverstripe/taxonomy": "4.x-dev",
         "silverstripe/textextraction": "5.x-dev",
-        "silverstripe/userforms": "7.x-dev",
+        "silverstripe/userforms": "dev-pulls/7/use-env-cli as 7.x-dev",
         "dnadesign/silverstripe-elemental": "6.x-dev",
         "dnadesign/silverstripe-elemental-userforms": "5.x-dev",
         "symbiote/silverstripe-advancedworkflow": "7.x-dev",
         "symbiote/silverstripe-gridfieldextensions": "5.x-dev",
-        "symbiote/silverstripe-queuedjobs": "6.x-dev",
+        "symbiote/silverstripe-queuedjobs": "dev-pulls/6/use-env-cli as 6.x-dev",
         "colymba/gridfield-bulk-editing-tools": "5.x-dev",
         "tractorcow/silverstripe-fluent": "8.x-dev",
         "silverstripe/dynamodb": "6.x-dev",
-        "silverstripe/linkfield": "5.x-dev",
-        "silverstripe/graphql": "6.x-dev",
+        "silverstripe/linkfield": "dev-pulls/5/use-env-cli as 5.x-dev",
+        "silverstripe/graphql": "dev-pulls/6/use-env-cli as 6.x-dev",
         "silverstripe/campaign-admin": "3.x-dev",
-        "silverstripe/environmentcheck": "4.x-dev"
-    },
-    "require-dev": {
+        "silverstripe/environmentcheck": "dev-pulls/4/use-env-cli as 4.x-dev",
         "silverstripe/webauthn-authenticator": "6.x-dev",
-        "silverstripe/frameworktest": "^2",
+        "silverstripe/frameworktest": "dev-pulls/2/use-env-cli as 2.x-dev",
         "silverstripe/graphql-devtools": "2.x-dev",
         "silverstripe/recipe-testing": "^4",
-        "mikey179/vfsstream": "^1.6"
+        "mikey179/vfsstream": "^1.6.10",
+        "silverstripe/framework": "dev-pulls/6/use-env-cli as 6.x-dev",
+        "silverstripe/testsession": "dev-pulls/4/use-env-cli as 4.x-dev",
+        "silverstripe/versioned": "dev-pulls/3/use-env-cli as 3.x-dev"
     },
     "extra": {
         "project-files": [
@@ -56,9 +57,66 @@
         "allow-plugins": {
             "composer/installers": true,
             "silverstripe/recipe-plugin": true,
-            "silverstripe/vendor-plugin": true
+            "silverstripe/vendor-plugin": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        },
+        "platform": {
+            "php": "8.3"
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "x0": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/developer-docs"
+        },
+        "x1": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-environmentcheck"
+        },
+        "x2": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-framework"
+        },
+        "x3": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-frameworktest"
+        },
+        "x4": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-graphql"
+        },
+        "x5": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-linkfield"
+        },
+        "x6": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-queuedjobs"
+        },
+        "x7": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-realme"
+        },
+        "x8": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-testsession"
+        },
+        "x9": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-userforms"
+        },
+        "x10": {
+            "type": "vcs",
+            "url": "git@github.com:creative-commoners/silverstripe-versioned"
+        }
+    },
+    "conflict": {
+        "symfony/cache-contracts": "3.2.1",
+        "symfony/deprecation-contracts": "3.2.1",
+        "symfony/event-dispatcher-contracts": "3.2.1",
+        "symfony/service-contracts": "3.2.1",
+        "symfony/translation-contracts": "3.2.1"
+    }
 }
