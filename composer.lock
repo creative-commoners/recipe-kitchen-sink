@@ -102,16 +102,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.399.2",
+            "version": "3.400.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "a69c0b97b8464b059c8d2e147eab6daed5d5cd25"
+                "reference": "dc874b220df5ec8861fe826b436c19f919d27328"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/a69c0b97b8464b059c8d2e147eab6daed5d5cd25",
-                "reference": "a69c0b97b8464b059c8d2e147eab6daed5d5cd25",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/dc874b220df5ec8861fe826b436c19f919d27328",
+                "reference": "dc874b220df5ec8861fe826b436c19f919d27328",
                 "shasum": ""
             },
             "require": {
@@ -193,9 +193,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.399.2"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.400.0"
             },
-            "time": "2026-10-06T22:19:35+00:00"
+            "time": "2026-10-08T18:13:44+00:00"
         },
         {
             "name": "behat/behat",
@@ -519,12 +519,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-gridfield-bulk-editing-tools.git",
-                "reference": "dd79d2fe4930a61d54fdbe6c9f4f920f8a516f23"
+                "reference": "316620276ffae6fc3443e86e3c21115d2f5be051"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-gridfield-bulk-editing-tools/zipball/dd79d2fe4930a61d54fdbe6c9f4f920f8a516f23",
-                "reference": "dd79d2fe4930a61d54fdbe6c9f4f920f8a516f23",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-gridfield-bulk-editing-tools/zipball/316620276ffae6fc3443e86e3c21115d2f5be051",
+                "reference": "316620276ffae6fc3443e86e3c21115d2f5be051",
                 "shasum": ""
             },
             "require": {
@@ -580,7 +580,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-gridfield-bulk-editing-tools/issues",
                 "source": "https://github.com/silverstripe/silverstripe-gridfield-bulk-editing-tools/tree/5"
             },
-            "time": "2026-08-27T01:16:29+00:00"
+            "time": "2026-10-08T19:55:58+00:00"
         },
         {
             "name": "composer/ca-bundle",
@@ -5970,16 +5970,16 @@
         },
         {
             "name": "silverstripe/behat-extension",
-            "version": "6.1.1",
+            "version": "6.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-behat-extension.git",
-                "reference": "7df54d41901b27e7c2fffe83057d30c636608459"
+                "reference": "5abfa61f345e995549b566257f62abcc1fa53e62"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-behat-extension/zipball/7df54d41901b27e7c2fffe83057d30c636608459",
-                "reference": "7df54d41901b27e7c2fffe83057d30c636608459",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-behat-extension/zipball/5abfa61f345e995549b566257f62abcc1fa53e62",
+                "reference": "5abfa61f345e995549b566257f62abcc1fa53e62",
                 "shasum": ""
             },
             "require": {
@@ -6031,9 +6031,9 @@
             ],
             "support": {
                 "issues": "https://github.com/silverstripe/silverstripe-behat-extension/issues",
-                "source": "https://github.com/silverstripe/silverstripe-behat-extension/tree/6.1.1"
+                "source": "https://github.com/silverstripe/silverstripe-behat-extension/tree/6.2.0"
             },
-            "time": "2026-01-22T02:28:06+00:00"
+            "time": "2026-10-08T22:22:47+00:00"
         },
         {
             "name": "silverstripe/campaign-admin",
@@ -8372,12 +8372,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-testsession.git",
-                "reference": "f8fa360b24107668f2246e20759c2a8fcbbe65d1"
+                "reference": "00956d52d0c25a508b1131d9b833fa921fd8ee24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-testsession/zipball/f8fa360b24107668f2246e20759c2a8fcbbe65d1",
-                "reference": "f8fa360b24107668f2246e20759c2a8fcbbe65d1",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-testsession/zipball/00956d52d0c25a508b1131d9b833fa921fd8ee24",
+                "reference": "00956d52d0c25a508b1131d9b833fa921fd8ee24",
                 "shasum": ""
             },
             "require": {
@@ -8423,7 +8423,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-testsession/issues",
                 "source": "https://github.com/silverstripe/silverstripe-testsession/tree/4"
             },
-            "time": "2026-09-11T00:46:55+00:00"
+            "time": "2026-10-08T22:28:10+00:00"
         },
         {
             "name": "silverstripe/textextraction",
